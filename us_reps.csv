@@ -1,4 +1,4 @@
-state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
+State,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
 OH,,S,D,Mr.,Sherrod,Brown,,503 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
 WA,,S,D,Ms.,Maria,Cantwell,,511 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
 MD,,S,D,Mr.,Benjamin L.,Cardin,,509 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
