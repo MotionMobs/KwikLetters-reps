@@ -1,2 +1,5 @@
-"State","District","Party","Official Full","Prefix","First Name","Last Name","Photo URL","Birthday","Gender","Address","Phone","Titles"
-"AL","ocd-division/country:us/state:al","Republican","Kay Ivey","Mrs.","Kay","Ivey","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait-Governor-Kay-Ivey.jpg/440px-Portrait-Governor-Kay-Ivey.jpg",1944-10-15,"F","600 Dexter Avenue; Montgomery, AL 36130",13342427100,"Governor of Alabama"
+"State"," Rep District","Senate District","Party","Prefix","First Name","Last Name","Suffix","Office Street Address","Office Street Address 2","City","State","Zip","Title","Photo URL"
+"AL",,,"R","Ms.","Kay","Ivey",,"State Capitol","600 Dextex Avenue","Montgomery","AL","3610-2751","Governor",
+"AL",46,,"R","Mr.","David","Faulkner",,"11 S. Union Street","Suite 400-D","Montgomery","AL",36130,"Reprentative",
+"CA",52,,"D","Mr.","Freddie","Rodriquez",,"PO Box 942849",,"Sacramento","CA","91249-052","Assemblymember",
+"AL",,15,"R","Mr.","Dan","Roberts",,"11 S. Union Street","Suite 729","Montgomery","AL",36130,"Senator",
