@@ -1,538 +1,544 @@
-State,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
-OH,,S,D,Mr.,Sherrod,Brown,,503 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WA,,S,D,Ms.,Maria,Cantwell,,511 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-MD,,S,D,Mr.,Benjamin L.,Cardin,,509 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-DE,,S,D,Mr.,Thomas Richard,Carper,,513 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-PA,,S,D,Mr.,Robert P.,Casey,Jr.,393 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-CA,,S,D,Ms.,Dianne,Feinstein,,331 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-MN,,S,D,Ms.,Amy Jean,Klobuchar,,425 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,
-NJ,,S,D,Mr.,Robert,Menendez,,528 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-VT,,S,I,Mr.,Bernard,Sanders,,332 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-MI,,S,D,Ms.,Debbie Ann,Stabenow,,731 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-MT,,S,D,Mr.,Jon,Tester,,311 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-RI,,S,D,Mr.,Sheldon,Whitehouse,,530 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WY,,S,R,Mr.,John A.,Barrasso,,307 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-MS,,S,R,Mr.,Roger F.,Wicker,,555 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-TN,,S,R,Mr.,Lamar,Alexander,,455 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-ME,,S,R,Ms.,Susan M.,Collins,,413 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,
-TX,,S,R,Mr.,John,Cornyn,,517 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-IL,,S,D,Mr.,Richard J.,Durbin,,711 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WY,,S,R,Mr.,Michael B.,Enzi,,379A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-SC,,S,R,Mr.,Lindsey O.,Graham,,290 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-OK,,S,R,Mr.,James M.,Inhofe,,205 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-KY,,S,R,Mr.,Mitch,McConnell,,317 Russell Senate Office Building,,Washington,DC,20510,Senator,Senate Majority Leader,M,
-OR,,S,D,Mr.,Jeff,Merkley,,313 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-RI,,S,D,Mr.,John F.,Reed,,728 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-ID,,S,R,Mr.,James,Risch,,483 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-KS,,S,R,Mr.,Pat,Roberts,,109 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-NH,,S,D,Ms.,Jeanne,Shaheen,,506 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-NM,,S,D,Mr.,Tom S.,Udall,,531 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-VA,,S,D,Mr.,Mark,Warner,,703 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-NY,,S,D,Ms.,Kirsten E.,Gillibrand,,478 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-DE,,S,D,Mr.,Chris Andrew,Coons,,218 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-WV,,S,D,Mr.,Joe,Manchin,III,306 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-AL,1,,R,Mr.,Sam,Levin - Distr 1,,119 Cannon House Office Building;,,Washington,DC,20515-0101,Representative,,M,http://clerk.house.gov/members/B001289
-MI,3,,I,Mr.,Justin,Amash,,106 Cannon House Office Building;,,Washington,DC,20515-2203,Representative,,M,
-WI,,S,D,Ms.,Tammy,Baldwin,,709 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-CA,37,,D,Ms.,Karen,Bass,,2059 Rayburn House Office Building;,,Washington,DC,20515-0537,Representative,,F,
-CO,,S,D,Mr.,Michael F.,Bennet,,261 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-FL,12,,R,Mr.,Gus M.,Bilirakis,,2227 Rayburn House Office Building;,,Washington,DC,20515-0912,Representative,,M,
-UT,1,,R,Mr.,Rob,Bishop,,123 Cannon House Office Building;,,Washington,DC,20515-4401,Representative,,M,
-GA,2,,D,Mr.,Sanford D.,Bishop,Jr.,2407 Rayburn House Office Building;,,Washington,DC,20515-1002,Representative,,M,
-TN,,S,R,Ms.,Marsha W.,Blackburn,,357 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,
-OR,3,,D,Mr.,Earl,Blumenauer,,1111 Longworth House Office Building;,,Washington,DC,20515-3703,Representative,,M,
-CT,,S,D,Mr.,Richard,Blumenthal,,706 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-MO,,S,R,Mr.,Roy,Blunt,,260 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-AR,,S,R,Mr.,John,Boozman,,141 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-TX,8,,R,Mr.,Kevin P.,Brady,,1011 Longworth House Office Building;,,Washington,DC,20515-4308,Representative,,M,
-AL,2,,R,Ms.,Sam,Levin - Dist 2,,504 Cannon House Office Building;,,Washington,DC,20515-0102,Representative,,F,http://clerk.house.gov/members/R000591
-FL,16,,R,Mr.,Vern,Buchanan,,2427 Rayburn House Office Building;,,Washington,DC,20515-0916,Representative,,M,
-IN,8,,R,Mr.,Larry,Bucshon,,2313 Rayburn House Office Building;,,Washington,DC,20515-1408,Representative,,M,
-TX,26,,R,Mr.,Michael C.,Burgess,,2161 Rayburn House Office Building;,,Washington,DC,20515-4326,Representative,,M,
-NC,,S,R,Mr.,Richard M.,Burr,,217 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-NC,1,,D,Mr.,George Kenneth,Butterfield,Jr.,2080 Rayburn House Office Building;,,Washington,DC,20515-3301,Representative,,M,
-CA,42,,R,Mr.,Ken S.,Calvert,,2205 Rayburn House Office Building;,,Washington,DC,20515-0542,Representative,,M,
-WV,,S,R,Ms.,Shelley Moore,Capito,,172 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-IN,7,,D,Mr.,André,Carson,,2135 Rayburn House Office Building;,,Washington,DC,20515-1407,Representative,,M,
-TX,31,,R,Mr.,John R.,Carter,,2110 Rayburn House Office Building;,,Washington,DC,20515-4331,Representative,,M,
-LA,,S,R,Mr.,Bill,Cassidy,,520 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-FL,14,,D,Ms.,Kathy,Castor,,2052 Rayburn House Office Building;,,Washington,DC,20515-0914,Representative,,F,
-OH,1,,R,Mr.,Steve J.,Chabot,,2408 Rayburn House Office Building;,,Washington,DC,20515-3501,Representative,,M,
-CA,27,,D,Ms.,Judy M.,Chu,,2423 Rayburn House Office Building;,,Washington,DC,20515-0527,Representative,,F,
-RI,1,,D,Mr.,David N.,Cicilline,,2233 Rayburn House Office Building;,,Washington,DC,20515-3901,Representative,,M,
-NY,9,,D,Ms.,Yvette D.,Clarke,,2058 Rayburn House Office Building;,,Washington,DC,20515-3209,Representative,,F,
-MO,1,,D,Mr.,Wm. Lacy,Clay,Jr.,2428 Rayburn House Office Building;,,Washington,DC,20515-2501,Representative,,M,
-MO,5,,D,Mr.,Emanuel,Cleaver,II,2335 Rayburn House Office Building;,,Washington,DC,20515-2505,Representative,,M,
-SC,6,,D,Mr.,James E.,Clyburn,,200 Cannon House Office Building;,,Washington,DC,20515-4006,Representative,,M,
-TN,9,,D,Mr.,Steve,Cohen,,2104 Rayburn House Office Building;,,Washington,DC,20515-4209,Representative,,M,
-OK,4,,R,Mr.,Tom,Cole,,2207 Rayburn House Office Building;,,Washington,DC,20515-3604,Representative,,M,
-TX,11,,R,Mr.,K. Michael,Conaway,,2469 Rayburn House Office Building;,,Washington,DC,20515-4311,Representative,,M,
-VA,11,,D,Mr.,Gerald E.,Connolly,,2238 Rayburn House Office Building;,,Washington,DC,20515-4611,Representative,,M,
-TN,5,,D,Mr.,Jim,Cooper,,1536 Longworth House Office Building;,,Washington,DC,20515-4205,Representative,,M,
-CA,16,,D,Mr.,Jim,Costa,,2081 Rayburn House Office Building;,,Washington,DC,20515-0516,Representative,,M,
-CT,2,,D,Mr.,Joe,Courtney,,2332 Rayburn House Office Building;,,Washington,DC,20515-0702,Representative,,M,
-ID,,S,R,Mr.,Michael D.,Crapo,,239 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-AR,1,,R,Mr.,Eric A.,Crawford,,2422 Rayburn House Office Building;,,Washington,DC,20515-0401,Representative,,M,
-TX,28,,D,Mr.,Henry,Cuellar,,2372 Rayburn House Office Building;,,Washington,DC,20515-4328,Representative,,M,
-IL,7,,D,Mr.,Danny K.,Davis,,2159 Rayburn House Office Building;,,Washington,DC,20515-1307,Representative,,M,
-CA,53,,D,Ms.,Susan A.,Davis,,1214 Longworth House Office Building;,,Washington,DC,20515-0553,Representative,,F,
-OR,4,,D,Mr.,Peter A.,DeFazio,,2134 Rayburn House Office Building;,,Washington,DC,20515-3704,Representative,,M,
-CO,1,,D,Ms.,Diana L.,DeGette,,2111 Rayburn House Office Building;,,Washington,DC,20515-0601,Representative,,F,
-CT,3,,D,Ms.,Rosa L.,DeLauro,,2413 Rayburn House Office Building;,,Washington,DC,20515-0703,Representative,,F,
-TN,4,,R,Mr.,Scott,DesJarlais,,2301 Rayburn House Office Building;,,Washington,DC,20515-4204,Representative,,M,
-FL,22,,D,Mr.,Theodore E.,Deutch,,2447 Rayburn House Office Building;,,Washington,DC,20515-0922,Representative,,M,
-FL,25,,R,Mr.,Mario,Diaz-Balart,,404 Cannon House Office Building;,,Washington,DC,20515-0925,Representative,,M,
-TX,35,,D,Mr.,Lloyd A.,Doggett,,2307 Rayburn House Office Building;,,Washington,DC,20515-4335,Representative,,M,
-PA,18,,D,Mr.,Michael F.,Doyle,Jr.,306 Cannon House Office Building;,,Washington,DC,20515-3818,Representative,,M,
-SC,3,,R,Mr.,Jeff,Duncan,,2229 Rayburn House Office Building;,,Washington,DC,20515-4003,Representative,,M,
-NY,16,,D,Mr.,Eliot L.,Engel,,2426 Rayburn House Office Building;,,Washington,DC,20515-3216,Representative,,M,
-CA,18,,D,Ms.,Anna G.,Eshoo,,202 Cannon House Office Building;,,Washington,DC,20515-0518,Representative,,F,
-TN,3,,R,Mr.,Charles J.,Fleischmann,,2410 Rayburn House Office Building;,,Washington,DC,20515-4203,Representative,,M,
-TX,17,,R,Mr.,Bill,Flores,,2228 Rayburn House Office Building;,,Washington,DC,20515-4317,Representative,,M,
-NE,1,,R,Mr.,Jeff Lane,Fortenberry,,1514 Longworth House Office Building;,,Washington,DC,20515-2701,Representative,,M,
-NC,5,,R,Ms.,Virginia,Foxx,,2462 Rayburn House Office Building;,,Washington,DC,20515-3305,Representative,,F,
-OH,11,,D,Ms.,Marcia L.,Fudge,,2344 Rayburn House Office Building;,,Washington,DC,20515-3511,Representative,,F,
-CA,3,,D,Mr.,John,Garamendi,,2368 Rayburn House Office Building;,,Washington,DC,20515-0503,Representative,,M,
-CO,,S,R,Mr.,Cory,Gardner,,354 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-OH,7,,R,Mr.,Bob,Gibbs,,2446 Rayburn House Office Building;,,Washington,DC,20515-3507,Representative,,M,
-TX,1,,R,Mr.,Louie B.,Gohmert,Jr.,2267 Rayburn House Office Building;,,Washington,DC,20515-4301,Representative,,M,
-AZ,4,,R,Mr.,Paul A.,Gosar,,2057 Rayburn House Office Building;,,Washington,DC,20515-0304,Representative,,M,
-TX,12,,R,Ms.,Kay,Granger,,1026 Longworth House Office Building;,,Washington,DC,20515-4312,Representative,,F,
-IA,,S,R,Mr.,Charles E.,Grassley,,135 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-MO,6,,R,Mr.,Sam B.,Graves,,1135 Longworth House Office Building;,,Washington,DC,20515-2506,Representative,,M,
-GA,14,,R,Mr.,Tom,Graves,,2078 Rayburn House Office Building;,,Washington,DC,20515-1014,Representative,,M,
-TX,9,,D,Mr.,Al,Green,,2347 Rayburn House Office Building;,,Washington,DC,20515-4309,Representative,,M,
-VA,9,,R,Mr.,H. Morgan,Griffith,,2202 Rayburn House Office Building;,,Washington,DC,20515-4609,Representative,,M,
-AZ,3,,D,Mr.,Raúl M.,Grijalva,,1511 Longworth House Office Building;,,Washington,DC,20515-0303,Representative,,M,
-KY,2,,R,Mr.,Brett,Guthrie,,2434 Rayburn House Office Building;,,Washington,DC,20515-1702,Representative,,M,
-MD,1,,R,Mr.,Andy,Harris,,2334 Rayburn House Office Building;,,Washington,DC,20515-2001,Representative,,M,
-MO,4,,R,Ms.,Vicky,Hartzler,,2235 Rayburn House Office Building;,,Washington,DC,20515-2504,Representative,,F,
-FL,20,,D,Mr.,Alcee L.,Hastings,,2353 Rayburn House Office Building;,,Washington,DC,20515-0920,Representative,,M,
-NM,,S,D,Mr.,Martin,Heinrich,,303 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WA,3,,R,Ms.,Jaime,Herrera Beutler,,2352 Rayburn House Office Building;,,Washington,DC,20515-4703,Representative,,F,
-NY,26,,D,Mr.,Brian M.,Higgins,,2459 Rayburn House Office Building;,,Washington,DC,20515-3226,Representative,,M,
-CT,4,,D,Mr.,James A.,Himes,,1227 Longworth House Office Building;,,Washington,DC,20515-0704,Representative,,M,
-HI,,S,D,Ms.,Mazie K.,Hirono,,713 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-ND,,S,R,Mr.,John,Hoeven,,338 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-MD,5,,D,Mr.,Steny H.,Hoyer,,1705 Longworth House Office Building;,,Washington,DC,20515-2005,Representative,House Majority Leader,M,
-MI,2,,R,Mr.,Bill,Huizenga,,2232 Rayburn House Office Building;,,Washington,DC,20515-2202,Representative,,M,
-TX,18,,D,Ms.,Sheila,Jackson Lee,,2079 Rayburn House Office Building;,,Washington,DC,20515-4318,Representative,,F,
-OH,6,,R,Mr.,Bill,Johnson,,2336 Rayburn House Office Building;,,Washington,DC,20515-3506,Representative,,M,
-TX,30,,D,Ms.,Eddie Bernice,Johnson,,2306 Rayburn House Office Building;,,Washington,DC,20515-4330,Representative,,F,
-GA,4,,D,Mr.,Henry C.,Johnson,Jr.,2240 Rayburn House Office Building;,,Washington,DC,20515-1004,Representative,,M,
-WI,,S,R,Mr.,Ron,Johnson,,328 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-OH,4,,R,Mr.,Jim,Jordan,,2056 Rayburn House Office Building;,,Washington,DC,20515-3504,Representative,,M,
-OH,9,,D,Ms.,Marcy,Kaptur,,2186 Rayburn House Office Building;,,Washington,DC,20515-3509,Representative,,F,
-MA,9,,D,Mr.,William R.,Keating,,2351 Rayburn House Office Building;,,Washington,DC,20515-2109,Representative,,M,
-PA,16,,R,Mr.,Mike,Kelly,,1707 Longworth House Office Building;,,Washington,DC,20515-3816,Representative,,M,
-WI,3,,D,Mr.,Ron James,Kind,,1502 Longworth House Office Building;,,Washington,DC,20515-4903,Representative,,M,
-NY,2,,R,Mr.,Peter T.,King,,302 Cannon House Office Building;,,Washington,DC,20515-3202,Representative,,M,
-IA,4,,R,Mr.,Steve A.,King,,2210 Rayburn House Office Building;,,Washington,DC,20515-1504,Representative,,M,
-IL,16,,R,Mr.,Adam,Kinzinger,,2245 Rayburn House Office Building;,,Washington,DC,20515-1316,Representative,,M,
-CO,5,,R,Mr.,Doug,Lamborn,,2371 Rayburn House Office Building;,,Washington,DC,20515-0605,Representative,,M,
-RI,2,,D,Mr.,James R.,Langevin,,2077 Rayburn House Office Building;,,Washington,DC,20515-3902,Representative,,M,
-OK,,S,R,Mr.,James,Lankford,,316 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WA,2,,D,Mr.,Rick,Larsen,,2113 Rayburn House Office Building;,,Washington,DC,20515-4702,Representative,,M,
-CT,1,,D,Mr.,John B.,Larson,,1501 Longworth House Office Building;,,Washington,DC,20515-0701,Representative,,M,
-OH,5,,R,Mr.,Robert E.,Latta,,2467 Rayburn House Office Building;,,Washington,DC,20515-3505,Representative,,M,
-VT,,S,D,Mr.,Patrick J.,Leahy,,437 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-CA,13,,D,Ms.,Barbara,Lee,,2470 Rayburn House Office Building;,,Washington,DC,20515-0513,Representative,,F,
-UT,,S,R,Mr.,Mike,Lee,,361A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-GA,5,,D,Mr.,John R.,Lewis,,300 Cannon House Office Building;,,Washington,DC,20515-1005,Representative,,M,
-IL,3,,D,Mr.,Daniel William,Lipinski,,2346 Rayburn House Office Building;,,Washington,DC,20515-1303,Representative,,M,
-IA,2,,D,Mr.,David,Loebsack,,1211 Longworth House Office Building;,,Washington,DC,20515-1502,Representative,,M,
-CA,19,,D,Ms.,Zoe,Lofgren,,1401 Longworth House Office Building;,,Washington,DC,20515-0519,Representative,,F,
-MO,7,,R,Mr.,Billy,Long,,2454 Rayburn House Office Building;,,Washington,DC,20515-2507,Representative,,M,
-NY,17,,D,Ms.,Nita M.,Lowey,,2365 Rayburn House Office Building;,,Washington,DC,20515-3217,Representative,,F,
-OK,3,,R,Mr.,Frank D.,Lucas,,2405 Rayburn House Office Building;,,Washington,DC,20515-3603,Representative,,M,
-MO,3,,R,Mr.,Blaine,Luetkemeyer,,2230 Rayburn House Office Building;,,Washington,DC,20515-2503,Representative,,M,
-NM,3,,D,Mr.,Ben Ray,Luján,,2323 Rayburn House Office Building;,,Washington,DC,20515-3103,Representative,Assistant Speaker of the House,M,
-MA,8,,D,Mr.,Stephen F.,Lynch,,2109 Rayburn House Office Building;,,Washington,DC,20515-2108,Representative,,M,
-NY,12,,D,Ms.,Carolyn B.,Maloney,,2308 Rayburn House Office Building;,,Washington,DC,20515-3212,Representative,,F,
-TX,24,,R,Mr.,Kenny Ewell,Marchant,,2304 Rayburn House Office Building;,,Washington,DC,20515-4324,Representative,,M,
-MA,,S,D,Mr.,Edward J.,Markey,,255 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-CA,6,,D,Ms.,Doris O.,Matsui,,2311 Rayburn House Office Building;,,Washington,DC,20515-0506,Representative,,F,
-CA,23,,R,Mr.,Kevin,McCarthy,,2468 Rayburn House Office Building;,,Washington,DC,20515-0523,Representative,House Minority Leader,M,
-TX,10,,R,Mr.,Michael T.,McCaul,,2001 Rayburn House Office Building;,,Washington,DC,20515-4310,Representative,,M,
-CA,4,,R,Mr.,Tom,McClintock,,2312 Rayburn House Office Building;,,Washington,DC,20515-0504,Representative,,M,
-MN,4,,D,Ms.,Betty Louise,McCollum,,2256 Rayburn House Office Building;,,Washington,DC,20515-2304,Representative,,F,
-MA,2,,D,Mr.,James P.,McGovern,,408 Cannon House Office Building;,,Washington,DC,20515-2102,Representative,,M,
-NC,10,,R,Mr.,Patrick T.,McHenry,,2004 Rayburn House Office Building;,,Washington,DC,20515-3310,Representative,,M,
-WV,1,,R,Mr.,David B.,McKinley,,2239 Rayburn House Office Building;,,Washington,DC,20515-4801,Representative,,M,
-WA,5,,R,Ms.,Cathy,McMorris Rodgers,,1035 Longworth House Office Building;,,Washington,DC,20515-4705,Representative,,F,
-CA,9,,D,Mr.,Jerry,McNerney,,2265 Rayburn House Office Building;,,Washington,DC,20515-0509,Representative,,M,
-NY,5,,D,Mr.,Gregory W.,Meeks,,2310 Rayburn House Office Building;,,Washington,DC,20515-3205,Representative,,M,
-WI,4,,D,Ms.,Gwen,Moore,,2252 Rayburn House Office Building;,,Washington,DC,20515-4904,Representative,,F,
-KS,,S,R,Mr.,Jerry,Moran,,521 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-AK,,S,R,Ms.,Lisa A.,Murkowski,,522 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-CT,,S,D,Mr.,Christopher S.,Murphy,,136 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WA,,S,D,Ms.,Patty,Murray,,154 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-NY,10,,D,Mr.,Jerrold L.,Nadler,,2132 Rayburn House Office Building;,,Washington,DC,20515-3210,Representative,,M,
-CA,32,,D,Ms.,Grace F.,Napolitano,,1610 Longworth House Office Building;,,Washington,DC,20515-0532,Representative,,F,
-MA,1,,D,Mr.,Richard E.,Neal,,2309 Rayburn House Office Building;,,Washington,DC,20515-2101,Representative,,M,
-DC,0,,D,Ms.,Eleanor Holmes,Norton,,2136 Rayburn House Office Building;,,Washington,DC,20515-5101,Representative,,F,
-CA,22,,R,Mr.,Devin G.,Nunes,,1013 Longworth House Office Building;,,Washington,DC,20515-0522,Representative,,M,
-TX,22,,R,Mr.,Pete,Olson,,2133 Rayburn House Office Building;,,Washington,DC,20515-4322,Representative,,M,
-MS,4,,R,Mr.,Steven M.,Palazzo,,2349 Rayburn House Office Building;,,Washington,DC,20515-2404,Representative,,M,
-NJ,6,,D,Mr.,Frank J.,Pallone,Jr.,2107 Rayburn House Office Building;,,Washington,DC,20515-3006,Representative,,M,
-NJ,9,,D,Mr.,Bill J.,Pascrell,Jr.,2409 Rayburn House Office Building;,,Washington,DC,20515-3009,Representative,,M,
-KY,,S,R,Mr.,Rand,Paul,,167 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-CA,12,,D,Ms.,Nancy,Pelosi,,1236 Longworth House Office Building;,,Washington,DC,20515-0512,Representative,Speaker of the House,F,
-CO,7,,D,Mr.,Ed,Perlmutter,,1226 Longworth House Office Building;,,Washington,DC,20515-0607,Representative,,M,
-MI,,S,D,Mr.,Gary C.,Peters,,724 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-MN,7,,D,Mr.,Collin Clark,Peterson,,2204 Rayburn House Office Building;,,Washington,DC,20515-2307,Representative,,M,
-ME,1,,D,Ms.,Chellie,Pingree,,2162 Rayburn House Office Building;,,Washington,DC,20515-1901,Representative,,F,
-OH,,S,R,Mr.,Robert J.,Portman,,448 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-FL,8,,R,Mr.,Bill,Posey,,2150 Rayburn House Office Building;,,Washington,DC,20515-0908,Representative,,M,
-NC,4,,D,Mr.,David E.,Price,,2108 Rayburn House Office Building;,,Washington,DC,20515-3304,Representative,,M,
-IL,5,,D,Mr.,Mike,Quigley,,2458 Rayburn House Office Building;,,Washington,DC,20515-1305,Representative,,M,
-NY,23,,R,Mr.,Tom W.,Reed,II,2263 Rayburn House Office Building;,,Washington,DC,20515-3223,Representative,,M,
-LA,2,,D,Mr.,Cedric L.,Richmond,,506 Cannon House Office Building;,,Washington,DC,20515-1802,Representative,,M,
-AL,3,,R,Mr.,Sam,Levin - Dist 3,,2184 Rayburn House Office Building;,,Washington,DC,20515-0103,Representative,,M,http://clerk.house.gov/members/R000575
-TN,1,,R,Mr.,David P.,Roe,,102 Cannon House Office Building;,,Washington,DC,20515-4201,Representative,,M,
-KY,5,,R,Mr.,Harold,Rogers,,2406 Rayburn House Office Building;,,Washington,DC,20515-1705,Representative,,M,
-AL,4,,R,Mr.,Robert B.,Aderholt,,1203 Longworth House Office Building;,,Washington,DC,20515-0104,Representative,,M,http://clerk.house.gov/members/A000055
-CA,40,,D,Ms.,Lucille,Roybal-Allard,,2083 Rayburn House Office Building;,,Washington,DC,20515-0540,Representative,,F,http://clerk.house.gov/members/B001274
-FL,,S,R,Mr.,Marco,Rubio,,284 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,http://clerk.house.gov/members/P000609
-MD,2,,D,Mr.,C. A. Dutch,Ruppersberger,,2206 Rayburn House Office Building;,,Washington,DC,20515-2002,Representative,,M,http://clerk.house.gov/members/S001185
-IL,1,,D,Mr.,Bobby L.,Rush,,2188 Rayburn House Office Building;,,Washington,DC,20515-1301,Representative,,M,
-OH,13,,D,Mr.,Tim J.,Ryan,,1126 Longworth House Office Building;,,Washington,DC,20515-3513,Representative,,M,
-MP,0,,D,Mr.,Gregorio Kilili Camacho,Sablan,,2411 Rayburn House Office Building;,,Washington,DC,20515-5201,Representative,,M,
-MD,3,,D,Mr.,John P.,Sarbanes,,2370 Rayburn House Office Building;,,Washington,DC,20515-2003,Representative,,M,
-LA,1,,R,Mr.,Steve Joseph,Scalise,,2049 Rayburn House Office Building;,,Washington,DC,20515-1801,Representative,,M,
-IL,9,,D,Ms.,Janice D.,Schakowsky,,2367 Rayburn House Office Building;,,Washington,DC,20515-1309,Representative,,F,
-CA,28,,D,Mr.,Adam B.,Schiff,,2269 Rayburn House Office Building;,,Washington,DC,20515-0528,Representative,,M,
-OR,5,,D,Mr.,Kurt,Schrader,,2431 Rayburn House Office Building;,,Washington,DC,20515-3705,Representative,,M,
-NY,,S,D,Mr.,Charles E.,Schumer,,322 Hart Senate Office Building,,Washington,DC,20510,Senator,Senate Minority Leader,M,
-AZ,6,,R,Mr.,David,Schweikert,,1526 Longworth House Office Building;,,Washington,DC,20515-0306,Representative,,M,
-GA,8,,R,Mr.,Austin,Scott,,2417 Rayburn House Office Building;,,Washington,DC,20515-1008,Representative,,M,
-GA,13,,D,Mr.,David,Scott,,225 Cannon House Office Building;,,Washington,DC,20515-1013,Representative,,M,
-VA,3,,D,Mr.,Robert C.,Scott,,1201 Longworth House Office Building;,,Washington,DC,20515-4603,Representative,,M,
-SC,,S,R,Mr.,Tim,Scott,,104 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-WI,5,,R,Mr.,F. James,Sensenbrenner,Jr.,2449 Rayburn House Office Building;,,Washington,DC,20515-4905,Representative,,M,
-NY,15,,D,Mr.,José E.,Serrano,,2354 Rayburn House Office Building;,,Washington,DC,20515-3215,Representative,,M,
-AL,5,,R,Mr.,Sam,Levin - Dist 5,,2246 Rayburn House Office Building;,,Washington,DC,20515-0105,Representative,,M,http://clerk.house.gov/members/B001274
-AL,6,,R,Mr.,Sam,Levin - District 6,,207 Cannon House Office Building;,,Washington,DC,20515-0106,Representative,,M,http://clerk.house.gov/members/P000609
-CA,30,,D,Mr.,Brad J.,Sherman,,2181 Rayburn House Office Building;,,Washington,DC,20515-0530,Representative,,M,
-IL,15,,R,Mr.,John M.,Shimkus,,2217 Rayburn House Office Building;,,Washington,DC,20515-1315,Representative,,M,
-ID,2,,R,Mr.,Michael K.,Simpson,,2084 Rayburn House Office Building;,,Washington,DC,20515-1202,Representative,,M,
-NJ,8,,D,Mr.,Albio,Sires,,2268 Rayburn House Office Building;,,Washington,DC,20515-3008,Representative,,M,
-WA,9,,D,Mr.,Adam,Smith,,2264 Rayburn House Office Building;,,Washington,DC,20515-4709,Representative,,M,
-NE,3,,R,Mr.,Adrian,Smith,,502 Cannon House Office Building;,,Washington,DC,20515-2703,Representative,,M,
-NJ,4,,R,Mr.,Christopher H.,Smith,,2373 Rayburn House Office Building;,,Washington,DC,20515-3004,Representative,,M,
-CA,14,,D,Ms.,Jackie,Speier,,2465 Rayburn House Office Building;,,Washington,DC,20515-0514,Representative,,F,
-OH,15,,R,Mr.,Steve,Stivers,,2234 Rayburn House Office Building;,,Washington,DC,20515-3515,Representative,,M,
-CA,38,,D,Ms.,Linda T.,Sánchez,,2329 Rayburn House Office Building;,,Washington,DC,20515-0538,Representative,,F,
-MS,2,,D,Mr.,Bennie G.,Thompson,,2466 Rayburn House Office Building;,,Washington,DC,20515-2402,Representative,,M,
-CA,5,,D,Mr.,Mike Michael,Thompson,,406 Cannon House Office Building;,,Washington,DC,20515-0505,Representative,,M,
-PA,15,,R,Mr.,Glenn,Thompson,,400 Cannon House Office Building;,,Washington,DC,20515-3815,Representative,,M,
-TX,13,,R,Mr.,Mac M.,Thornberry,,2208 Rayburn House Office Building;,,Washington,DC,20515-4313,Representative,,M,
-SD,,S,R,Mr.,John,Thune,,511 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-CO,3,,R,Mr.,Scott R.,Tipton,,218 Cannon House Office Building;,,Washington,DC,20515-0603,Representative,,M,
-NY,20,,D,Mr.,Paul,Tonko,,2369 Rayburn House Office Building;,,Washington,DC,20515-3220,Representative,,M,
-PA,,S,R,Mr.,Patrick J.,Toomey,,248 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-OH,10,,R,Mr.,Michael R.,Turner,,2082 Rayburn House Office Building;,,Washington,DC,20515-3510,Representative,,M,
-MI,6,,R,Mr.,Fred Stephen,Upton,,2183 Rayburn House Office Building;,,Washington,DC,20515-2206,Representative,,M,
-MD,,S,D,Mr.,Chris,Van Hollen,Jr.,110 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-NY,7,,D,Ms.,Nydia M.,Velázquez,,2302 Rayburn House Office Building;,,Washington,DC,20515-3207,Representative,,F,
-IN,1,,D,Mr.,Peter J.,Visclosky,,2328 Rayburn House Office Building;,,Washington,DC,20515-1401,Representative,,M,
-MI,7,,R,Mr.,Tim,Walberg,,2266 Rayburn House Office Building;,,Washington,DC,20515-2207,Representative,,M,
-OR,2,,R,Mr.,Greg P.,Walden,,2185 Rayburn House Office Building;,,Washington,DC,20515-3702,Representative,,M,
-FL,23,,D,Ms.,Debbie,Wasserman Schultz,,1114 Longworth House Office Building;,,Washington,DC,20515-0923,Representative,,F,
-CA,43,,D,Ms.,Maxine,Waters,,2221 Rayburn House Office Building;,,Washington,DC,20515-0543,Representative,,F,
-FL,11,,R,Mr.,Daniel,Webster,,1210 Longworth House Office Building;,,Washington,DC,20515-0911,Representative,,M,
-VT,0,,D,Mr.,Peter,Welch,,2187 Rayburn House Office Building;,,Washington,DC,20515-4500,Representative,,M,
-SC,2,,R,Mr.,Joe G.,Wilson,,1436 Longworth House Office Building;,,Washington,DC,20515-4002,Representative,,M,
-FL,24,,D,Ms.,Frederica S.,Wilson,,2445 Rayburn House Office Building;,,Washington,DC,20515-0924,Representative,,F,
-VA,1,,R,Mr.,Robert J.,Wittman,,2055 Rayburn House Office Building;,,Washington,DC,20515-4601,Representative,,M,
-AR,3,,R,Mr.,Steve,Womack,,2412 Rayburn House Office Building;,,Washington,DC,20515-0403,Representative,,M,
-GA,7,,R,Mr.,Rob,Woodall,,1724 Longworth House Office Building;,,Washington,DC,20515-1007,Representative,,M,
-OR,,S,D,Mr.,Ron,Wyden,,221 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-KY,3,,D,Mr.,John A.,Yarmuth,,402 Cannon House Office Building;,,Washington,DC,20515-1703,Representative,,M,
-AK,0,,R,Mr.,Don E.,Young,,2314 Rayburn House Office Building;,,Washington,DC,20515-0200,Representative,,M,
-IN,,S,R,Mr.,Todd C.,Young,,185 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-NV,2,,R,Mr.,Mark E.,Amodei,,104 Cannon House Office Building;,,Washington,DC,20515-2802,Representative,,M,
-OR,1,,D,Ms.,Suzanne,Bonamici,,2231 Rayburn House Office Building;,,Washington,DC,20515-3701,Representative,,F,
-WA,1,,D,Ms.,Suzan K.,DelBene,,2330 Rayburn House Office Building;,,Washington,DC,20515-4701,Representative,,F,
-KY,4,,R,Mr.,Thomas,Massie,,2453 Rayburn House Office Building;,,Washington,DC,20515-1704,Representative,,M,
-NJ,10,,D,Mr.,Donald M.,Payne,Jr.,103 Cannon House Office Building;,,Washington,DC,20515-3010,Representative,,M,
-HI,,S,D,Mr.,Brian Emanuel,Schatz,,722 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-IL,11,,D,Mr.,Bill,Foster,,2366 Rayburn House Office Building;,,Washington,DC,20515-1311,Representative,,M,
-NV,1,,D,Ms.,Dina,Titus,,2464 Rayburn House Office Building;,,Washington,DC,20515-2801,Representative,,F,
-AR,,S,R,Mr.,Tom,Cotton,,326 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-AZ,,S,D,Ms.,Kyrsten,Sinema,,317 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-CA,1,,R,Mr.,Doug,LaMalfa,,322 Cannon House Office Building;,,Washington,DC,20515-0501,Representative,,M,
-CA,2,,D,Mr.,Jared,Huffman,,1527 Longworth House Office Building;,,Washington,DC,20515-0502,Representative,,M,
-CA,7,,D,Mr.,Ami,Bera,,1727 Longworth House Office Building;,,Washington,DC,20515-0507,Representative,,M,
-CA,8,,R,Mr.,Paul,Cook,,1027 Longworth House Office Building;,,Washington,DC,20515-0508,Representative,,M,
-CA,15,,D,Mr.,Eric,Swalwell,,407 Cannon House Office Building;,,Washington,DC,20515-0515,Representative,,M,
-CA,26,,D,Ms.,Julia,Brownley,,2262 Rayburn House Office Building;,,Washington,DC,20515-0526,Representative,,F,
-CA,29,,D,Mr.,Tony,Cárdenas,,2438 Rayburn House Office Building;,,Washington,DC,20515-0529,Representative,,M,
-CA,36,,D,Mr.,Raul,Ruiz,,2342 Rayburn House Office Building;,,Washington,DC,20515-0536,Representative,,M,
-CA,41,,D,Mr.,Mark,Takano,,420 Cannon House Office Building;,,Washington,DC,20515-0541,Representative,,M,
-CA,47,,D,Mr.,Alan S.,Lowenthal,,108 Cannon House Office Building;,,Washington,DC,20515-0547,Representative,,M,
-CA,51,,D,Mr.,Juan,Vargas,,2244 Rayburn House Office Building;,,Washington,DC,20515-0551,Representative,,M,
-CA,52,,D,Mr.,Scott H.,Peters,,2338 Rayburn House Office Building;,,Washington,DC,20515-0552,Representative,,M,
-FL,3,,R,Mr.,Ted S.,Yoho,,1730 Longworth House Office Building;,,Washington,DC,20515-0903,Representative,,M,
-FL,21,,D,Ms.,Lois,Frankel,,2305 Rayburn House Office Building;,,Washington,DC,20515-0921,Representative,,F,
-GA,9,,R,Mr.,Doug,Collins,,1504 Longworth House Office Building;,,Washington,DC,20515-1009,Representative,,M,
-HI,2,,D,Ms.,Tulsi,Gabbard,,1433 Longworth House Office Building;,,Washington,DC,20515-1102,Representative,,F,
-IL,,S,D,Ms.,Tammy,Duckworth,,524 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-IL,13,,R,Mr.,Rodney,Davis,,1740 Longworth House Office Building;,,Washington,DC,20515-1313,Representative,,M,
-IL,17,,D,Ms.,Cheri,Bustos,,1233 Longworth House Office Building;,,Washington,DC,20515-1317,Representative,,F,
-IN,2,,R,Ms.,Jackie,Walorski,,419 Cannon House Office Building;,,Washington,DC,20515-1402,Representative,,F,
-IN,5,,R,Ms.,Susan W.,Brooks,,2211 Rayburn House Office Building;,,Washington,DC,20515-1405,Representative,,F,
-KY,6,,R,Mr.,Garland,Barr,,2430 Rayburn House Office Building;,,Washington,DC,20515-1706,Representative,,M,
-MA,,S,D,Ms.,Elizabeth,Warren,,309 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-MA,4,,D,Mr.,Joseph P.,Kennedy,III,304 Cannon House Office Building;,,Washington,DC,20515-2104,Representative,,M,
-ME,,S,I,Mr.,Angus,King,,133 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-MI,5,,D,Mr.,Daniel T.,Kildee,,203 Cannon House Office Building;,,Washington,DC,20515-2205,Representative,,M,
-MO,2,,R,Ms.,Ann,Wagner,,2350 Rayburn House Office Building;,,Washington,DC,20515-2502,Representative,,F,
-MT,,S,R,Mr.,Steve,Daines,,320 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-NC,8,,R,Mr.,Richard,Hudson,,2112 Rayburn House Office Building;,,Washington,DC,20515-3308,Representative,,M,
-NC,2,,R,Mr.,George,Holding,,1110 Longworth House Office Building;,,Washington,DC,20515-3302,Representative,,M,
-ND,,S,R,Mr.,Kevin,Cramer,,400 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-NE,,S,R,Ms.,Deb,Fischer,,454 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-NH,2,,D,Ms.,Ann M.,Kuster,,320 Cannon House Office Building;,,Washington,DC,20515-2902,Representative,,F,
-NY,6,,D,Ms.,Grace,Meng,,2209 Rayburn House Office Building;,,Washington,DC,20515-3206,Representative,,F,
-NY,8,,D,Mr.,Hakeem S.,Jeffries,,2433 Rayburn House Office Building;,,Washington,DC,20515-3208,Representative,,M,
-NY,18,,D,Mr.,Sean Patrick,Maloney,,2331 Rayburn House Office Building;,,Washington,DC,20515-3218,Representative,,M,
-OH,2,,R,Mr.,Brad R.,Wenstrup,,2419 Rayburn House Office Building;,,Washington,DC,20515-3502,Representative,,M,
-OH,3,,D,Ms.,Joyce,Beatty,,2303 Rayburn House Office Building;,,Washington,DC,20515-3503,Representative,,F,
-OH,14,,R,Mr.,David P.,Joyce,,1124 Longworth House Office Building;,,Washington,DC,20515-3514,Representative,,M,
-OK,2,,R,Mr.,Markwayne,Mullin,,2421 Rayburn House Office Building;,,Washington,DC,20515-3602,Representative,,M,
-PA,10,,R,Mr.,Scott,Perry,,1207 Longworth House Office Building;,,Washington,DC,20515-3810,Representative,,M,
-PA,8,,D,Mr.,Matthew A.,Cartwright,,1034 Longworth House Office Building;,,Washington,DC,20515-3808,Representative,,M,
-SC,7,,R,Mr.,Tom,Rice,,512 Cannon House Office Building;,,Washington,DC,20515-4007,Representative,,M,
-TX,,S,R,Mr.,Ted,Cruz,,127A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-TX,14,,R,Mr.,Randy K.,Weber,,107 Cannon House Office Building;,,Washington,DC,20515-4314,Representative,,M,
-TX,20,,D,Mr.,Joaquin,Castro,,2241 Rayburn House Office Building;,,Washington,DC,20515-4320,Representative,,M,
-TX,25,,R,Mr.,Roger,Williams,,1708 Longworth House Office Building;,,Washington,DC,20515-4325,Representative,,M,
-TX,33,,D,Mr.,Marc A.,Veasey,,2348 Rayburn House Office Building;,,Washington,DC,20515-4333,Representative,,M,
-TX,34,,D,Mr.,Filemon,Vela,,307 Cannon House Office Building;,,Washington,DC,20515-4334,Representative,,M,
-UT,2,,R,Mr.,Chris,Stewart,,2242 Rayburn House Office Building;,,Washington,DC,20515-4402,Representative,,M,
-VA,,S,D,Mr.,Timothy,Kaine,,231 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-WA,6,,D,Mr.,Derek,Kilmer,,1410 Longworth House Office Building;,,Washington,DC,20515-4706,Representative,,M,
-WA,10,,D,Mr.,Denny,Heck,,2452 Rayburn House Office Building;,,Washington,DC,20515-4710,Representative,,M,
-WI,2,,D,Mr.,Mark,Pocan,,1421 Longworth House Office Building;,,Washington,DC,20515-4902,Representative,,M,
-IL,2,,D,Ms.,Robin,Kelly,,2416 Rayburn House Office Building;,,Washington,DC,20515-1302,Representative,,F,
-MO,8,,R,Mr.,Jason T.,Smith,,2418 Rayburn House Office Building;,,Washington,DC,20515-2508,Representative,,M,
-NJ,,S,D,Mr.,Cory Anthony,Booker,,717 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-MA,5,,D,Ms.,Katherine M.,Clark,,2448 Rayburn House Office Building;,,Washington,DC,20515-2105,Representative,,F,
-AL,7,,D,Ms.,Sam,Levin - Dist 4,,2201 Rayburn House Office Building;,,Washington,DC,20515-0107,Representative,,F,http://clerk.house.gov/members/S001185
-NJ,1,,D,Mr.,Donald W.,Norcross,,2437 Rayburn House Office Building;,,Washington,DC,20515-3001,Representative,,M,
-NC,12,,D,Ms.,Alma,Adams,,2436 Rayburn House Office Building;,,Washington,DC,20515-3312,Representative,,F,
-AL,,S,R,Mr.,Jim,Hicks - Senator,,304 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_al_jones_doug_200.jpg
-AR,2,,R,Mr.,French,Hill,,1533 Longworth House Office Building;,,Washington,DC,20515-0402,Representative,,M,
-AR,4,,R,Mr.,Bruce,Westerman,,209 Cannon House Office Building;,,Washington,DC,20515-0404,Representative,,M,
-AZ,7,,D,Mr.,Ruben,Gallego,,1131 Longworth House Office Building;,,Washington,DC,20515-0307,Representative,,M,
-CA,11,,D,Mr.,Mark,DeSaulnier,,503 Cannon House Office Building;,,Washington,DC,20515-0511,Representative,,M,
-CA,31,,D,Mr.,Pete,Aguilar,,109 Cannon House Office Building;,,Washington,DC,20515-0531,Representative,,M,
-CA,33,,D,Mr.,Ted,Lieu,,403 Cannon House Office Building;,,Washington,DC,20515-0533,Representative,,M,
-CA,35,,D,Ms.,Norma,Torres,,2444 Rayburn House Office Building;,,Washington,DC,20515-0535,Representative,,F,
-CO,4,,R,Mr.,Ken,Buck,,2455 Rayburn House Office Building;,,Washington,DC,20515-0604,Representative,,M,
-GA,1,,R,Mr.,Buddy,Carter,,2432 Rayburn House Office Building;,,Washington,DC,20515-1001,Representative,,M,
-GA,10,,R,Mr.,Jody,Hice,,409 Cannon House Office Building;,,Washington,DC,20515-1010,Representative,,M,
-GA,11,,R,Mr.,Barry,Loudermilk,,422 Cannon House Office Building;,,Washington,DC,20515-1011,Representative,,M,
-GA,12,,R,Mr.,Rick,Allen,,2400 Rayburn House Office Building;,,Washington,DC,20515-1012,Representative,,M,
-IL,12,,R,Mr.,Mike,Bost,,1440 Longworth House Office Building;,,Washington,DC,20515-1312,Representative,,M,
-LA,5,,R,Mr.,Ralph,Abraham,,417 Cannon House Office Building;,,Washington,DC,20515-1805,Representative,,M,
-LA,6,,R,Mr.,Garret,Graves,,2402 Rayburn House Office Building;,,Washington,DC,20515-1806,Representative,,M,
-MA,6,,D,Mr.,Seth,Moulton,,1127 Longworth House Office Building;,,Washington,DC,20515-2106,Representative,,M,
-MI,4,,R,Mr.,John,Moolenaar,,117 Cannon House Office Building;,,Washington,DC,20515-2204,Representative,,M,
-MI,12,,D,Ms.,Debbie,Dingell,,116 Cannon House Office Building;,,Washington,DC,20515-2212,Representative,,F,
-MI,14,,D,Ms.,Brenda,Lawrence,,2463 Rayburn House Office Building;,,Washington,DC,20515-2214,Representative,,F,
-MN,6,,R,Mr.,Tom,Emmer,,315 Cannon House Office Building;,,Washington,DC,20515-2306,Representative,,M,
-NC,7,,R,Mr.,David,Rouzer,,2439 Rayburn House Office Building;,,Washington,DC,20515-3307,Representative,,M,
-NJ,12,,D,Ms.,Bonnie,Watson Coleman,,2442 Rayburn House Office Building;,,Washington,DC,20515-3012,Representative,,F,
-NY,1,,R,Mr.,Lee,Zeldin,,2441 Rayburn House Office Building;,,Washington,DC,20515-3201,Representative,,M,
-NY,4,,D,Ms.,Kathleen,Rice,,2435 Rayburn House Office Building;,,Washington,DC,20515-3204,Representative,,F,
-NY,21,,R,Ms.,Elise,Stefanik,,318 Cannon House Office Building;,,Washington,DC,20515-3221,Representative,,F,
-NY,24,,R,Mr.,John,Katko,,2457 Rayburn House Office Building;,,Washington,DC,20515-3224,Representative,,M,
-PA,2,,D,Mr.,Brendan,Boyle,,1133 Longworth House Office Building;,,Washington,DC,20515-3802,Representative,,M,
-TX,23,,R,Mr.,Will,Hurd,,317 Cannon House Office Building;,,Washington,DC,20515-4323,Representative,,M,
-TX,36,,R,Mr.,Brian,Babin,,2236 Rayburn House Office Building;,,Washington,DC,20515-4336,Representative,,M,
-VA,8,,D,Mr.,Donald,Beyer,,1119 Longworth House Office Building;,,Washington,DC,20515-4608,Representative,,M,
-VI,0,,D,Ms.,Stacey,Plaskett,,2404 Rayburn House Office Building;,,Washington,DC,20515-5500,Representative,,F,
-WA,4,,R,Mr.,Dan,Newhouse,,1414 Longworth House Office Building;,,Washington,DC,20515-4704,Representative,,M,
-WI,6,,R,Mr.,Glenn,Grothman,,1427 Longworth House Office Building;,,Washington,DC,20515-4906,Representative,,M,
-WV,2,,R,Mr.,Alex,Mooney,,2440 Rayburn House Office Building;,,Washington,DC,20515-4802,Representative,,M,
-AS,0,,R,Ms.,Aumua,Amata,,1339 Longworth House Office Building;,,Washington,DC,20515-5200,Representative,,F,
-AK,,S,R,Mr.,Dan,Sullivan,,302 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-GA,,S,R,Mr.,David,Perdue,,455 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-IA,,S,R,Ms.,Joni,Ernst,,730 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-NC,,S,R,Mr.,Thom,Tillis,,113 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,
-SD,,S,R,Mr.,Mike,Rounds,,502 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-NC,6,,R,Mr.,Mark,Walker,,1725 Longworth House Office Building;,,Washington,DC,20515-3306,Representative,,M,
-NE,,S,R,Mr.,Benjamin Eric,Sasse,,107 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-MS,1,,R,Mr.,Trent,Kelly,,1005 Longworth House Office Building;,,Washington,DC,20515-2401,Representative,,M,
-IL,18,,R,Mr.,Darin,LaHood,,1424 Longworth House Office Building;,,Washington,DC,20515-1318,Representative,,M,
-OH,8,,R,Mr.,Warren,Davidson,,1107 Longworth House Office Building;,,Washington,DC,20515-3508,Representative,,M,
-KY,1,,R,Mr.,James,Comer,,1037 Longworth House Office Building;,,Washington,DC,20515-1701,Representative,,M,
-PA,3,,D,Mr.,Dwight,Evans,,1105 Longworth House Office Building;,,Washington,DC,20515-3803,Representative,,M,
-CA,,S,D,Ms.,Kamala,Harris,,112 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-LA,,S,R,Mr.,John Neely,Kennedy,,416 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-NH,,S,D,Ms.,Margaret Wood,Hassan,,324 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-NV,,S,D,Ms.,Catherine,Cortez Masto,,516 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-IL,10,,D,Mr.,Bradley S.,Schneider,,1432 Longworth House Office Building;,,Washington,DC,20515-1310,Representative,,M,
-AZ,1,,D,Mr.,Tom,O’Halleran,,324 Cannon House Office Building;,,Washington,DC,20515-0301,Representative,,M,
-AZ,5,,R,Mr.,Andy,Biggs,,1318 Longworth House Office Building;,,Washington,DC,20515-0305,Representative,,M,
-CA,17,,D,Mr.,Ro,Khanna,,221 Cannon House Office Building;,,Washington,DC,20515-0517,Representative,,M,
-CA,20,,D,Mr.,Jimmy,Panetta,,212 Cannon House Office Building;,,Washington,DC,20515-0520,Representative,,M,
-CA,24,,D,Mr.,Salud,Carbajal,,1431 Longworth House Office Building;,,Washington,DC,20515-0524,Representative,,M,
-CA,44,,D,Ms.,Nanette,Barragán,,1030 Longworth House Office Building;,,Washington,DC,20515-0544,Representative,,F,
-CA,46,,D,Mr.,J. Luis,Correa,,1039 Longworth House Office Building;,,Washington,DC,20515-0546,Representative,,M,
-DE,0,,D,Ms.,Lisa,Blunt Rochester,,1519 Longworth House Office Building;,,Washington,DC,20515-0800,Representative,,F,
-FL,1,,R,Mr.,Matt,Gaetz,,1721 Longworth House Office Building;,,Washington,DC,20515-0901,Representative,,M,
-FL,2,,R,Mr.,Neal,Dunn,,316 Cannon House Office Building;,,Washington,DC,20515-0902,Representative,,M,
-FL,4,,R,Mr.,John,Rutherford,,1711 Longworth House Office Building;,,Washington,DC,20515-0904,Representative,,M,
-FL,5,,D,Mr.,Al,Lawson,,1406 Longworth House Office Building;,,Washington,DC,20515-0905,Representative,,M,
-FL,7,,D,Ms.,Stephanie,Murphy,,1710 Longworth House Office Building;,,Washington,DC,20515-0907,Representative,,F,
-FL,9,,D,Mr.,Darren,Soto,,1507 Longworth House Office Building;,,Washington,DC,20515-0909,Representative,,M,
-FL,10,,D,Ms.,Val,Demings,,217 Cannon House Office Building;,,Washington,DC,20515-0910,Representative,,F,
-FL,13,,D,Mr.,Charlie,Crist,,215 Cannon House Office Building;,,Washington,DC,20515-0913,Representative,,M,
-FL,18,,R,Mr.,Brian,Mast,,2182 Rayburn House Office Building;,,Washington,DC,20515-0918,Representative,,M,
-FL,19,,R,Mr.,Francis,Rooney,,120 Cannon House Office Building;,,Washington,DC,20515-0919,Representative,,M,
-GA,3,,R,Mr.,A. Drew,Ferguson,IV,1032 Longworth House Office Building;,,Washington,DC,20515-1003,Representative,,M,
-IL,8,,D,Mr.,Raja,Krishnamoorthi,,115 Cannon House Office Building;,,Washington,DC,20515-1308,Representative,,M,
-IN,3,,R,Mr.,Jim,Banks,,1713 Longworth House Office Building;,,Washington,DC,20515-1403,Representative,,M,
-IN,9,,R,Mr.,Trey,Hollingsworth,,1641 Longworth House Office Building;,,Washington,DC,20515-1409,Representative,,M,
-KS,1,,R,Mr.,Roger,Marshall,,312 Cannon House Office Building;,,Washington,DC,20515-1601,Representative,,M,
-LA,3,,R,Mr.,Clay,Higgins,,424 Cannon House Office Building;,,Washington,DC,20515-1803,Representative,,M,
-LA,4,,R,Mr.,Mike,Johnson,,418 Cannon House Office Building;,,Washington,DC,20515-1804,Representative,,M,
-MD,4,,D,Mr.,Anthony,Brown,,1323 Longworth House Office Building;,,Washington,DC,20515-2004,Representative,,M,
-MD,8,,D,Mr.,Jamie,Raskin,,412 Cannon House Office Building;,,Washington,DC,20515-2008,Representative,,M,
-MI,1,,R,Mr.,Jack,Bergman,,414 Cannon House Office Building;,,Washington,DC,20515-2201,Representative,,M,
-MI,10,,R,Mr.,Paul,Mitchell,,211 Cannon House Office Building;,,Washington,DC,20515-2210,Representative,,M,
-NC,13,,R,Mr.,Ted,Budd,,118 Cannon House Office Building;,,Washington,DC,20515-3313,Representative,,M,
-NE,2,,R,Mr.,Don,Bacon,,1024 Longworth House Office Building;,,Washington,DC,20515-2702,Representative,,M,
-NJ,5,,D,Mr.,Josh,Gottheimer,,213 Cannon House Office Building;,,Washington,DC,20515-3005,Representative,,M,
-NV,,S,D,Ms.,Jacky,Rosen,,144 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-NY,3,,D,Mr.,Thomas,Suozzi,,214 Cannon House Office Building;,,Washington,DC,20515-3203,Representative,,M,
-NY,13,,D,Mr.,Adriano,Espaillat,,1630 Longworth House Office Building;,,Washington,DC,20515-3213,Representative,,M,
-PA,1,,R,Mr.,Brian,Fitzpatrick,,1722 Longworth House Office Building;,,Washington,DC,20515-3801,Representative,,M,
-PA,11,,R,Mr.,Lloyd,Smucker,,127 Cannon House Office Building;,,Washington,DC,20515-3811,Representative,,M,
-PR,0,,R,Ms.,Jenniffer,González-Colón,,1609 Longworth House Office Building;,,Washington,DC,20515-5401,Representative,,F,
-TN,8,,R,Mr.,David,Kustoff,,523 Cannon House Office Building;,,Washington,DC,20515-4208,Representative,,M,
-TX,15,,D,Mr.,Vicente,Gonzalez,,113 Cannon House Office Building;,,Washington,DC,20515-4315,Representative,,M,
-TX,19,,R,Mr.,Jodey,Arrington,,1029 Longworth House Office Building;,,Washington,DC,20515-4319,Representative,,M,
-VA,4,,D,Mr.,A. Donald,McEachin,,314 Cannon House Office Building;,,Washington,DC,20515-4604,Representative,,M,
-WA,7,,D,Ms.,Pramila,Jayapal,,1510 Longworth House Office Building;,,Washington,DC,20515-4707,Representative,,F,
-WI,8,,R,Mr.,Mike,Gallagher,,1230 Longworth House Office Building;,,Washington,DC,20515-4908,Representative,,M,
-WY,0,,R,Ms.,Liz,Cheney,,416 Cannon House Office Building;,,Washington,DC,20515-5000,Representative,,F,
-KS,4,,R,Mr.,Ron,Estes,,1524 Longworth House Office Building;,,Washington,DC,20515-1604,Representative,,M,
-MT,0,,R,Mr.,Greg,Gianforte,,1222 Longworth House Office Building;,,Washington,DC,20515-2600,Representative,,M,
-SC,5,,R,Mr.,Ralph,Norman,Jr.,319 Cannon House Office Building;,,Washington,DC,20515-4005,Representative,,M,
-CA,34,,D,Mr.,Jimmy,Gomez,,1530 Longworth House Office Building;,,Washington,DC,20515-0534,Representative,,M,
-UT,3,,R,Mr.,John,Curtis,,125 Cannon House Office Building;,,Washington,DC,20515-4403,Representative,,M,
-AL,,S,D,Mr.,Taylor,Swift - Senator,,330 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_al_shelby_richard_200.jpg
-MN,,S,D,Ms.,Tina Flint,Smith,,720 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-MS,,S,R,Ms.,Cindy,Hyde-Smith,,702 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,
-PA,17,,D,Mr.,Conor,Lamb,,1224 Longworth House Office Building;,,Washington,DC,20515-3817,Representative,,M,
-AZ,8,,R,Ms.,Debbie,Lesko,,1113 Longworth House Office Building;,,Washington,DC,20515-0308,Representative,,F,
-TX,27,,R,Mr.,Michael,Cloud,,1314 Longworth House Office Building;,,Washington,DC,20515-4327,Representative,,M,
-OH,12,,R,Mr.,Troy,Balderson,,1221 Longworth House Office Building;,,Washington,DC,20515-3512,Representative,,M,
-OK,1,,R,Mr.,Kevin R.,Hern,,1019 Longworth House Office Building;,,Washington,DC,20515-3601,Representative,,M,
-NY,25,,D,Mr.,Joseph D.,Morelle,,1317 Longworth House Office Building;,,Washington,DC,20515-3225,Representative,,M,
-PA,5,,D,Ms.,Mary Gay,Scanlon,,1535 Longworth House Office Building;,,Washington,DC,20515-3805,Representative,,F,
-PA,7,,D,Ms.,Susan Ellis,Wild,,1607 Longworth House Office Building;,,Washington,DC,20515-3807,Representative,,F,
-HI,1,,D,Mr.,Ed,Case,,2443 Rayburn House Office Building;,,Washington,DC,20515-1101,Representative,,M,
-NV,4,,D,Mr.,Steven A.,Horsford,,1330 Longworth House Office Building;,,Washington,DC,20515-2804,Representative,,M,
-AZ,2,,D,Ms.,Ann,Kirkpatrick,,309 Cannon House Office Building;,,Washington,DC,20515-0302,Representative,,F,
-AZ,9,,D,Mr.,Greg,Stanton,,128 Cannon House Office Building;,,Washington,DC,20515-0309,Representative,,M,
-CA,10,,D,Mr.,Josh,Harder,,131 Cannon House Office Building;,,Washington,DC,20515-0510,Representative,,M,
-CA,21,,D,Mr.,TJ,Cox,,1728 Longworth House Office Building;,,Washington,DC,20515-0521,Representative,,M,
-CA,39,,D,Mr.,Gilbert Ray,Cisneros,,431 Cannon House Office Building;,,Washington,DC,20515-0539,Representative,,M,
-CA,45,,D,Ms.,Katie,Porter,,1117 Longworth House Office Building;,,Washington,DC,20515-0545,Representative,,F,
-CA,48,,D,Mr.,Harley,Rouda,,2300 Rayburn House Office Building;,,Washington,DC,20515-0548,Representative,,M,
-CA,49,,D,Mr.,Mike,Levin,,1626 Longworth House Office Building;,,Washington,DC,20515-0549,Representative,,M,
-CO,2,,D,Mr.,Joe,Neguse,,1419 Longworth House Office Building;,,Washington,DC,20515-0602,Representative,,M,
-CO,6,,D,Mr.,Jason,Crow,,1229 Longworth House Office Building;,,Washington,DC,20515-0606,Representative,,M,
-CT,5,,D,Ms.,Jahana,Hayes,,1415 Longworth House Office Building;,,Washington,DC,20515-0705,Representative,,F,
-FL,6,,R,Mr.,Michael,Waltz,,216 Cannon House Office Building;,,Washington,DC,20515-0906,Representative,,M,
-FL,15,,R,Mr.,Ross,Spano,,224 Cannon House Office Building;,,Washington,DC,20515-0915,Representative,,M,
-FL,17,,R,Mr.,W. Gregory,Steube,,521 Cannon House Office Building;,,Washington,DC,20515-0917,Representative,,M,
-FL,26,,D,Ms.,Debbie,Mucarsel-Powell,,114 Cannon House Office Building;,,Washington,DC,20515-0926,Representative,,F,
-FL,27,,D,Ms.,Donna E.,Shalala,,1320 Longworth House Office Building;,,Washington,DC,20515-0927,Representative,,F,
-GA,6,,D,Ms.,Lucy,McBath,,1513 Longworth House Office Building;,,Washington,DC,20515-1006,Representative,,F,
-GU,0,,D,Mr.,Michael F. Q.,San Nicolas,,1632 Longworth House Office Building;,,Washington,DC,20515-5301,Representative,,M,
-IA,1,,D,Ms.,Abby,Finkenauer,,124 Cannon House Office Building;,,Washington,DC,20515-1501,Representative,,F,
-IA,3,,D,Ms.,Cynthia,Axne,,330 Cannon House Office Building;,,Washington,DC,20515-1503,Representative,,F,
-ID,1,,R,Mr.,Russ,Fulcher,,1520 Longworth House Office Building;,,Washington,DC,20515-1201,Representative,,M,
-IL,4,,D,Mr.,Jesús G.,García,,530 Cannon House Office Building;,,Washington,DC,20515-1304,Representative,,M,
-IL,6,,D,Mr.,Sean,Casten,,429 Cannon House Office Building;,,Washington,DC,20515-1306,Representative,,M,
-IL,14,,D,Ms.,Lauren,Underwood,,1118 Longworth House Office Building;,,Washington,DC,20515-1314,Representative,,F,
-IN,4,,R,Mr.,James R.,Baird,,532 Cannon House Office Building;,,Washington,DC,20515-1404,Representative,,M,
-IN,6,,R,Mr.,Greg,Pence,,222 Cannon House Office Building;,,Washington,DC,20515-1406,Representative,,M,
-KS,2,,R,Mr.,Steven C.,Watkins,,1205 Longworth House Office Building;,,Washington,DC,20515-1602,Representative,,M,
-KS,3,,D,Ms.,Sharice,Davids,,1541 Longworth House Office Building;,,Washington,DC,20515-1603,Representative,,F,
-MA,3,,D,Ms.,Lori,Trahan,,1616 Longworth House Office Building;,,Washington,DC,20515-2103,Representative,,F,
-MA,7,,D,Ms.,Ayanna,Pressley,,1108 Longworth House Office Building;,,Washington,DC,20515-2107,Representative,,F,
-MD,6,,D,Mr.,David J.,Trone,,1213 Longworth House Office Building;,,Washington,DC,20515-2006,Representative,,M,
-MI,8,,D,Ms.,Elissa,Slotkin,,1531 Longworth House Office Building;,,Washington,DC,20515-2208,Representative,,F,
-MI,9,,D,Mr.,Andy,Levin,,228 Cannon House Office Building;,,Washington,DC,20515-2209,Representative,,M,
-MI,11,,D,Ms.,Haley M.,Stevens,,227 Cannon House Office Building;,,Washington,DC,20515-2211,Representative,,F,
-MI,13,,D,Ms.,Rashida,Tlaib,,1628 Longworth House Office Building;,,Washington,DC,20515-2213,Representative,,F,
-MN,1,,R,Mr.,Jim,Hagedorn,,325 Cannon House Office Building;,,Washington,DC,20515-2301,Representative,,M,
-MN,2,,D,Ms.,Angie,Craig,,1523 Longworth House Office Building;,,Washington,DC,20515-2302,Representative,,F,
-MN,3,,D,Mr.,Dean,Phillips,,1305 Longworth House Office Building;,,Washington,DC,20515-2303,Representative,,M,
-MN,5,,D,Ms.,Ilhan,Omar,,1517 Longworth House Office Building;,,Washington,DC,20515-2305,Representative,,F,
-MN,8,,R,Mr.,Pete,Stauber,,126 Cannon House Office Building;,,Washington,DC,20515-2308,Representative,,M,
-MS,3,,R,Mr.,Michael,Guest,,230 Cannon House Office Building;,,Washington,DC,20515-2403,Representative,,M,
-ND,0,,R,Mr.,Kelly,Armstrong,,1004 Longworth House Office Building;,,Washington,DC,20515-3400,Representative,,M,
-NH,1,,D,Mr.,Chris,Pappas,,323 Cannon House Office Building;,,Washington,DC,20515-2901,Representative,,M,
-NJ,2,,R,Mr.,Jefferson,Van Drew,,331 Cannon House Office Building;,,Washington,DC,20515-3002,Representative,,M,
-NJ,3,,D,Mr.,Andy,Kim,,1516 Longworth House Office Building;,,Washington,DC,20515-3003,Representative,,M,
-NJ,7,,D,Mr.,Tom,Malinowski,,426 Cannon House Office Building;,,Washington,DC,20515-3007,Representative,,M,
-NJ,11,,D,Ms.,Mikie,Sherrill,,1208 Longworth House Office Building;,,Washington,DC,20515-3011,Representative,,F,
-NM,1,,D,Ms.,Debra A.,Haaland,,1237 Longworth House Office Building;,,Washington,DC,20515-3101,Representative,,F,
-NM,2,,D,Ms.,Xochitl,Torres Small,,430 Cannon House Office Building;,,Washington,DC,20515-3102,Representative,,F,
-NV,3,,D,Ms.,Susie,Lee,,522 Cannon House Office Building;,,Washington,DC,20515-2803,Representative,,F,
-NY,11,,D,Mr.,Max,Rose,,1529 Longworth House Office Building;,,Washington,DC,20515-3211,Representative,,M,
-NY,14,,D,Ms.,Alexandria,Ocasio-Cortez,,229 Cannon House Office Building;,,Washington,DC,20515-3214,Representative,,F,
-NY,19,,D,Mr.,Antonio,Delgado,,1007 Longworth House Office Building;,,Washington,DC,20515-3219,Representative,,M,
-NY,22,,D,Mr.,Anthony,Brindisi,,329 Cannon House Office Building;,,Washington,DC,20515-3222,Representative,,M,
-OH,16,,R,Mr.,Anthony,Gonzalez,,1023 Longworth House Office Building;,,Washington,DC,20515-3516,Representative,,M,
-OK,5,,D,Ms.,Kendra S.,Horn,,415 Cannon House Office Building;,,Washington,DC,20515-3605,Representative,,F,
-PA,4,,D,Ms.,Madeleine,Dean,,129 Cannon House Office Building;,,Washington,DC,20515-3804,Representative,,F,
-PA,6,,D,Ms.,Chrissy,Houlahan,,1218 Longworth House Office Building;,,Washington,DC,20515-3806,Representative,,F,
-PA,9,,R,Mr.,Daniel,Meuser,,326 Cannon House Office Building;,,Washington,DC,20515-3809,Representative,,M,
-PA,13,,R,Mr.,John,Joyce,,1337 Longworth House Office Building;,,Washington,DC,20515-3813,Representative,,M,
-PA,14,,R,Mr.,Guy,Reschenthaler,,531 Cannon House Office Building;,,Washington,DC,20515-3814,Representative,,M,
-SC,1,,D,Mr.,Joe,Cunningham,,423 Cannon House Office Building;,,Washington,DC,20515-4001,Representative,,M,
-SC,4,,R,Mr.,William R.,Timmons,,313 Cannon House Office Building;,,Washington,DC,20515-4004,Representative,,M,
-SD,0,,R,Mr.,Dusty,Johnson,,1508 Longworth House Office Building;,,Washington,DC,20515-4100,Representative,,M,
-TN,2,,R,Mr.,Tim,Burchett,,1122 Longworth House Office Building;,,Washington,DC,20515-4202,Representative,,M,
-TN,6,,R,Mr.,John W.,Rose,,1232 Longworth House Office Building;,,Washington,DC,20515-4206,Representative,,M,
-TN,7,,R,Mr.,Mark E.,Green,,533 Cannon House Office Building;,,Washington,DC,20515-4207,Representative,,M,
-TX,2,,R,Mr.,Dan,Crenshaw,,413 Cannon House Office Building;,,Washington,DC,20515-4302,Representative,,M,
-TX,3,,R,Mr.,Van,Taylor,,1404 Longworth House Office Building;,,Washington,DC,20515-4303,Representative,,M,
-TX,5,,R,Mr.,Lance,Gooden,,425 Cannon House Office Building;,,Washington,DC,20515-4305,Representative,,M,
-TX,6,,R,Mr.,Ron,Wright,,428 Cannon House Office Building;,,Washington,DC,20515-4306,Representative,,M,
-TX,7,,D,Ms.,Lizzie,Fletcher,,1429 Longworth House Office Building;,,Washington,DC,20515-4307,Representative,,F,
-TX,16,,D,Ms.,Veronica,Escobar,,1505 Longworth House Office Building;,,Washington,DC,20515-4316,Representative,,F,
-TX,21,,R,Mr.,Chip,Roy,,1319 Longworth House Office Building;,,Washington,DC,20515-4321,Representative,,M,
-TX,29,,D,Ms.,Sylvia R.,Garcia,,1620 Longworth House Office Building;,,Washington,DC,20515-4329,Representative,,F,
-TX,32,,D,Mr.,Colin Z.,Allred,,328 Cannon House Office Building;,,Washington,DC,20515-4332,Representative,,M,
-UT,4,,D,Mr.,Ben,McAdams,,130 Cannon House Office Building;,,Washington,DC,20515-4404,Representative,,M,
-VA,2,,D,Ms.,Elaine G.,Luria,,534 Cannon House Office Building;,,Washington,DC,20515-4602,Representative,,F,
-VA,5,,R,Mr.,Denver,Riggleman,,1022 Longworth House Office Building;,,Washington,DC,20515-4605,Representative,,M,
-VA,6,,R,Mr.,Ben,Cline,,1009 Longworth House Office Building;,,Washington,DC,20515-4606,Representative,,M,
-VA,7,,D,Ms.,Abigail Davis,Spanberger,,1239 Longworth House Office Building;,,Washington,DC,20515-4607,Representative,,F,
-VA,10,,D,Ms.,Jennifer,Wexton,,1217 Longworth House Office Building;,,Washington,DC,20515-4610,Representative,,F,
-WA,8,,D,Ms.,Kim,Schrier,,1123 Longworth House Office Building;,,Washington,DC,20515-4708,Representative,,F,
-WI,1,,R,Mr.,Bryan,Steil,,1408 Longworth House Office Building;,,Washington,DC,20515-4901,Representative,,M,
-WV,3,,R,Ms.,Carol D.,Miller,,1605 Longworth House Office Building;,,Washington,DC,20515-4803,Representative,,F,
-FL,,S,R,Mr.,Rick,Scott,,716 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,
-IN,,S,R,Mr.,Mike,Braun,,374 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-MO,,S,R,Mr.,Joshua,Hawley,,212 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-UT,,S,R,Mr.,Mitt,Romney,,124 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,
-AZ,,S,R,Ms.,Martha,McSally,,404 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-ME,2,,D,Mr.,Jared Forrest,Golden,,1223 Longworth House Office Building;,,Washington,DC,20515-1902,Representative,,M,
-PA,12,,R,Mr.,Fred,Keller,,1717 Longworth House Office Building;,,Washington,DC,20515-3812,Representative,,M,
-NC,9,,R,Mr.,Dan,Bishop,,132 Cannon House Office Building;,,Washington,DC,20515-3309,Representative,,M,
-NC,3,,R,Mr.,Gregory Francis,Murphy,,2333 Rayburn House Office Building;,,Washington,DC,20515-3303,Representative,,M,
-GA,,S,R,Ms.,Kelly,Loeffler,,131 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,
-MD,7,,D,Mr.,Kweisi,Mfume,,2163 Rayburn House Office Building;,,Washington,DC,20515-2007,Representative,,M,
+Ôªøstate,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
+LA,05,,R,Mr.,Ralph Lee,Abraham,,417 Cannon House Office Building,,Washington,DC,20515-1805,Representative,,M,http://clerk.house.gov/members/A000374
+NC,12,,D,Ms.,Alma S.,Adams,,2436 Rayburn House Office Building,,Washington,DC,20515-3312,Representative,,F,http://clerk.house.gov/members/A000370
+AL,04,,R,Mr.,Abe,Lincoln (Dist 4),,1203 Longworth House Office Building,,Washington,DC,20515-0104,Representative,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+CA,31,,D,Mr.,Pete,Aguilar,,109 Cannon House Office Building,,Washington,DC,20515-0531,Representative,,M,http://clerk.house.gov/members/A000371
+GA,12,,R,Mr.,Rick W.,Allen,,2400 Rayburn House Office Building,,Washington,DC,20515-1012,Representative,,M,http://clerk.house.gov/members/A000372
+TX,32,,D,Mr.,Colin Z.,Allred,,328 Cannon House Office Building,,Washington,DC,20515-4332,Representative,,M,http://clerk.house.gov/members/A000376
+MI,03,,L,Mr.,Justin,Amash,,106 Cannon House Office Building,,Washington,DC,20515-2203,Representative,,M,http://clerk.house.gov/members/A000367
+NV,02,,R,Mr.,Mark E.,Amodei,,104 Cannon House Office Building,,Washington,DC,20515-2802,Representative,,M,http://clerk.house.gov/members/A000369
+ND,00,,R,Mr.,Kelly,Armstrong,,1004 Longworth House Office Building,,Washington,DC,20515-3400,Representative,,M,http://clerk.house.gov/members/A000377
+TX,19,,R,Mr.,Jodey C.,Arrington,,1029 Longworth House Office Building,,Washington,DC,20515-4319,Representative,,M,http://clerk.house.gov/members/A000375
+IA,03,,D,Ms.,Cynthia,Axne,,330 Cannon House Office Building,,Washington,DC,20515-1503,Representative,,F,http://clerk.house.gov/members/A000378
+TX,36,,R,Mr.,Brian,Babin,,2236 Rayburn House Office Building,,Washington,DC,20515-4336,Representative,,M,http://clerk.house.gov/members/B001291
+NE,02,,R,Mr.,Don,Bacon,,1024 Longworth House Office Building,,Washington,DC,20515-2702,Representative,,M,http://clerk.house.gov/members/B001298
+IN,04,,R,Mr.,James R.,Baird,,532 Cannon House Office Building,,Washington,DC,20515-1404,Representative,,M,http://clerk.house.gov/members/B001307
+OH,12,,R,Mr.,Troy,Balderson,,1221 Longworth House Office Building,,Washington,DC,20515-3512,Representative,,M,http://clerk.house.gov/members/B001306
+IN,03,,R,Mr.,Jim,Banks,,1713 Longworth House Office Building,,Washington,DC,20515-1403,Representative,,M,http://clerk.house.gov/members/B001299
+KY,06,,R,Mr.,Andy,Barr,,2430 Rayburn House Office Building,,Washington,DC,20515-1706,Representative,,M,http://clerk.house.gov/members/B001282
+CA,44,,D,Ms.,Nanette Diaz,Barrag√°n,,1030 Longworth House Office Building,,Washington,DC,20515-0544,Representative,,F,http://clerk.house.gov/members/B001300
+CA,37,,D,Ms.,Karen,Bass,,2059 Rayburn House Office Building,,Washington,DC,20515-0537,Representative,,F,http://clerk.house.gov/members/B001270
+OH,03,,D,Ms.,Joyce,Beatty,,2303 Rayburn House Office Building,,Washington,DC,20515-3503,Representative,,F,http://clerk.house.gov/members/B001281
+CA,07,,D,Mr.,Ami,Bera,,1727 Longworth House Office Building,,Washington,DC,20515-0507,Representative,,M,http://clerk.house.gov/members/B001287
+MI,01,,R,Mr.,Jack,Bergman,,414 Cannon House Office Building,,Washington,DC,20515-2201,Representative,,M,http://clerk.house.gov/members/B001301
+VA,08,,D,Mr.,Donald S.,Beyer,Jr.,1119 Longworth House Office Building,,Washington,DC,20515-4608,Representative,,M,http://clerk.house.gov/members/B001292
+AZ,05,,R,Mr.,Andy,Biggs,,1318 Longworth House Office Building,,Washington,DC,20515-0305,Representative,,M,http://clerk.house.gov/members/B001302
+FL,12,,R,Mr.,Gus M.,Bilirakis,,2227 Rayburn House Office Building,,Washington,DC,20515-0912,Representative,,M,http://clerk.house.gov/members/B001257
+NC,09,,R,Mr.,Dan,Bishop,,132 Cannon House Office Building,,Washington,DC,20515-3309,Representative,,M,http://clerk.house.gov/members/B001311
+UT,01,,R,Mr.,Rob,Bishop,,123 Cannon House Office Building,,Washington,DC,20515-4401,Representative,,M,http://clerk.house.gov/members/B001250
+GA,02,,D,Mr.,Sanford D.,Bishop,Jr.,2407 Rayburn House Office Building,,Washington,DC,20515-1002,Representative,,M,http://clerk.house.gov/members/B000490
+OR,03,,D,Mr.,Earl,Blumenauer,,1111 Longworth House Office Building,,Washington,DC,20515-3703,Representative,,M,http://clerk.house.gov/members/B000574
+DE,00,,D,Ms.,Lisa,Blunt Rochester,,1519 Longworth House Office Building,,Washington,DC,20515-0800,Representative,,F,http://clerk.house.gov/members/B001303
+OR,01,,D,Ms.,Suzanne,Bonamici,,2231 Rayburn House Office Building,,Washington,DC,20515-3701,Representative,,F,http://clerk.house.gov/members/B001278
+IL,12,,R,Mr.,Mike,Bost,,1440 Longworth House Office Building,,Washington,DC,20515-1312,Representative,,M,http://clerk.house.gov/members/B001295
+PA,02,,D,Mr.,Brendan F.,Boyle,,1133 Longworth House Office Building,,Washington,DC,20515-3802,Representative,,M,http://clerk.house.gov/members/B001296
+TX,08,,R,Mr.,Kevin,Brady,,1011 Longworth House Office Building,,Washington,DC,20515-4308,Representative,,M,http://clerk.house.gov/members/B000755
+NY,22,,D,Mr.,Anthony,Brindisi,,329 Cannon House Office Building,,Washington,DC,20515-3222,Representative,,M,http://clerk.house.gov/members/B001308
+AL,05,,R,Mr.,Abe,Brooks (Distt 5),,2246 Rayburn House Office Building,,Washington,DC,20515-0105,Representative,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+IN,05,,R,Ms.,Susan W.,Brooks,,2211 Rayburn House Office Building,,Washington,DC,20515-1405,Representative,,F,http://clerk.house.gov/members/B001284
+MD,04,,D,Mr.,Anthony G.,Brown,,1323 Longworth House Office Building,,Washington,DC,20515-2004,Representative,,M,http://clerk.house.gov/members/B001304
+CA,26,,D,Ms.,Julia,Brownley,,2262 Rayburn House Office Building,,Washington,DC,20515-0526,Representative,,F,http://clerk.house.gov/members/B001285
+FL,16,,R,Mr.,Vern,Buchanan,,2427 Rayburn House Office Building,,Washington,DC,20515-0916,Representative,,M,http://clerk.house.gov/members/B001260
+CO,04,,R,Mr.,Ken,Buck,,2455 Rayburn House Office Building,,Washington,DC,20515-0604,Representative,,M,http://clerk.house.gov/members/B001297
+IN,08,,R,Mr.,Larry,Bucshon,,2313 Rayburn House Office Building,,Washington,DC,20515-1408,Representative,,M,http://clerk.house.gov/members/B001275
+NC,13,,R,Mr.,Ted,Budd,,118 Cannon House Office Building,,Washington,DC,20515-3313,Representative,,M,http://clerk.house.gov/members/B001305
+TN,02,,R,Mr.,Tim,Burchett,,1122 Longworth House Office Building,,Washington,DC,20515-4202,Representative,,M,http://clerk.house.gov/members/B001309
+TX,26,,R,Mr.,Michael C.,Burgess,,2161 Rayburn House Office Building,,Washington,DC,20515-4326,Representative,,M,http://clerk.house.gov/members/B001248
+IL,17,,D,Ms.,Cheri,Bustos,,1233 Longworth House Office Building,,Washington,DC,20515-1317,Representative,,F,http://clerk.house.gov/members/B001286
+NC,01,,D,Mr.,G. K.,Butterfield,,2080 Rayburn House Office Building,,Washington,DC,20515-3301,Representative,,M,http://clerk.house.gov/members/B001251
+AL,01,,R,Mr.,Abe,Byrne (Dist 1),,119 Cannon House Office Building,,Washington,DC,20515-0101,Representative,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+CA,42,,R,Mr.,Ken,Calvert,,2205 Rayburn House Office Building,,Washington,DC,20515-0542,Representative,,M,http://clerk.house.gov/members/C000059
+CA,24,,D,Mr.,Salud O.,Carbajal,,1431 Longworth House Office Building,,Washington,DC,20515-0524,Representative,,M,http://clerk.house.gov/members/C001112
+CA,29,,D,Mr.,Tony,C√°rdenas,,2438 Rayburn House Office Building,,Washington,DC,20515-0529,Representative,,M,http://clerk.house.gov/members/C001097
+IN,07,,D,Mr.,Andr√©,Carson,,2135 Rayburn House Office Building,,Washington,DC,20515-1407,Representative,,M,http://clerk.house.gov/members/C001072
+GA,01,,R,Mr.,"Earl L. ""Buddy""",Carter,,2432 Rayburn House Office Building,,Washington,DC,20515-1001,Representative,,M,http://clerk.house.gov/members/C001103
+TX,31,,R,Mr.,John R.,Carter,,2110 Rayburn House Office Building,,Washington,DC,20515-4331,Representative,,M,http://clerk.house.gov/members/C001051
+PA,08,,D,Mr.,Matt,Cartwright,,1034 Longworth House Office Building,,Washington,DC,20515-3808,Representative,,M,http://clerk.house.gov/members/C001090
+HI,01,,D,Mr.,Ed,Case,,2443 Rayburn House Office Building,,Washington,DC,20515-1101,Representative,,M,http://clerk.house.gov/members/C001055
+IL,06,,D,Mr.,Sean,Casten,,429 Cannon House Office Building,,Washington,DC,20515-1306,Representative,,M,http://clerk.house.gov/members/C001117
+FL,14,,D,Ms.,Kathy,Castor,,2052 Rayburn House Office Building,,Washington,DC,20515-0914,Representative,,F,http://clerk.house.gov/members/C001066
+TX,20,,D,Mr.,Joaquin,Castro,,2241 Rayburn House Office Building,,Washington,DC,20515-4320,Representative,,M,http://clerk.house.gov/members/C001091
+OH,01,,R,Mr.,Steve,Chabot,,2408 Rayburn House Office Building,,Washington,DC,20515-3501,Representative,,M,http://clerk.house.gov/members/C000266
+WY,00,,R,Ms.,Liz,Cheney,,416 Cannon House Office Building,,Washington,DC,20515-5000,Representative,,F,http://clerk.house.gov/members/C001109
+CA,27,,D,Ms.,Judy,Chu,,2423 Rayburn House Office Building,,Washington,DC,20515-0527,Representative,,F,http://clerk.house.gov/members/C001080
+RI,01,,D,Mr.,David N.,Cicilline,,2233 Rayburn House Office Building,,Washington,DC,20515-3901,Representative,,M,http://clerk.house.gov/members/C001084
+CA,39,,D,Mr.,Gilbert Ray,Cisneros,Jr.,431 Cannon House Office Building,,Washington,DC,20515-0539,Representative,,M,http://clerk.house.gov/members/C001123
+MA,05,,D,Ms.,Katherine M.,Clark,,2448 Rayburn House Office Building,,Washington,DC,20515-2105,Representative,,F,http://clerk.house.gov/members/C001101
+NY,09,,D,Ms.,Yvette D.,Clarke,,2058 Rayburn House Office Building,,Washington,DC,20515-3209,Representative,,F,http://clerk.house.gov/members/C001067
+MO,01,,D,Mr.,Wm. Lacy,Clay,,2428 Rayburn House Office Building,,Washington,DC,20515-2501,Representative,,M,http://clerk.house.gov/members/C001049
+MO,05,,D,Mr.,Emanuel,Cleaver,,2335 Rayburn House Office Building,,Washington,DC,20515-2505,Representative,,M,http://clerk.house.gov/members/C001061
+VA,06,,R,Mr.,Ben,Cline,,1009 Longworth House Office Building,,Washington,DC,20515-4606,Representative,,M,http://clerk.house.gov/members/C001118
+TX,27,,R,Mr.,Michael,Cloud,,1314 Longworth House Office Building,,Washington,DC,20515-4327,Representative,,M,http://clerk.house.gov/members/C001115
+SC,06,,D,Mr.,James E.,Clyburn,,200 Cannon House Office Building,,Washington,DC,20515-4006,Representative,,M,http://clerk.house.gov/members/C000537
+TN,09,,D,Mr.,Steve,Cohen,,2104 Rayburn House Office Building,,Washington,DC,20515-4209,Representative,,M,http://clerk.house.gov/members/C001068
+OK,04,,R,Mr.,Tom,Cole,,2207 Rayburn House Office Building,,Washington,DC,20515-3604,Representative,,M,http://clerk.house.gov/members/C001053
+GA,09,,R,Mr.,Doug,Collins,,1504 Longworth House Office Building,,Washington,DC,20515-1009,Representative,,M,http://clerk.house.gov/members/C001093
+KY,01,,R,Mr.,James,Comer,,1037 Longworth House Office Building,,Washington,DC,20515-1701,Representative,,M,http://clerk.house.gov/members/C001108
+TX,11,,R,Mr.,K. Michael,Conaway,,2469 Rayburn House Office Building,,Washington,DC,20515-4311,Representative,,M,http://clerk.house.gov/members/C001062
+VA,11,,D,Mr.,Gerald E.,Connolly,,2238 Rayburn House Office Building,,Washington,DC,20515-4611,Representative,,M,http://clerk.house.gov/members/C001078
+CA,08,,R,Mr.,Paul,Cook,,1027 Longworth House Office Building,,Washington,DC,20515-0508,Representative,,M,http://clerk.house.gov/members/C001094
+TN,05,,D,Mr.,Jim,Cooper,,1536 Longworth House Office Building,,Washington,DC,20515-4205,Representative,,M,http://clerk.house.gov/members/C000754
+CA,46,,D,Mr.,J. Luis,Correa,,1039 Longworth House Office Building,,Washington,DC,20515-0546,Representative,,M,http://clerk.house.gov/members/C001110
+CA,16,,D,Mr.,Jim,Costa,,2081 Rayburn House Office Building,,Washington,DC,20515-0516,Representative,,M,http://clerk.house.gov/members/C001059
+CT,02,,D,Mr.,Joe,Courtney,,2332 Rayburn House Office Building,,Washington,DC,20515-0702,Representative,,M,http://clerk.house.gov/members/C001069
+CA,21,,D,Mr.,TJ,Cox,,1728 Longworth House Office Building,,Washington,DC,20515-0521,Representative,,M,http://clerk.house.gov/members/C001124
+MN,02,,D,Ms.,Angie,Craig,,1523 Longworth House Office Building,,Washington,DC,20515-2302,Representative,,F,http://clerk.house.gov/members/C001119
+AR,01,,R,Mr.,Rick,Crawford,,2422 Rayburn House Office Building,,Washington,DC,20515-0401,Representative,,M,http://clerk.house.gov/members/C001087
+TX,02,,R,Mr.,Dan,Crenshaw,,413 Cannon House Office Building,,Washington,DC,20515-4302,Representative,,M,http://clerk.house.gov/members/C001120
+FL,13,,D,Mr.,Charlie,Crist,,215 Cannon House Office Building,,Washington,DC,20515-0913,Representative,,M,http://clerk.house.gov/members/C001111
+CO,06,,D,Mr.,Jason,Crow,,1229 Longworth House Office Building,,Washington,DC,20515-0606,Representative,,M,http://clerk.house.gov/members/C001121
+TX,28,,D,Mr.,Henry,Cuellar,,2372 Rayburn House Office Building,,Washington,DC,20515-4328,Representative,,M,http://clerk.house.gov/members/C001063
+SC,01,,D,Mr.,Joe,Cunningham,,423 Cannon House Office Building,,Washington,DC,20515-4001,Representative,,M,http://clerk.house.gov/members/C001122
+UT,03,,R,Mr.,John R.,Curtis,,125 Cannon House Office Building,,Washington,DC,20515-4403,Representative,,M,http://clerk.house.gov/members/C001114
+KS,03,,D,Ms.,Sharice,Davids,,1541 Longworth House Office Building,,Washington,DC,20515-1603,Representative,,F,http://clerk.house.gov/members/D000629
+OH,08,,R,Mr.,Warren,Davidson,,1107 Longworth House Office Building,,Washington,DC,20515-3508,Representative,,M,http://clerk.house.gov/members/D000626
+IL,07,,D,Mr.,Danny K.,Davis,,2159 Rayburn House Office Building,,Washington,DC,20515-1307,Representative,,M,http://clerk.house.gov/members/D000096
+IL,13,,R,Mr.,Rodney,Davis,,1740 Longworth House Office Building,,Washington,DC,20515-1313,Representative,,M,http://clerk.house.gov/members/D000619
+CA,53,,D,Ms.,Susan A.,Davis,,1214 Longworth House Office Building,,Washington,DC,20515-0553,Representative,,F,http://clerk.house.gov/members/D000598
+PA,04,,D,Ms.,Madeleine,Dean,,129 Cannon House Office Building,,Washington,DC,20515-3804,Representative,,F,http://clerk.house.gov/members/D000631
+OR,04,,D,Mr.,Peter A.,DeFazio,,2134 Rayburn House Office Building,,Washington,DC,20515-3704,Representative,,M,http://clerk.house.gov/members/D000191
+CO,01,,D,Ms.,Diana,DeGette,,2111 Rayburn House Office Building,,Washington,DC,20515-0601,Representative,,F,http://clerk.house.gov/members/D000197
+CT,03,,D,Ms.,Rosa L.,DeLauro,,2413 Rayburn House Office Building,,Washington,DC,20515-0703,Representative,,F,http://clerk.house.gov/members/D000216
+WA,01,,D,Ms.,Suzan K.,DelBene,,2330 Rayburn House Office Building,,Washington,DC,20515-4701,Representative,,F,http://clerk.house.gov/members/D000617
+NY,19,,D,Mr.,Antonio,Delgado,,1007 Longworth House Office Building,,Washington,DC,20515-3219,Representative,,M,http://clerk.house.gov/members/D000630
+FL,10,,D,Ms.,Val Butler,Demings,,217 Cannon House Office Building,,Washington,DC,20515-0910,Representative,,F,http://clerk.house.gov/members/D000627
+CA,11,,D,Mr.,Mark,DeSaulnier,,503 Cannon House Office Building,,Washington,DC,20515-0511,Representative,,M,http://clerk.house.gov/members/D000623
+TN,04,,R,Mr.,Scott,DesJarlais,,2301 Rayburn House Office Building,,Washington,DC,20515-4204,Representative,,M,http://clerk.house.gov/members/D000616
+FL,22,,D,Mr.,Theodore E.,Deutch,,2447 Rayburn House Office Building,,Washington,DC,20515-0922,Representative,,M,http://clerk.house.gov/members/D000610
+FL,25,,R,Mr.,Mario,Diaz-Balart,,404 Cannon House Office Building,,Washington,DC,20515-0925,Representative,,M,http://clerk.house.gov/members/D000600
+MI,12,,D,Ms.,Debbie,Dingell,,116 Cannon House Office Building,,Washington,DC,20515-2212,Representative,,F,http://clerk.house.gov/members/D000624
+TX,35,,D,Mr.,Lloyd,Doggett,,2307 Rayburn House Office Building,,Washington,DC,20515-4335,Representative,,M,http://clerk.house.gov/members/D000399
+PA,18,,D,Mr.,Michael F.,Doyle,,306 Cannon House Office Building,,Washington,DC,20515-3818,Representative,,M,http://clerk.house.gov/members/D000482
+SC,03,,R,Mr.,Jeff,Duncan,,2229 Rayburn House Office Building,,Washington,DC,20515-4003,Representative,,M,http://clerk.house.gov/members/D000615
+FL,02,,R,Mr.,Neal P.,Dunn,,316 Cannon House Office Building,,Washington,DC,20515-0902,Representative,,M,http://clerk.house.gov/members/D000628
+MN,06,,R,Mr.,Tom,Emmer,,315 Cannon House Office Building,,Washington,DC,20515-2306,Representative,,M,http://clerk.house.gov/members/E000294
+NY,16,,D,Mr.,Eliot L.,Engel,,2426 Rayburn House Office Building,,Washington,DC,20515-3216,Representative,,M,http://clerk.house.gov/members/E000179
+TX,16,,D,Ms.,Veronica,Escobar,,1505 Longworth House Office Building,,Washington,DC,20515-4316,Representative,,F,http://clerk.house.gov/members/E000299
+CA,18,,D,Ms.,Anna G.,Eshoo,,202 Cannon House Office Building,,Washington,DC,20515-0518,Representative,,F,http://clerk.house.gov/members/E000215
+NY,13,,D,Mr.,Adriano,Espaillat,,1630 Longworth House Office Building,,Washington,DC,20515-3213,Representative,,M,http://clerk.house.gov/members/E000297
+KS,04,,R,Mr.,Ron,Estes,,1524 Longworth House Office Building,,Washington,DC,20515-1604,Representative,,M,http://clerk.house.gov/members/E000298
+PA,03,,D,Mr.,Dwight,Evans,,1105 Longworth House Office Building,,Washington,DC,20515-3803,Representative,,M,http://clerk.house.gov/members/E000296
+GA,03,,R,Mr.,A. Drew,Ferguson,IV,1032 Longworth House Office Building,,Washington,DC,20515-1003,Representative,,M,http://clerk.house.gov/members/F000465
+IA,01,,D,Ms.,Abby,Finkenauer,,124 Cannon House Office Building,,Washington,DC,20515-1501,Representative,,F,http://clerk.house.gov/members/F000467
+PA,01,,R,Mr.,Brian K.,Fitzpatrick,,1722 Longworth House Office Building,,Washington,DC,20515-3801,Representative,,M,http://clerk.house.gov/members/F000466
+TN,03,,R,Mr.,Chuck,Fleischmann,,2410 Rayburn House Office Building,,Washington,DC,20515-4203,Representative,,M,http://clerk.house.gov/members/F000459
+TX,07,,D,Ms.,Lizzie,Fletcher,,1429 Longworth House Office Building,,Washington,DC,20515-4307,Representative,,F,http://clerk.house.gov/members/F000468
+TX,17,,R,Mr.,Bill,Flores,,2228 Rayburn House Office Building,,Washington,DC,20515-4317,Representative,,M,http://clerk.house.gov/members/F000461
+NE,01,,R,Mr.,Jeff,Fortenberry,,1514 Longworth House Office Building,,Washington,DC,20515-2701,Representative,,M,http://clerk.house.gov/members/F000449
+IL,11,,D,Mr.,Bill,Foster,,2366 Rayburn House Office Building,,Washington,DC,20515-1311,Representative,,M,http://clerk.house.gov/members/F000454
+NC,05,,R,Ms.,Virginia,Foxx,,2462 Rayburn House Office Building,,Washington,DC,20515-3305,Representative,,F,http://clerk.house.gov/members/F000450
+FL,21,,D,Ms.,Lois,Frankel,,2305 Rayburn House Office Building,,Washington,DC,20515-0921,Representative,,F,http://clerk.house.gov/members/F000462
+OH,11,,D,Ms.,Marcia L.,Fudge,,2344 Rayburn House Office Building,,Washington,DC,20515-3511,Representative,,F,http://clerk.house.gov/members/F000455
+ID,01,,R,Mr.,Russ,Fulcher,,1520 Longworth House Office Building,,Washington,DC,20515-1201,Representative,,M,http://clerk.house.gov/members/F000469
+HI,02,,D,Ms.,Tulsi,Gabbard,,1433 Longworth House Office Building,,Washington,DC,20515-1102,Representative,,F,http://clerk.house.gov/members/G000571
+FL,01,,R,Mr.,Matt,Gaetz,,1721 Longworth House Office Building,,Washington,DC,20515-0901,Representative,,M,http://clerk.house.gov/members/G000578
+WI,08,,R,Mr.,Mike,Gallagher,,1230 Longworth House Office Building,,Washington,DC,20515-4908,Representative,,M,http://clerk.house.gov/members/G000579
+AZ,07,,D,Mr.,Ruben,Gallego,,1131 Longworth House Office Building,,Washington,DC,20515-0307,Representative,,M,http://clerk.house.gov/members/G000574
+CA,03,,D,Mr.,John,Garamendi,,2368 Rayburn House Office Building,,Washington,DC,20515-0503,Representative,,M,http://clerk.house.gov/members/G000559
+CA,25,,R,Mr.,Mike,Garcia,,1130 Longworth House Office Building,,Washington,DC,20515-0525,Representative,,M,http://clerk.house.gov/members/G000061
+TX,29,,D,Ms.,Sylvia R.,Garcia,,1620 Longworth House Office Building,,Washington,DC,20515-4329,Representative,,F,http://clerk.house.gov/members/G000587
+IL,04,,D,Mr.,Chuy,Garc√≠a,,530 Cannon House Office Building,,Washington,DC,20515-1304,Representative,,M,http://clerk.house.gov/members/G000586
+MT,00,,R,Mr.,Greg,Gianforte,,1222 Longworth House Office Building,,Washington,DC,20515-2600,Representative,,M,http://clerk.house.gov/members/G000584
+OH,07,,R,Mr.,Bob,Gibbs,,2446 Rayburn House Office Building,,Washington,DC,20515-3507,Representative,,M,http://clerk.house.gov/members/G000563
+TX,01,,R,Mr.,Louie,Gohmert,,2267 Rayburn House Office Building,,Washington,DC,20515-4301,Representative,,M,http://clerk.house.gov/members/G000552
+ME,02,,D,Mr.,Jared F.,Golden,,1223 Longworth House Office Building,,Washington,DC,20515-1902,Representative,,M,http://clerk.house.gov/members/G000592
+CA,34,,D,Mr.,Jimmy,Gomez,,1530 Longworth House Office Building,,Washington,DC,20515-0534,Representative,,M,http://clerk.house.gov/members/G000585
+OH,16,,R,Mr.,Anthony,Gonzalez,,1023 Longworth House Office Building,,Washington,DC,20515-3516,Representative,,M,http://clerk.house.gov/members/G000588
+TX,15,,D,Mr.,Vicente,Gonzalez,,113 Cannon House Office Building,,Washington,DC,20515-4315,Representative,,M,http://clerk.house.gov/members/G000581
+PR,00,,R,Ms.,Jenniffer,Gonz√°lez-Col√≥n,,1609 Longworth House Office Building,,Washington,DC,20515-5401,Representative,,F,http://clerk.house.gov/members/G000582
+TX,05,,R,Mr.,Lance,Gooden,,425 Cannon House Office Building,,Washington,DC,20515-4305,Representative,,M,http://clerk.house.gov/members/G000589
+AZ,04,,R,Mr.,Paul A.,Gosar,,2057 Rayburn House Office Building,,Washington,DC,20515-0304,Representative,,M,http://clerk.house.gov/members/G000565
+NJ,05,,D,Mr.,Josh,Gottheimer,,213 Cannon House Office Building,,Washington,DC,20515-3005,Representative,,M,http://clerk.house.gov/members/G000583
+TX,12,,R,Ms.,Kay,Granger,,1026 Longworth House Office Building,,Washington,DC,20515-4312,Representative,,F,http://clerk.house.gov/members/G000377
+LA,06,,R,Mr.,Garret,Graves,,2402 Rayburn House Office Building,,Washington,DC,20515-1806,Representative,,M,http://clerk.house.gov/members/G000577
+MO,06,,R,Mr.,Sam,Graves,,1135 Longworth House Office Building,,Washington,DC,20515-2506,Representative,,M,http://clerk.house.gov/members/G000546
+GA,14,,R,Mr.,Tom,Graves,,2078 Rayburn House Office Building,,Washington,DC,20515-1014,Representative,,M,http://clerk.house.gov/members/G000560
+TX,09,,D,Mr.,Al,Green,,2347 Rayburn House Office Building,,Washington,DC,20515-4309,Representative,,M,http://clerk.house.gov/members/G000553
+TN,07,,R,Mr.,Mark E.,Green,,533 Cannon House Office Building,,Washington,DC,20515-4207,Representative,,M,http://clerk.house.gov/members/G000590
+VA,09,,R,Mr.,H. Morgan,Griffith,,2202 Rayburn House Office Building,,Washington,DC,20515-4609,Representative,,M,http://clerk.house.gov/members/G000568
+AZ,03,,D,Mr.,Ra√∫l M.,Grijalva,,1511 Longworth House Office Building,,Washington,DC,20515-0303,Representative,,M,http://clerk.house.gov/members/G000551
+WI,06,,R,Mr.,Glenn,Grothman,,1427 Longworth House Office Building,,Washington,DC,20515-4906,Representative,,M,http://clerk.house.gov/members/G000576
+MS,03,,R,Mr.,Michael,Guest,,230 Cannon House Office Building,,Washington,DC,20515-2403,Representative,,M,http://clerk.house.gov/members/G000591
+KY,02,,R,Mr.,Brett,Guthrie,,2434 Rayburn House Office Building,,Washington,DC,20515-1702,Representative,,M,http://clerk.house.gov/members/G000558
+NM,01,,D,Ms.,Debra A.,Haaland,,1237 Longworth House Office Building,,Washington,DC,20515-3101,Representative,,F,http://clerk.house.gov/members/H001080
+MN,01,,R,Mr.,Jim,Hagedorn,,325 Cannon House Office Building,,Washington,DC,20515-2301,Representative,,M,http://clerk.house.gov/members/H001088
+CA,10,,D,Mr.,Josh,Harder,,131 Cannon House Office Building,,Washington,DC,20515-0510,Representative,,M,http://clerk.house.gov/members/H001090
+MD,01,,R,Mr.,Andy,Harris,,2334 Rayburn House Office Building,,Washington,DC,20515-2001,Representative,,M,http://clerk.house.gov/members/H001052
+MO,04,,R,Ms.,Vicky,Hartzler,,2235 Rayburn House Office Building,,Washington,DC,20515-2504,Representative,,F,http://clerk.house.gov/members/H001053
+FL,20,,D,Mr.,Alcee L.,Hastings,,2353 Rayburn House Office Building,,Washington,DC,20515-0920,Representative,,M,http://clerk.house.gov/members/H000324
+CT,05,,D,Ms.,Jahana,Hayes,,1415 Longworth House Office Building,,Washington,DC,20515-0705,Representative,,F,http://clerk.house.gov/members/H001081
+WA,10,,D,Mr.,Denny,Heck,,2452 Rayburn House Office Building,,Washington,DC,20515-4710,Representative,,M,http://clerk.house.gov/members/H001064
+OK,01,,R,Mr.,Kevin,Hern,,1019 Longworth House Office Building,,Washington,DC,20515-3601,Representative,,M,http://clerk.house.gov/members/H001082
+WA,03,,R,Ms.,Jaime,Herrera Beutler,,2352 Rayburn House Office Building,,Washington,DC,20515-4703,Representative,,F,http://clerk.house.gov/members/H001056
+GA,10,,R,Mr.,Jody B.,Hice,,409 Cannon House Office Building,,Washington,DC,20515-1010,Representative,,M,http://clerk.house.gov/members/H001071
+NY,26,,D,Mr.,Brian,Higgins,,2459 Rayburn House Office Building,,Washington,DC,20515-3226,Representative,,M,http://clerk.house.gov/members/H001038
+LA,03,,R,Mr.,Clay,Higgins,,424 Cannon House Office Building,,Washington,DC,20515-1803,Representative,,M,http://clerk.house.gov/members/H001077
+AR,02,,R,Mr.,J. French,Hill,,1533 Longworth House Office Building,,Washington,DC,20515-0402,Representative,,M,http://clerk.house.gov/members/H001072
+CT,04,,D,Mr.,James A.,Himes,,1227 Longworth House Office Building,,Washington,DC,20515-0704,Representative,,M,http://clerk.house.gov/members/H001047
+NC,02,,R,Mr.,George,Holding,,1110 Longworth House Office Building,,Washington,DC,20515-3302,Representative,,M,http://clerk.house.gov/members/H001065
+IN,09,,R,Mr.,Trey,Hollingsworth,,1641 Longworth House Office Building,,Washington,DC,20515-1409,Representative,,M,http://clerk.house.gov/members/H001074
+OK,05,,D,Ms.,Kendra S.,Horn,,415 Cannon House Office Building,,Washington,DC,20515-3605,Representative,,F,http://clerk.house.gov/members/H001083
+NV,04,,D,Mr.,Steven,Horsford,,1330 Longworth House Office Building,,Washington,DC,20515-2804,Representative,,M,http://clerk.house.gov/members/H001066
+PA,06,,D,Ms.,Chrissy,Houlahan,,1218 Longworth House Office Building,,Washington,DC,20515-3806,Representative,,F,http://clerk.house.gov/members/H001085
+MD,05,,D,Mr.,Steny H.,Hoyer,,1705 Longworth House Office Building,,Washington,DC,20515-2005,Representative,,M,http://clerk.house.gov/members/H000874
+NC,08,,R,Mr.,Richard,Hudson,,2112 Rayburn House Office Building,,Washington,DC,20515-3308,Representative,,M,http://clerk.house.gov/members/H001067
+CA,02,,D,Mr.,Jared,Huffman,,1527 Longworth House Office Building,,Washington,DC,20515-0502,Representative,,M,http://clerk.house.gov/members/H001068
+MI,02,,R,Mr.,Bill,Huizenga,,2232 Rayburn House Office Building,,Washington,DC,20515-2202,Representative,,M,http://clerk.house.gov/members/H001058
+TX,23,,R,Mr.,Will,Hurd,,317 Cannon House Office Building,,Washington,DC,20515-4323,Representative,,M,http://clerk.house.gov/members/H001073
+TX,18,,D,Ms.,Sheila,Jackson Lee,,2079 Rayburn House Office Building,,Washington,DC,20515-4318,Representative,,F,http://clerk.house.gov/members/J000032
+NY,27,,R,Mr.,Chris,Jacobs,,2243 Rayburn House Office Building,,Washington,DC,20515-3227,Representative,,M,http://clerk.house.gov/members/J000020
+WA,07,,D,Ms.,Pramila,Jayapal,,1510 Longworth House Office Building,,Washington,DC,20515-4707,Representative,,F,http://clerk.house.gov/members/J000298
+NY,08,,D,Mr.,Hakeem S.,Jeffries,,2433 Rayburn House Office Building,,Washington,DC,20515-3208,Representative,,M,http://clerk.house.gov/members/J000294
+OH,06,,R,Mr.,Bill,Johnson,,2336 Rayburn House Office Building,,Washington,DC,20515-3506,Representative,,M,http://clerk.house.gov/members/J000292
+SD,00,,R,Mr.,Dusty,Johnson,,1508 Longworth House Office Building,,Washington,DC,20515-4100,Representative,,M,http://clerk.house.gov/members/J000301
+TX,30,,D,Ms.,Eddie Bernice,Johnson,,2306 Rayburn House Office Building,,Washington,DC,20515-4330,Representative,,F,http://clerk.house.gov/members/J000126
+GA,04,,D,Mr.,Hank,Johnson,Jr.,2240 Rayburn House Office Building,,Washington,DC,20515-1004,Representative,,M,http://clerk.house.gov/members/J000288
+LA,04,,R,Mr.,Mike,Johnson,,418 Cannon House Office Building,,Washington,DC,20515-1804,Representative,,M,http://clerk.house.gov/members/J000299
+OH,04,,R,Mr.,Jim,Jordan,,2056 Rayburn House Office Building,,Washington,DC,20515-3504,Representative,,M,http://clerk.house.gov/members/J000289
+OH,14,,R,Mr.,David P.,Joyce,,1124 Longworth House Office Building,,Washington,DC,20515-3514,Representative,,M,http://clerk.house.gov/members/J000295
+PA,13,,R,Mr.,John,Joyce,,1337 Longworth House Office Building,,Washington,DC,20515-3813,Representative,,M,http://clerk.house.gov/members/J000302
+OH,09,,D,Ms.,Marcy,Kaptur,,2186 Rayburn House Office Building,,Washington,DC,20515-3509,Representative,,F,http://clerk.house.gov/members/K000009
+NY,24,,R,Mr.,John,Katko,,2457 Rayburn House Office Building,,Washington,DC,20515-3224,Representative,,M,http://clerk.house.gov/members/K000386
+MA,09,,D,Mr.,William R.,Keating,,2351 Rayburn House Office Building,,Washington,DC,20515-2109,Representative,,M,http://clerk.house.gov/members/K000375
+PA,12,,R,Mr.,Fred,Keller,,1717 Longworth House Office Building,,Washington,DC,20515-3812,Representative,,M,http://clerk.house.gov/members/K000395
+PA,16,,R,Mr.,Mike,Kelly,,1707 Longworth House Office Building,,Washington,DC,20515-3816,Representative,,M,http://clerk.house.gov/members/K000376
+IL,02,,D,Ms.,Robin L.,Kelly,,2416 Rayburn House Office Building,,Washington,DC,20515-1302,Representative,,F,http://clerk.house.gov/members/K000385
+MS,01,,R,Mr.,Trent,Kelly,,1005 Longworth House Office Building,,Washington,DC,20515-2401,Representative,,M,http://clerk.house.gov/members/K000388
+MA,04,,D,Mr.,Joseph P.,Kennedy,III,304 Cannon House Office Building,,Washington,DC,20515-2104,Representative,,M,http://clerk.house.gov/members/K000379
+CA,17,,D,Mr.,Ro,Khanna,,221 Cannon House Office Building,,Washington,DC,20515-0517,Representative,,M,http://clerk.house.gov/members/K000389
+MI,05,,D,Mr.,Daniel T.,Kildee,,203 Cannon House Office Building,,Washington,DC,20515-2205,Representative,,M,http://clerk.house.gov/members/K000380
+WA,06,,D,Mr.,Derek,Kilmer,,1410 Longworth House Office Building,,Washington,DC,20515-4706,Representative,,M,http://clerk.house.gov/members/K000381
+NJ,03,,D,Mr.,Andy,Kim,,1516 Longworth House Office Building,,Washington,DC,20515-3003,Representative,,M,http://clerk.house.gov/members/K000394
+WI,03,,D,Mr.,Ron,Kind,,1502 Longworth House Office Building,,Washington,DC,20515-4903,Representative,,M,http://clerk.house.gov/members/K000188
+NY,02,,R,Mr.,Peter T.,King,,302 Cannon House Office Building,,Washington,DC,20515-3202,Representative,,M,http://clerk.house.gov/members/K000210
+IA,04,,R,Mr.,Steve,King,,2210 Rayburn House Office Building,,Washington,DC,20515-1504,Representative,,M,http://clerk.house.gov/members/K000362
+IL,16,,R,Mr.,Adam,Kinzinger,,2245 Rayburn House Office Building,,Washington,DC,20515-1316,Representative,,M,http://clerk.house.gov/members/K000378
+AZ,02,,D,Ms.,Ann,Kirkpatrick,,309 Cannon House Office Building,,Washington,DC,20515-0302,Representative,,F,http://clerk.house.gov/members/K000368
+IL,08,,D,Mr.,Raja,Krishnamoorthi,,115 Cannon House Office Building,,Washington,DC,20515-1308,Representative,,M,http://clerk.house.gov/members/K000391
+NH,02,,D,Ms.,Ann M.,Kuster,,320 Cannon House Office Building,,Washington,DC,20515-2902,Representative,,F,http://clerk.house.gov/members/K000382
+TN,08,,R,Mr.,David,Kustoff,,523 Cannon House Office Building,,Washington,DC,20515-4208,Representative,,M,http://clerk.house.gov/members/K000392
+IL,18,,R,Mr.,Darin,LaHood,,1424 Longworth House Office Building,,Washington,DC,20515-1318,Representative,,M,http://clerk.house.gov/members/L000585
+CA,01,,R,Mr.,Doug,LaMalfa,,322 Cannon House Office Building,,Washington,DC,20515-0501,Representative,,M,http://clerk.house.gov/members/L000578
+PA,17,,D,Mr.,Conor,Lamb,,1224 Longworth House Office Building,,Washington,DC,20515-3817,Representative,,M,http://clerk.house.gov/members/L000588
+CO,05,,R,Mr.,Doug,Lamborn,,2371 Rayburn House Office Building,,Washington,DC,20515-0605,Representative,,M,http://clerk.house.gov/members/L000564
+RI,02,,D,Mr.,James R.,Langevin,,2077 Rayburn House Office Building,,Washington,DC,20515-3902,Representative,,M,http://clerk.house.gov/members/L000559
+WA,02,,D,Mr.,Rick,Larsen,,2113 Rayburn House Office Building,,Washington,DC,20515-4702,Representative,,M,http://clerk.house.gov/members/L000560
+CT,01,,D,Mr.,John B.,Larson,,1501 Longworth House Office Building,,Washington,DC,20515-0701,Representative,,M,http://clerk.house.gov/members/L000557
+OH,05,,R,Mr.,Robert E.,Latta,,2467 Rayburn House Office Building,,Washington,DC,20515-3505,Representative,,M,http://clerk.house.gov/members/L000566
+MI,14,,D,Ms.,Brenda L.,Lawrence,,2463 Rayburn House Office Building,,Washington,DC,20515-2214,Representative,,F,http://clerk.house.gov/members/L000581
+FL,05,,D,Mr.,Al,Lawson,Jr.,1406 Longworth House Office Building,,Washington,DC,20515-0905,Representative,,M,http://clerk.house.gov/members/L000586
+CA,13,,D,Ms.,Barbara,Lee,,2470 Rayburn House Office Building,,Washington,DC,20515-0513,Representative,,F,http://clerk.house.gov/members/L000551
+NV,03,,D,Ms.,Susie,Lee,,522 Cannon House Office Building,,Washington,DC,20515-2803,Representative,,F,http://clerk.house.gov/members/L000590
+AZ,08,,R,Ms.,Debbie,Lesko,,1113 Longworth House Office Building,,Washington,DC,20515-0308,Representative,,F,http://clerk.house.gov/members/L000589
+MI,09,,D,Mr.,Andy,Levin,,228 Cannon House Office Building,,Washington,DC,20515-2209,Representative,,M,http://clerk.house.gov/members/L000592
+CA,49,,D,Mr.,Mike,Levin,,1626 Longworth House Office Building,,Washington,DC,20515-0549,Representative,,M,http://clerk.house.gov/members/L000593
+CA,33,,D,Mr.,Ted,Lieu,,403 Cannon House Office Building,,Washington,DC,20515-0533,Representative,,M,http://clerk.house.gov/members/L000582
+IL,03,,D,Mr.,Daniel,Lipinski,,2346 Rayburn House Office Building,,Washington,DC,20515-1303,Representative,,M,http://clerk.house.gov/members/L000563
+IA,02,,D,Mr.,David,Loebsack,,1211 Longworth House Office Building,,Washington,DC,20515-1502,Representative,,M,http://clerk.house.gov/members/L000565
+CA,19,,D,Ms.,Zoe,Lofgren,,1401 Longworth House Office Building,,Washington,DC,20515-0519,Representative,,F,http://clerk.house.gov/members/L000397
+MO,07,,R,Mr.,Billy,Long,,2454 Rayburn House Office Building,,Washington,DC,20515-2507,Representative,,M,http://clerk.house.gov/members/L000576
+GA,11,,R,Mr.,Barry,Loudermilk,,422 Cannon House Office Building,,Washington,DC,20515-1011,Representative,,M,http://clerk.house.gov/members/L000583
+CA,47,,D,Mr.,Alan S.,Lowenthal,,108 Cannon House Office Building,,Washington,DC,20515-0547,Representative,,M,http://clerk.house.gov/members/L000579
+NY,17,,D,Ms.,Nita M.,Lowey,,2365 Rayburn House Office Building,,Washington,DC,20515-3217,Representative,,F,http://clerk.house.gov/members/L000480
+OK,03,,R,Mr.,Frank D.,Lucas,,2405 Rayburn House Office Building,,Washington,DC,20515-3603,Representative,,M,http://clerk.house.gov/members/L000491
+MO,03,,R,Mr.,Blaine,Luetkemeyer,,2230 Rayburn House Office Building,,Washington,DC,20515-2503,Representative,,M,http://clerk.house.gov/members/L000569
+NM,03,,D,Mr.,Ben Ray,Luj√°n,,2323 Rayburn House Office Building,,Washington,DC,20515-3103,Representative,,M,http://clerk.house.gov/members/L000570
+VA,02,,D,Ms.,Elaine G.,Luria,,534 Cannon House Office Building,,Washington,DC,20515-4602,Representative,,F,http://clerk.house.gov/members/L000591
+MA,08,,D,Mr.,Stephen F.,Lynch,,2109 Rayburn House Office Building,,Washington,DC,20515-2108,Representative,,M,http://clerk.house.gov/members/L000562
+NJ,07,,D,Mr.,Tom,Malinowski,,426 Cannon House Office Building,,Washington,DC,20515-3007,Representative,,M,http://clerk.house.gov/members/M001203
+NY,12,,D,Ms.,Carolyn B.,Maloney,,2308 Rayburn House Office Building,,Washington,DC,20515-3212,Representative,,F,http://clerk.house.gov/members/M000087
+NY,18,,D,Mr.,Sean Patrick,Maloney,,2331 Rayburn House Office Building,,Washington,DC,20515-3218,Representative,,M,http://clerk.house.gov/members/M001185
+TX,24,,R,Mr.,Kenny,Marchant,,2304 Rayburn House Office Building,,Washington,DC,20515-4324,Representative,,M,http://clerk.house.gov/members/M001158
+KS,01,,R,Mr.,Roger W.,Marshall,,312 Cannon House Office Building,,Washington,DC,20515-1601,Representative,,M,http://clerk.house.gov/members/M001198
+KY,04,,R,Mr.,Thomas,Massie,,2453 Rayburn House Office Building,,Washington,DC,20515-1704,Representative,,M,http://clerk.house.gov/members/M001184
+FL,18,,R,Mr.,Brian J.,Mast,,2182 Rayburn House Office Building,,Washington,DC,20515-0918,Representative,,M,http://clerk.house.gov/members/M001199
+CA,06,,D,Ms.,Doris O.,Matsui,,2311 Rayburn House Office Building,,Washington,DC,20515-0506,Representative,,F,http://clerk.house.gov/members/M001163
+UT,04,,D,Mr.,Ben,McAdams,,130 Cannon House Office Building,,Washington,DC,20515-4404,Representative,,M,http://clerk.house.gov/members/M001209
+GA,06,,D,Ms.,Lucy,McBath,,1513 Longworth House Office Building,,Washington,DC,20515-1006,Representative,,F,http://clerk.house.gov/members/M001208
+CA,23,,R,Mr.,Kevin,McCarthy,,2468 Rayburn House Office Building,,Washington,DC,20515-0523,Representative,Minority Leader,M,http://clerk.house.gov/members/M001165
+TX,10,,R,Mr.,Michael T.,McCaul,,2001 Rayburn House Office Building,,Washington,DC,20515-4310,Representative,,M,http://clerk.house.gov/members/M001157
+CA,04,,R,Mr.,Tom,McClintock,,2312 Rayburn House Office Building,,Washington,DC,20515-0504,Representative,,M,http://clerk.house.gov/members/M001177
+MN,04,,D,Ms.,Betty,McCollum,,2256 Rayburn House Office Building,,Washington,DC,20515-2304,Representative,,F,http://clerk.house.gov/members/M001143
+VA,04,,D,Mr.,A. Donald,McEachin,,314 Cannon House Office Building,,Washington,DC,20515-4604,Representative,,M,http://clerk.house.gov/members/M001200
+MA,02,,D,Mr.,James P.,McGovern,,408 Cannon House Office Building,,Washington,DC,20515-2102,Representative,,M,http://clerk.house.gov/members/M000312
+NC,10,,R,Mr.,Patrick T.,McHenry,,2004 Rayburn House Office Building,,Washington,DC,20515-3310,Representative,,M,http://clerk.house.gov/members/M001156
+WV,01,,R,Mr.,David B.,McKinley,,2239 Rayburn House Office Building,,Washington,DC,20515-4801,Representative,,M,http://clerk.house.gov/members/M001180
+CA,09,,D,Mr.,Jerry,McNerney,,2265 Rayburn House Office Building,,Washington,DC,20515-0509,Representative,,M,http://clerk.house.gov/members/M001166
+NY,05,,D,Mr.,Gregory W.,Meeks,,2310 Rayburn House Office Building,,Washington,DC,20515-3205,Representative,,M,http://clerk.house.gov/members/M001137
+NY,06,,D,Ms.,Grace,Meng,,2209 Rayburn House Office Building,,Washington,DC,20515-3206,Representative,,F,http://clerk.house.gov/members/M001188
+PA,09,,R,Mr.,Daniel,Meuser,,326 Cannon House Office Building,,Washington,DC,20515-3809,Representative,,M,http://clerk.house.gov/members/M001204
+MD,07,,D,Mr.,Kweisi,Mfume,,2163 Rayburn House Office Building,,Washington,DC,20515-2007,Representative,,M,http://clerk.house.gov/members/M000687
+WV,03,,R,Ms.,Carol D.,Miller,,1605 Longworth House Office Building,,Washington,DC,20515-4803,Representative,,F,http://clerk.house.gov/members/M001205
+MI,10,,R,Mr.,Paul,Mitchell,,211 Cannon House Office Building,,Washington,DC,20515-2210,Representative,,M,http://clerk.house.gov/members/M001201
+MI,04,,R,Mr.,John R.,Moolenaar,,117 Cannon House Office Building,,Washington,DC,20515-2204,Representative,,M,http://clerk.house.gov/members/M001194
+WV,02,,R,Mr.,Alexander X.,Mooney,,2440 Rayburn House Office Building,,Washington,DC,20515-4802,Representative,,M,http://clerk.house.gov/members/M001195
+WI,04,,D,Ms.,Gwen,Moore,,2252 Rayburn House Office Building,,Washington,DC,20515-4904,Representative,,F,http://clerk.house.gov/members/M001160
+NY,25,,D,Mr.,Joseph D.,Morelle,,1317 Longworth House Office Building,,Washington,DC,20515-3225,Representative,,M,http://clerk.house.gov/members/M001206
+MA,06,,D,Mr.,Seth,Moulton,,1127 Longworth House Office Building,,Washington,DC,20515-2106,Representative,,M,http://clerk.house.gov/members/M001196
+FL,26,,D,Ms.,Debbie,Mucarsel-Powell,,114 Cannon House Office Building,,Washington,DC,20515-0926,Representative,,F,http://clerk.house.gov/members/M001207
+OK,02,,R,Mr.,Markwayne,Mullin,,2421 Rayburn House Office Building,,Washington,DC,20515-3602,Representative,,M,http://clerk.house.gov/members/M001190
+NC,03,,R,Mr.,Gregory F.,Murphy,,2333 Rayburn House Office Building,,Washington,DC,20515-3303,Representative,,M,http://clerk.house.gov/members/M001210
+FL,07,,D,Ms.,Stephanie N.,Murphy,,1710 Longworth House Office Building,,Washington,DC,20515-0907,Representative,,F,http://clerk.house.gov/members/M001202
+NY,10,,D,Mr.,Jerrold,Nadler,,2132 Rayburn House Office Building,,Washington,DC,20515-3210,Representative,,M,http://clerk.house.gov/members/N000002
+CA,32,,D,Ms.,Grace F.,Napolitano,,1610 Longworth House Office Building,,Washington,DC,20515-0532,Representative,,F,http://clerk.house.gov/members/N000179
+MA,01,,D,Mr.,Richard E.,Neal,,2309 Rayburn House Office Building,,Washington,DC,20515-2101,Representative,,M,http://clerk.house.gov/members/N000015
+CO,02,,D,Mr.,Joe,Neguse,,1419 Longworth House Office Building,,Washington,DC,20515-0602,Representative,,M,http://clerk.house.gov/members/N000191
+WA,04,,R,Mr.,Dan,Newhouse,,1414 Longworth House Office Building,,Washington,DC,20515-4704,Representative,,M,http://clerk.house.gov/members/N000189
+NJ,01,,D,Mr.,Donald,Norcross,,2437 Rayburn House Office Building,,Washington,DC,20515-3001,Representative,,M,http://clerk.house.gov/members/N000188
+SC,05,,R,Mr.,Ralph,Norman,,319 Cannon House Office Building,,Washington,DC,20515-4005,Representative,,M,http://clerk.house.gov/members/N000190
+DC,00,,D,Ms.,Eleanor Holmes,Norton,,2136 Rayburn House Office Building,,Washington,DC,20515-5101,Representative,,F,http://clerk.house.gov/members/N000147
+CA,22,,R,Mr.,Devin,Nunes,,1013 Longworth House Office Building,,Washington,DC,20515-0522,Representative,,M,http://clerk.house.gov/members/N000181
+AZ,01,,D,Mr.,Tom,O'Halleran,,324 Cannon House Office Building,,Washington,DC,20515-0301,Representative,,M,http://clerk.house.gov/members/O000171
+NY,14,,D,Ms.,Alexandria,Ocasio-Cortez,,229 Cannon House Office Building,,Washington,DC,20515-3214,Representative,,F,http://clerk.house.gov/members/O000172
+NC,11,,,,,Office of the 11th Congressional District of North Carolina,,2160 Rayburn House Office Building,,Washington,DC,20515-3311,Representative,,F,http://clerk.house.gov/members/
+TX,04,,,,,Office of the 4th Congressional District of Texas,,223 Cannon House Office Building,,Washington,DC,20515-4304,Representative,,F,http://clerk.house.gov/members/
+CA,50,,,,,Office of the 50th Congressional District of California,,2429 Rayburn House Office Building,,Washington,DC,20515-0550,Representative,,F,http://clerk.house.gov/members/
+GA,05,,,,,Office of the 5th Congressional District of Georgia,,300 Cannon House Office Building,,Washington,DC,20515-1005,Representative,,F,http://clerk.house.gov/members/
+TX,22,,R,Mr.,Pete,Olson,,2133 Rayburn House Office Building,,Washington,DC,20515-4322,Representative,,M,http://clerk.house.gov/members/O000168
+MN,05,,D,Ms.,Ilhan,Omar,,1517 Longworth House Office Building,,Washington,DC,20515-2305,Representative,,F,http://clerk.house.gov/members/O000173
+MS,04,,R,Mr.,Steven M.,Palazzo,,2349 Rayburn House Office Building,,Washington,DC,20515-2404,Representative,,M,http://clerk.house.gov/members/P000601
+NJ,06,,D,Mr.,Frank,Pallone,Jr.,2107 Rayburn House Office Building,,Washington,DC,20515-3006,Representative,,M,http://clerk.house.gov/members/P000034
+AL,06,,R,Mr.,Abe,Palmer (Dist 6),,207 Cannon House Office Building,,Washington,DC,20515-0106,Representative,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+CA,20,,D,Mr.,Jimmy,Panetta,,212 Cannon House Office Building,,Washington,DC,20515-0520,Representative,,M,http://clerk.house.gov/members/P000613
+NH,01,,D,Mr.,Chris,Pappas,,323 Cannon House Office Building,,Washington,DC,20515-2901,Representative,,M,http://clerk.house.gov/members/P000614
+NJ,09,,D,Mr.,Bill,Pascrell,Jr.,2409 Rayburn House Office Building,,Washington,DC,20515-3009,Representative,,M,http://clerk.house.gov/members/P000096
+NJ,10,,D,Mr.,Donald M.,Payne,Jr.,103 Cannon House Office Building,,Washington,DC,20515-3010,Representative,,M,http://clerk.house.gov/members/P000604
+CA,12,,D,Ms.,Nancy,Pelosi,,1236 Longworth House Office Building,,Washington,DC,20515-0512,Representative,Speaker of the House,F,http://clerk.house.gov/members/P000197
+IN,06,,R,Mr.,Greg,Pence,,222 Cannon House Office Building,,Washington,DC,20515-1406,Representative,,M,http://clerk.house.gov/members/P000615
+CO,07,,D,Mr.,Ed,Perlmutter,,1226 Longworth House Office Building,,Washington,DC,20515-0607,Representative,,M,http://clerk.house.gov/members/P000593
+PA,10,,R,Mr.,Scott,Perry,,1207 Longworth House Office Building,,Washington,DC,20515-3810,Representative,,M,http://clerk.house.gov/members/P000605
+CA,52,,D,Mr.,Scott H.,Peters,,2338 Rayburn House Office Building,,Washington,DC,20515-0552,Representative,,M,http://clerk.house.gov/members/P000608
+MN,07,,D,Mr.,Collin C.,Peterson,,2204 Rayburn House Office Building,,Washington,DC,20515-2307,Representative,,M,http://clerk.house.gov/members/P000258
+MN,03,,D,Mr.,Dean,Phillips,,1305 Longworth House Office Building,,Washington,DC,20515-2303,Representative,,M,http://clerk.house.gov/members/P000616
+ME,01,,D,Ms.,Chellie,Pingree,,2162 Rayburn House Office Building,,Washington,DC,20515-1901,Representative,,F,http://clerk.house.gov/members/P000597
+VI,00,,D,Ms.,Stacey E.,Plaskett,,2404 Rayburn House Office Building,,Washington,DC,20515-5500,Representative,,F,http://clerk.house.gov/members/P000610
+WI,02,,D,Mr.,Mark,Pocan,,1421 Longworth House Office Building,,Washington,DC,20515-4902,Representative,,M,http://clerk.house.gov/members/P000607
+CA,45,,D,Ms.,Katie,Porter,,1117 Longworth House Office Building,,Washington,DC,20515-0545,Representative,,F,http://clerk.house.gov/members/P000618
+FL,08,,R,Mr.,Bill,Posey,,2150 Rayburn House Office Building,,Washington,DC,20515-0908,Representative,,M,http://clerk.house.gov/members/P000599
+MA,07,,D,Ms.,Ayanna,Pressley,,1108 Longworth House Office Building,,Washington,DC,20515-2107,Representative,,F,http://clerk.house.gov/members/P000617
+NC,04,,D,Mr.,David E.,Price,,2108 Rayburn House Office Building,,Washington,DC,20515-3304,Representative,,M,http://clerk.house.gov/members/P000523
+IL,05,,D,Mr.,Mike,Quigley,,2458 Rayburn House Office Building,,Washington,DC,20515-1305,Representative,,M,http://clerk.house.gov/members/Q000023
+AS,00,,R,Ms.,Aumua Amata Coleman,Radewagen,,1339 Longworth House Office Building,,Washington,DC,20515-5200,Representative,,F,http://clerk.house.gov/members/R000600
+MD,08,,D,Mr.,Jamie,Raskin,,412 Cannon House Office Building,,Washington,DC,20515-2008,Representative,,M,http://clerk.house.gov/members/R000606
+NY,23,,R,Mr.,Tom,Reed,,2263 Rayburn House Office Building,,Washington,DC,20515-3223,Representative,,M,http://clerk.house.gov/members/R000585
+PA,14,,R,Mr.,Guy,Reschenthaler,,531 Cannon House Office Building,,Washington,DC,20515-3814,Representative,,M,http://clerk.house.gov/members/R000610
+NY,04,,D,Ms.,Kathleen M.,Rice,,2435 Rayburn House Office Building,,Washington,DC,20515-3204,Representative,,F,http://clerk.house.gov/members/R000602
+SC,07,,R,Mr.,Tom,Rice,,512 Cannon House Office Building,,Washington,DC,20515-4007,Representative,,M,http://clerk.house.gov/members/R000597
+LA,02,,D,Mr.,Cedric L.,Richmond,,506 Cannon House Office Building,,Washington,DC,20515-1802,Representative,,M,http://clerk.house.gov/members/R000588
+VA,05,,R,Mr.,Denver,Riggleman,,1022 Longworth House Office Building,,Washington,DC,20515-4605,Representative,,M,http://clerk.house.gov/members/R000611
+AL,02,,R,Ms.,Abe,Roby (Dist 2),,504 Cannon House Office Building,,Washington,DC,20515-0102,Representative,,F,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+WA,05,,R,Ms.,Cathy McMorris,Rodgers,,1035 Longworth House Office Building,,Washington,DC,20515-4705,Representative,,F,http://clerk.house.gov/members/M001159
+TN,01,,R,Mr.,David P.,Roe,,102 Cannon House Office Building,,Washington,DC,20515-4201,Representative,,M,http://clerk.house.gov/members/R000582
+KY,05,,R,Mr.,Harold,Rogers,,2406 Rayburn House Office Building,,Washington,DC,20515-1705,Representative,,M,http://clerk.house.gov/members/R000395
+AL,03,,R,Mr.,Abe,Rogers (Dist 3),,2184 Rayburn House Office Building,,Washington,DC,20515-0103,Representative,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+FL,19,,R,Mr.,Francis,Rooney,,120 Cannon House Office Building,,Washington,DC,20515-0919,Representative,,M,http://clerk.house.gov/members/R000607
+TN,06,,R,Mr.,John W.,Rose,,1232 Longworth House Office Building,,Washington,DC,20515-4206,Representative,,M,http://clerk.house.gov/members/R000612
+NY,11,,D,Mr.,Max,Rose,,1529 Longworth House Office Building,,Washington,DC,20515-3211,Representative,,M,http://clerk.house.gov/members/R000613
+CA,48,,D,Mr.,Harley,Rouda,,2300 Rayburn House Office Building,,Washington,DC,20515-0548,Representative,,M,http://clerk.house.gov/members/R000616
+NC,07,,R,Mr.,David,Rouzer,,2439 Rayburn House Office Building,,Washington,DC,20515-3307,Representative,,M,http://clerk.house.gov/members/R000603
+TX,21,,R,Mr.,Chip,Roy,,1319 Longworth House Office Building,,Washington,DC,20515-4321,Representative,,M,http://clerk.house.gov/members/R000614
+CA,40,,D,Ms.,Lucille,Roybal-Allard,,2083 Rayburn House Office Building,,Washington,DC,20515-0540,Representative,,F,http://clerk.house.gov/members/R000486
+CA,36,,D,Mr.,Raul,Ruiz,,2342 Rayburn House Office Building,,Washington,DC,20515-0536,Representative,,M,http://clerk.house.gov/members/R000599
+MD,02,,D,Mr.,C. A. Dutch,Ruppersberger,,2206 Rayburn House Office Building,,Washington,DC,20515-2002,Representative,,M,http://clerk.house.gov/members/R000576
+IL,01,,D,Mr.,Bobby L.,Rush,,2188 Rayburn House Office Building,,Washington,DC,20515-1301,Representative,,M,http://clerk.house.gov/members/R000515
+FL,04,,R,Mr.,John H.,Rutherford,,1711 Longworth House Office Building,,Washington,DC,20515-0904,Representative,,M,http://clerk.house.gov/members/R000609
+OH,13,,D,Mr.,Tim,Ryan,,1126 Longworth House Office Building,,Washington,DC,20515-3513,Representative,,M,http://clerk.house.gov/members/R000577
+MP,00,,D,Mr.,Gregorio Kilili Camacho,Sablan,,2411 Rayburn House Office Building,,Washington,DC,20515-5201,Representative,,M,http://clerk.house.gov/members/S001177
+GU,00,,D,Mr.,Michael F. Q.,San Nicolas,,1632 Longworth House Office Building,,Washington,DC,20515-5301,Representative,,M,http://clerk.house.gov/members/S001204
+CA,38,,D,Ms.,Linda T.,S√°nchez,,2329 Rayburn House Office Building,,Washington,DC,20515-0538,Representative,,F,http://clerk.house.gov/members/S001156
+MD,03,,D,Mr.,John P.,Sarbanes,,2370 Rayburn House Office Building,,Washington,DC,20515-2003,Representative,,M,http://clerk.house.gov/members/S001168
+LA,01,,R,Mr.,Steve,Scalise,,2049 Rayburn House Office Building,,Washington,DC,20515-1801,Representative,,M,http://clerk.house.gov/members/S001176
+PA,05,,D,Ms.,Mary Gay,Scanlon,,1535 Longworth House Office Building,,Washington,DC,20515-3805,Representative,,F,http://clerk.house.gov/members/S001205
+IL,09,,D,Ms.,Janice D.,Schakowsky,,2367 Rayburn House Office Building,,Washington,DC,20515-1309,Representative,,F,http://clerk.house.gov/members/S001145
+CA,28,,D,Mr.,Adam B.,Schiff,,2269 Rayburn House Office Building,,Washington,DC,20515-0528,Representative,,M,http://clerk.house.gov/members/S001150
+IL,10,,D,Mr.,Bradley Scott,Schneider,,1432 Longworth House Office Building,,Washington,DC,20515-1310,Representative,,M,http://clerk.house.gov/members/S001190
+OR,05,,D,Mr.,Kurt,Schrader,,2431 Rayburn House Office Building,,Washington,DC,20515-3705,Representative,,M,http://clerk.house.gov/members/S001180
+WA,08,,D,Ms.,Kim,Schrier,,1123 Longworth House Office Building,,Washington,DC,20515-4708,Representative,,F,http://clerk.house.gov/members/S001216
+AZ,06,,R,Mr.,David,Schweikert,,1526 Longworth House Office Building,,Washington,DC,20515-0306,Representative,,M,http://clerk.house.gov/members/S001183
+GA,08,,R,Mr.,Austin,Scott,,2417 Rayburn House Office Building,,Washington,DC,20515-1008,Representative,,M,http://clerk.house.gov/members/S001189
+GA,13,,D,Mr.,David,Scott,,225 Cannon House Office Building,,Washington,DC,20515-1013,Representative,,M,http://clerk.house.gov/members/S001157
+VA,03,,D,Mr.,Bobby,Scott,,1201 Longworth House Office Building,,Washington,DC,20515-4603,Representative,,M,http://clerk.house.gov/members/S000185
+WI,05,,R,Mr.,F. James,Sensenbrenner,Jr.,2449 Rayburn House Office Building,,Washington,DC,20515-4905,Representative,,M,http://clerk.house.gov/members/S000244
+NY,15,,D,Mr.,Jos√© E.,Serrano,,2354 Rayburn House Office Building,,Washington,DC,20515-3215,Representative,,M,http://clerk.house.gov/members/S000248
+AL,07,,D,Ms.,Abe,Sewell (Dist 4),,2201 Rayburn House Office Building,,Washington,DC,20515-0107,Representative,,F,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+FL,27,,D,Ms.,Donna E.,Shalala,,1320 Longworth House Office Building,,Washington,DC,20515-0927,Representative,,F,http://clerk.house.gov/members/S001206
+CA,30,,D,Mr.,Brad,Sherman,,2181 Rayburn House Office Building,,Washington,DC,20515-0530,Representative,,M,http://clerk.house.gov/members/S000344
+NJ,11,,D,Ms.,Mikie,Sherrill,,1208 Longworth House Office Building,,Washington,DC,20515-3011,Representative,,F,http://clerk.house.gov/members/S001207
+IL,15,,R,Mr.,John,Shimkus,,2217 Rayburn House Office Building,,Washington,DC,20515-1315,Representative,,M,http://clerk.house.gov/members/S000364
+ID,02,,R,Mr.,Michael K.,Simpson,,2084 Rayburn House Office Building,,Washington,DC,20515-1202,Representative,,M,http://clerk.house.gov/members/S001148
+NJ,08,,D,Mr.,Albio,Sires,,2268 Rayburn House Office Building,,Washington,DC,20515-3008,Representative,,M,http://clerk.house.gov/members/S001165
+MI,08,,D,Ms.,Elissa,Slotkin,,1531 Longworth House Office Building,,Washington,DC,20515-2208,Representative,,F,http://clerk.house.gov/members/S001208
+WA,09,,D,Mr.,Adam,Smith,,2264 Rayburn House Office Building,,Washington,DC,20515-4709,Representative,,M,http://clerk.house.gov/members/S000510
+NE,03,,R,Mr.,Adrian,Smith,,502 Cannon House Office Building,,Washington,DC,20515-2703,Representative,,M,http://clerk.house.gov/members/S001172
+NJ,04,,R,Mr.,Christopher H.,Smith,,2373 Rayburn House Office Building,,Washington,DC,20515-3004,Representative,,M,http://clerk.house.gov/members/S000522
+MO,08,,R,Mr.,Jason,Smith,,2418 Rayburn House Office Building,,Washington,DC,20515-2508,Representative,,M,http://clerk.house.gov/members/S001195
+PA,11,,R,Mr.,Lloyd,Smucker,,127 Cannon House Office Building,,Washington,DC,20515-3811,Representative,,M,http://clerk.house.gov/members/S001199
+FL,09,,D,Mr.,Darren,Soto,,1507 Longworth House Office Building,,Washington,DC,20515-0909,Representative,,M,http://clerk.house.gov/members/S001200
+VA,07,,D,Ms.,Abigail Davis,Spanberger,,1239 Longworth House Office Building,,Washington,DC,20515-4607,Representative,,F,http://clerk.house.gov/members/S001209
+FL,15,,R,Mr.,Ross,Spano,,224 Cannon House Office Building,,Washington,DC,20515-0915,Representative,,M,http://clerk.house.gov/members/S001210
+CA,14,,D,Ms.,Jackie,Speier,,2465 Rayburn House Office Building,,Washington,DC,20515-0514,Representative,,F,http://clerk.house.gov/members/S001175
+AZ,09,,D,Mr.,Greg,Stanton,,128 Cannon House Office Building,,Washington,DC,20515-0309,Representative,,M,http://clerk.house.gov/members/S001211
+MN,08,,R,Mr.,Pete,Stauber,,126 Cannon House Office Building,,Washington,DC,20515-2308,Representative,,M,http://clerk.house.gov/members/S001212
+NY,21,,R,Ms.,Elise M.,Stefanik,,318 Cannon House Office Building,,Washington,DC,20515-3221,Representative,,F,http://clerk.house.gov/members/S001196
+WI,01,,R,Mr.,Bryan,Steil,,1408 Longworth House Office Building,,Washington,DC,20515-4901,Representative,,M,http://clerk.house.gov/members/S001213
+FL,17,,R,Mr.,W. Gregory,Steube,,521 Cannon House Office Building,,Washington,DC,20515-0917,Representative,,M,http://clerk.house.gov/members/S001214
+MI,11,,D,Ms.,Haley M.,Stevens,,227 Cannon House Office Building,,Washington,DC,20515-2211,Representative,,F,http://clerk.house.gov/members/S001215
+UT,02,,R,Mr.,Chris,Stewart,,2242 Rayburn House Office Building,,Washington,DC,20515-4402,Representative,,M,http://clerk.house.gov/members/S001192
+OH,15,,R,Mr.,Steve,Stivers,,2234 Rayburn House Office Building,,Washington,DC,20515-3515,Representative,,M,http://clerk.house.gov/members/S001187
+NY,03,,D,Mr.,Thomas R.,Suozzi,,214 Cannon House Office Building,,Washington,DC,20515-3203,Representative,,M,http://clerk.house.gov/members/S001201
+CA,15,,D,Mr.,Eric,Swalwell,,407 Cannon House Office Building,,Washington,DC,20515-0515,Representative,,M,http://clerk.house.gov/members/S001193
+CA,41,,D,Mr.,Mark,Takano,,420 Cannon House Office Building,,Washington,DC,20515-0541,Representative,,M,http://clerk.house.gov/members/T000472
+TX,03,,R,Mr.,Van,Taylor,,1404 Longworth House Office Building,,Washington,DC,20515-4303,Representative,,M,http://clerk.house.gov/members/T000479
+MS,02,,D,Mr.,Bennie G.,Thompson,,2466 Rayburn House Office Building,,Washington,DC,20515-2402,Representative,,M,http://clerk.house.gov/members/T000193
+PA,15,,R,Mr.,Glenn,Thompson,,400 Cannon House Office Building,,Washington,DC,20515-3815,Representative,,M,http://clerk.house.gov/members/T000467
+CA,05,,D,Mr.,Mike,Thompson,,406 Cannon House Office Building,,Washington,DC,20515-0505,Representative,,M,http://clerk.house.gov/members/T000460
+TX,13,,R,Mr.,Mac,Thornberry,,2208 Rayburn House Office Building,,Washington,DC,20515-4313,Representative,,M,http://clerk.house.gov/members/T000238
+WI,07,,R,Mr.,Thomas P.,Tiffany,,1714 Longworth House Office Building,,Washington,DC,20515-4907,Representative,,M,http://clerk.house.gov/members/T000165
+SC,04,,R,Mr.,William R.,Timmons,IV,313 Cannon House Office Building,,Washington,DC,20515-4004,Representative,,M,http://clerk.house.gov/members/T000480
+CO,03,,R,Mr.,Scott R.,Tipton,,218 Cannon House Office Building,,Washington,DC,20515-0603,Representative,,M,http://clerk.house.gov/members/T000470
+NV,01,,D,Ms.,Dina,Titus,,2464 Rayburn House Office Building,,Washington,DC,20515-2801,Representative,,F,http://clerk.house.gov/members/T000468
+MI,13,,D,Ms.,Rashida,Tlaib,,1628 Longworth House Office Building,,Washington,DC,20515-2213,Representative,,F,http://clerk.house.gov/members/T000481
+NY,20,,D,Mr.,Paul,Tonko,,2369 Rayburn House Office Building,,Washington,DC,20515-3220,Representative,,M,http://clerk.house.gov/members/T000469
+CA,35,,D,Ms.,Norma J.,Torres,,2444 Rayburn House Office Building,,Washington,DC,20515-0535,Representative,,F,http://clerk.house.gov/members/T000474
+NM,02,,D,Ms.,Xochitl,Torres Small,,430 Cannon House Office Building,,Washington,DC,20515-3102,Representative,,F,http://clerk.house.gov/members/T000484
+MA,03,,D,Ms.,Lori,Trahan,,1616 Longworth House Office Building,,Washington,DC,20515-2103,Representative,,F,http://clerk.house.gov/members/T000482
+MD,06,,D,Mr.,David J.,Trone,,1213 Longworth House Office Building,,Washington,DC,20515-2006,Representative,,M,http://clerk.house.gov/members/T000483
+OH,10,,R,Mr.,Michael R.,Turner,,2082 Rayburn House Office Building,,Washington,DC,20515-3510,Representative,,M,http://clerk.house.gov/members/T000463
+IL,14,,D,Ms.,Lauren,Underwood,,1118 Longworth House Office Building,,Washington,DC,20515-1314,Representative,,F,http://clerk.house.gov/members/U000040
+MI,06,,R,Mr.,Fred,Upton,,2183 Rayburn House Office Building,,Washington,DC,20515-2206,Representative,,M,http://clerk.house.gov/members/U000031
+NJ,02,,R,Mr.,Jefferson,Van Drew,,331 Cannon House Office Building,,Washington,DC,20515-3002,Representative,,M,http://clerk.house.gov/members/V000133
+CA,51,,D,Mr.,Juan,Vargas,,2244 Rayburn House Office Building,,Washington,DC,20515-0551,Representative,,M,http://clerk.house.gov/members/V000130
+TX,33,,D,Mr.,Marc A.,Veasey,,2348 Rayburn House Office Building,,Washington,DC,20515-4333,Representative,,M,http://clerk.house.gov/members/V000131
+TX,34,,D,Mr.,Filemon,Vela,,307 Cannon House Office Building,,Washington,DC,20515-4334,Representative,,M,http://clerk.house.gov/members/V000132
+NY,07,,D,Ms.,Nydia M.,Vel√°zquez,,2302 Rayburn House Office Building,,Washington,DC,20515-3207,Representative,,F,http://clerk.house.gov/members/V000081
+IN,01,,D,Mr.,Peter J.,Visclosky,,2328 Rayburn House Office Building,,Washington,DC,20515-1401,Representative,,M,http://clerk.house.gov/members/V000108
+MO,02,,R,Ms.,Ann,Wagner,,2350 Rayburn House Office Building,,Washington,DC,20515-2502,Representative,,F,http://clerk.house.gov/members/W000812
+MI,07,,R,Mr.,Tim,Walberg,,2266 Rayburn House Office Building,,Washington,DC,20515-2207,Representative,,M,http://clerk.house.gov/members/W000798
+OR,02,,R,Mr.,Greg,Walden,,2185 Rayburn House Office Building,,Washington,DC,20515-3702,Representative,,M,http://clerk.house.gov/members/W000791
+NC,06,,R,Mr.,Mark,Walker,,1725 Longworth House Office Building,,Washington,DC,20515-3306,Representative,,M,http://clerk.house.gov/members/W000819
+IN,02,,R,Ms.,Jackie,Walorski,,419 Cannon House Office Building,,Washington,DC,20515-1402,Representative,,F,http://clerk.house.gov/members/W000813
+FL,06,,R,Mr.,Michael,Waltz,,216 Cannon House Office Building,,Washington,DC,20515-0906,Representative,,M,http://clerk.house.gov/members/W000823
+FL,23,,D,Ms.,Debbie,Wasserman Schultz,,1114 Longworth House Office Building,,Washington,DC,20515-0923,Representative,,F,http://clerk.house.gov/members/W000797
+CA,43,,D,Ms.,Maxine,Waters,,2221 Rayburn House Office Building,,Washington,DC,20515-0543,Representative,,F,http://clerk.house.gov/members/W000187
+KS,02,,R,Mr.,Steve,Watkins,,1205 Longworth House Office Building,,Washington,DC,20515-1602,Representative,,M,http://clerk.house.gov/members/W000824
+NJ,12,,D,Ms.,Bonnie,Watson Coleman,,2442 Rayburn House Office Building,,Washington,DC,20515-3012,Representative,,F,http://clerk.house.gov/members/W000822
+TX,14,,R,Mr.,Randy K.,Weber,Sr.,107 Cannon House Office Building,,Washington,DC,20515-4314,Representative,,M,http://clerk.house.gov/members/W000814
+FL,11,,R,Mr.,Daniel,Webster,,1210 Longworth House Office Building,,Washington,DC,20515-0911,Representative,,M,http://clerk.house.gov/members/W000806
+VT,00,,D,Mr.,Peter,Welch,,2187 Rayburn House Office Building,,Washington,DC,20515-4500,Representative,,M,http://clerk.house.gov/members/W000800
+OH,02,,R,Mr.,Brad R.,Wenstrup,,2419 Rayburn House Office Building,,Washington,DC,20515-3502,Representative,,M,http://clerk.house.gov/members/W000815
+AR,04,,R,Mr.,Bruce,Westerman,,209 Cannon House Office Building,,Washington,DC,20515-0404,Representative,,M,http://clerk.house.gov/members/W000821
+VA,10,,D,Ms.,Jennifer,Wexton,,1217 Longworth House Office Building,,Washington,DC,20515-4610,Representative,,F,http://clerk.house.gov/members/W000825
+PA,07,,D,Ms.,Susan,Wild,,1607 Longworth House Office Building,,Washington,DC,20515-3807,Representative,,F,http://clerk.house.gov/members/W000826
+TX,25,,R,Mr.,Roger,Williams,,1708 Longworth House Office Building,,Washington,DC,20515-4325,Representative,,M,http://clerk.house.gov/members/W000816
+FL,24,,D,Ms.,Frederica S.,Wilson,,2445 Rayburn House Office Building,,Washington,DC,20515-0924,Representative,,F,http://clerk.house.gov/members/W000808
+SC,02,,R,Mr.,Joe,Wilson,,1436 Longworth House Office Building,,Washington,DC,20515-4002,Representative,,M,http://clerk.house.gov/members/W000795
+VA,01,,R,Mr.,Robert J.,Wittman,,2055 Rayburn House Office Building,,Washington,DC,20515-4601,Representative,,M,http://clerk.house.gov/members/W000804
+AR,03,,R,Mr.,Steve,Womack,,2412 Rayburn House Office Building,,Washington,DC,20515-0403,Representative,,M,http://clerk.house.gov/members/W000809
+GA,07,,R,Mr.,Rob,Woodall,,1724 Longworth House Office Building,,Washington,DC,20515-1007,Representative,,M,http://clerk.house.gov/members/W000810
+TX,06,,R,Mr.,Ron,Wright,,428 Cannon House Office Building,,Washington,DC,20515-4306,Representative,,M,http://clerk.house.gov/members/W000827
+KY,03,,D,Mr.,John A.,Yarmuth,,402 Cannon House Office Building,,Washington,DC,20515-1703,Representative,,M,http://clerk.house.gov/members/Y000062
+FL,03,,R,Mr.,Ted S.,Yoho,,1730 Longworth House Office Building,,Washington,DC,20515-0903,Representative,,M,http://clerk.house.gov/members/Y000065
+AK,00,,R,Mr.,Don,Young,,2314 Rayburn House Office Building,,Washington,DC,20515-0200,Representative,,M,http://clerk.house.gov/members/Y000033
+NY,01,,R,Mr.,Lee M.,Zeldin,,2441 Rayburn House Office Building,,Washington,DC,20515-3201,Representative,,M,http://clerk.house.gov/members/Z000017
+TN,,S,R,Mr.,Lamar,Alexander,,455 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tn_alexander_lamar_200.jpg
+WI,,S,D,Ms.,Tammy,Baldwin,,709 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wi_baldwin_tammy_200.jpg
+WY,,S,R,Mr.,John,Barrasso,,307 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_barrasso_john_200.jpg
+CO,,S,D,Mr.,Michael F.,Bennet,,261 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_co_bennet_michael_200.jpg
+TN,,S,R,Ms.,Marsha,Blackburn,,357 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_rp_tn_7_blackburn_marsha_200.jpg
+CT,,S,D,Mr.,Richard,Blumenthal,,706 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_blumenthal_richard_200.jpg
+MO,,S,R,Mr.,Roy,Blunt,,260 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mo_blunt_roy_200.jpg
+NJ,,S,D,Mr.,Cory A.,Booker,,717 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_booker_cory_200.jpg
+AR,,S,R,Mr.,John,Boozman,,141 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ar_boozman_john_200.jpg
+IN,,S,R,Mr.,Mike,Braun,,374 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/b001310_200.jpg
+OH,,S,D,Mr.,Sherrod,Brown,,503 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_brown_sherrod_200.jpg
+NC,,S,R,Mr.,Richard,Burr,,217 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_burr_richard_200.jpg
+WA,,S,D,Ms.,Maria,Cantwell,,511 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_cantwell_maria_200.jpg
+WV,,S,R,Ms.,Shelley Moore,Capito,,172 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wv_moorecapito_shelly_200.jpg
+MD,,S,D,Mr.,Benjamin L.,Cardin,,509 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_cardin_benjamin_200.jpg
+DE,,S,D,Mr.,Thomas R.,Carper,,513 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_carper_thomas_200.jpg
+PA,,S,D,Mr.,Robert P.,Casey,Jr.,393 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_casey_robert_200.jpg
+LA,,S,R,Mr.,Bill,Cassidy,,520 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_cassidy_bill_200.jpg
+ME,,S,R,Ms.,Susan M.,Collins,,413 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_me_collins_susan_200.jpg
+DE,,S,D,Mr.,Christopher A.,Coons,,218 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_coons_christopher_200.jpg
+TX,,S,R,Mr.,John,Cornyn,,517 Hart Senate Office Building ,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cornyn_john_200.jpg
+NV,,S,D,Ms.,Catherine,Cortez Masto,,516 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_co_nv_cortezmasto_catherine_200.jpg
+AR,,S,R,Mr.,Tom,Cotton,,326 Russell Senate Office Building ,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ar_cotton_tom_200.jpg
+ND,,S,R,Mr.,Kevin,Cramer,,400 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_rp_nd_0_cramer_kevin_200.jpg
+ID,,S,R,Mr.,Mike,Crapo,,239 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_id_crapo_mike_200.jpg
+TX,,S,R,Mr.,Ted,Cruz,,127A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cruz_ted_200.jpg
+MT,,S,R,Mr.,Steve,Daines,,320 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_danes_steve_200.jpg
+IL,,S,D,Ms..,Tammy,Duckworth,,524 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_il_duckworth_tammy_200.jpg
+IL,,S,D,Mr.,Richard J.,Durbin,,711 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_il_durbin_richard_200.jpg
+WY,,S,R,Mr.,Michael B.,Enzi,,379A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_enzi_michael_200.jpg
+IA,,S,R,Ms.,Joni,Ernst,,730 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ia_ernst_joni_200.jpg
+CA,,S,D,Ms.,Dianne,Feinstein,,331 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_feinstein_dianne_200.jpg
+NE,,S,R,Ms.,Deb,Fischer,,454 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ne_fischer_deb_200.jpg
+CO,,S,R,Mr.,Cory,Gardner,,354 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_co_gardner_cory_200.jpg
+NY,,S,D,Ms.,Kirsten E.,Gillibrand,,478 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ny_gillibrand_kirsten_200.jpg
+SC,,S,R,Mr.,Lindsey,Graham,,290 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_graham_lindsey_200.jpg
+IA,,S,R,Mr.,Chuck,Grassley,,135 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ia_grassley_chuck_200.jpg
+CA,,S,D,Ms.,Kamala D.,Harris,,112 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_harris_kamala_200.jpg
+NH,,S,D,Ms.,Margaret Wood,Hassan,,324 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_hassan_maggie_200.jpg
+MO,,S,R,Mr.,Josh,Hawley,,212 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/h001089_200.jpg
+NM,,S,D,Mr.,Martin,Heinrich,,303 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nm_heinrich_martin_200.jpg
+HI,,S,D,Ms.,Mazie K.,Hirono,,713 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_hi_hirono_mazie_200.jpg
+ND,,S,R,Mr.,John,Hoeven,,338 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nd_hoeven_john_200.jpg
+MS,,S,R,Ms.,Cindy,Hyde-Smith,,702 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/h001079_200.jpg
+OK,,S,R,Mr.,James M.,Inhofe,,205 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_inhofe_james_200.jpg
+WI,,S,R,Mr.,Ron,Johnson,,328 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wi_johnson_ron_200.jpg
+AL,,S,D,Mr.,Abe,Jones (Dem Sen),,330 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+VA,,S,D,Mr.,Tim,Kaine,,231 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_kaine_tim_200.jpg
+LA,,S,R,Mr.,John,Kennedy,,416 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_kennedy_john_200.jpg
+ME,,S,I,Mr.,Angus S.,King,Jr.,133 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_me_kingjr_angus_200.jpg
+MN,,S,D,Ms.,Amy,Klobuchar,,425 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_klobuchar_amy_200.jpg
+OK,,S,R,Mr.,James,Lankford,,316 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_lankford_james_200.jpg
+VT,,S,D,Mr.,Patrick J.,Leahy,,437 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_leahy_patrick_200.jpg
+UT,,S,R,Mr.,Mike,Lee,,361A Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ut_lee_michael_200.jpg
+GA,,S,R,Ms.,Kelly,Loeffler,,131 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/l000594_200.jpg
+WV,,S,D,Mr.,"Joe, III",Manchin,,306 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wv_manchin_joe_200.jpg
+MA,,S,D,Mr.,Edward J.,Markey,,255 Dirksen Senate Office Building ,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ma_markey_edward_200.jpg
+KY,,S,R,Mr.,Mitch,McConnell,,317 Russell Senate Office Building,,Washington,DC,20510,Senator,Majority Leader,M,https://www.congress.gov/img/member/115_sr_ky_mcconnell_mitch_200.jpg
+AZ,,S,R,Ms.,Martha,McSally,,404 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_rp_az_2_mcsally_martha_200.jpg
+NJ,,S,D,Mr.,Robert,Menendez,,528 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_menendez_robert_200.jpg
+OR,,S,D,Mr.,Jeff,Merkley,,313 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_merkley_jeff_200.jpg
+KS,,S,R,Mr.,Jerry,Moran,,521 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ks_moran_jerry_200.jpg
+AK,,S,R,Ms.,Lisa,Murkowski,,522 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ak_murkowski_lisa_200.jpg
+CT,,S,D,Mr.,Christopher,Murphy,,136 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_murphy_christopher_200.jpg
+WA,,S,D,Ms.,Patty,Murray,,154 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_murray_patty_200.jpg
+KY,,S,R,Dr.,Rand,Paul,,167 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ky_paul_rand_200.jpg
+GA,,S,R,Mr.,David,Perdue,,455 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ga_perdue_david_200.jpg
+MI,,S,D,Mr.,Gary C.,Peters,,724 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mi_peters_gary_200.jpg
+OH,,S,R,Mr.,Rob,Portman,,448 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_portman_rob_200.jpg
+RI,,S,D,Mr.,Jack,Reed,,728 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_reed_jack_200.jpg
+ID,,S,R,Mr.,James E.,Risch,,483 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_id_risch_james_200.jpg
+KS,,S,R,Mr.,Pat,Roberts,,109 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ks_roberts_pat_200.jpg
+UT,,S,R,Mr.,Mitt,Romney,,124 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/r000615_200.jpg
+NV,,S,D,Ms.,Jacky,Rosen,,144 Russell Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_rp_nv_3_rosen_jacky_200.jpg
+SD,,S,R,Mr.,Mike,Rounds,,502 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_rounds_mike_200.jpg
+FL,,S,R,Mr.,Marco,Rubio,,284 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_fl_rubio_marco_200.jpg
+VT,,S,I,Mr.,Bernard,Sanders,,332 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_sanders_bernard_200.jpg
+NE,,S,R,Mr.,Ben,Sasse,,107 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ne_sasse_ben_200.jpg
+HI,,S,D,Mr.,Brian,Schatz,,722 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_hi_schatz_brian_200.jpg
+NY,,S,D,Mr.,Charles E.,Schumer,,322 Hart Senate Office Building,,Washington,DC,20510,Senator,Democratic Leader,M,https://www.congress.gov/img/member/115_sr_ny_schumer_charles_200.jpg
+FL,,S,R,Mr.,Rick,Scott,,716 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/s001217_200.jpg
+SC,,S,R,Mr.,Tim,Scott,,104 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_scott_tim_200.jpg
+NH,,S,D,Ms.,Jeanne,Shaheen,,506 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_shaheen_jeanne_200.jpg
+AL,,S,R,Mr.,Abe,Shelby (Rep Sen),,304 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+AZ,,S,D,Ms.,Kyrsten,Sinema,,317 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_az_sinema_kyrsten_200.jpg
+MN,,S,D,Ms.,Tina,Smith,,720 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_smith_tina_200.jpg
+MI,,S,D,Ms.,Debbie,Stabenow,,731 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mi_stabenow_debbie_200.jpg
+AK,,S,R,Mr.,Dan,Sullivan,,302 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ak_sullivan_dan_200.jpg
+MT,,S,D,Mr.,Jon,Tester,,311 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_tester_jon_200.jpg
+SD,,S,R,Mr.,John,Thune,,511 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_thune_john_200.jpg
+NC,,S,R,Mr.,Thom,Tillis,,113 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_tillis_thom_200.jpg
+PA,,S,R,Mr.,Patrick J.,Toomey,,248 Russell Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_toomey_pat_200.jpg
+NM,,S,D,Mr.,Tom,Udall,,531 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nm_udall_tom_200.jpg
+MD,,S,D,Mr.,Chris,Van Hollen,,110 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_vanhollen_chris_200.jpg
+VA,,S,D,Mr.,Mark R.,Warner,,703 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_warner_mark_200.jpg
+MA,,S,D,Ms.,Elizabeth,Warren,,309 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ma_warren_elizabeth_200.jpg
+RI,,S,D,Mr.,Sheldon,Whitehouse,,530 Hart Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_whitehouse_sheldon_200.jpg
+MS,,S,R,Mr.,Roger F.,Wicker,,555 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ms_wicker_roger_200.jpg
+OR,,S,D,Mr.,Ron,Wyden,,221 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_wyden_ron_200.jpg
+IN,,S,R,Mr.,Todd,Young,,185 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_in_young_todd_200.jpg
 ,,,R,Mr.,Donald,Trump,,The White House,1600 Pennsylvania Avenue NW,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
 ,,,R,Mr.,Mike,Pence,,The White House Office of the Vice President,1601 Pennsylvania Avenue NW,Washington,DC,20501,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
