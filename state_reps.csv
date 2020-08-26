@@ -1,5 +1,192 @@
-"State"," Rep District","Senate District","Party","Prefix","First Name","Last Name","Suffix","Office Street Address","Office Street Address 2","City","State","Zip","Title","Photo URL"
-"AL",,,"R","Ms.","Kay","Ivey",,"State Capitol","600 Dextex Avenue","Montgomery","AL","3610-2751","Governor",
-"AL",46,,"R","Mr.","David","Faulkner",,"11 S. Union Street","Suite 400-D","Montgomery","AL",36130,"Reprentative",
-"CA",52,,"D","Mr.","Freddie","Rodriquez",,"PO Box 942849",,"Sacramento","CA","91249-052","Assemblymember",
-"AL",,15,"R","Mr.","Dan","Roberts",,"11 S. Union Street","Suite 729","Montgomery","AL",36130,"Senator",
+﻿State, Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
+AL,,,R,,Kay,Ivey,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
+AK,,,,,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
+AZ,,,,,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,
+AR,,,,,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,
+CA,,,,,Gavin ,Newsom,,State Capitol,Suite 1173,Sacramento,CA,95814,Governor,
+CO,,,,,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,
+CT,,,,,Ned ,Lamont,,210 Capitol Avenue,,Hartford,CT,06106,Governor,
+DE,,,,,John,Carney,,Legislative Hall,,Dover,DE,19901,Governor,
+FL,,,,,Ron,DeSantis,,The Capitol,400 South Monroe Street,Tallahassee,FL,32399-0001,Governor,
+GA,,,,,Brian,Kemp,,203 State Capitol,,Atlanta,GA,30334,Governor,
+HI,,,,,David,Ige,,Executive Chambers,State Capitol,Honolulu,HI,96813,Governor,
+ID,,,,,Brad,Little,,700 West Jefferson Street,2nd Floor,Boise,ID,83702,Governor,
+IL,,,,,JB ,Pritzker,,State Capital,207 Statehouse,Springfield,IL,62706,Governor,
+IN,,,,,Eric ,Holcomb,,State House,Room 206,Indianapolis,IN,46204-2797,Governor,
+IA,,,,,Kim,Reynolds,,State Capitol,,Des Moines,IA,50319-0001,Governor,
+KS,,,,,Laura,Kelly,,"Capitol, 300 SW 10th Avenue ",Suite 212S,Topeka,KS,66612-1590,Governor,
+KY,,,,,Andy,Beshear,,700 Capitol Avenue,Suite 100,Frankfort,KY,40601,Governor,
+LA,,,,,John Bel ,Edwards,,P.O. Box 94004,,Baton Rouge,LA,70804-9004,Governor,
+ME,,,,,Janet,Mills,,1 State House Station,,Augusta,ME,04333,Governor,
+MD,,,,,Larry,Hogan,,State House,100 State Circle,Annapolis,MD,21401,Governor,
+MA,,,,,Charlie,Baker,,State House,Room 360,Boston,MA,02133,Governor,
+MI,,,,,Gretchen,Whitmer,,P.O. Box 30013,,Lansing,MI,48909,Governor,
+MN,,,,,Tim,Walz,,130 State Capitol,75 Rev. Dr. Martin Luther King Jr. Blvd.,St. Paul,MN,55155,Governor,
+MS,,,,,Tate,Reeves,,P.O. Box 139,,Jackson,MS,39205,Governor,
+MO,,,,,Mike,Parson,,Capitol Building,"Room 216, P.O. Box 720",Jefferson City,MO,65102,Governor,
+MT,,,,,Steve,Bullock,,State Capitol,,Helena,MT,59620-0801,Governor,
+NE,,,,,Pete,Ricketts,,P.O. Box 94848,,Lincoln,NE,68509-4848,Governor,
+NV,,,,,Steve,Sisolak,,Capitol Building,101 North Carson Street,Carson City,NV,89701,Governor,
+NH,,,,,Chris,Sununu,,107 North Main Street,Room 208,Concord,NH,03301,Governor,
+NJ,,,,,Phil ,Murphy,,The State House,P.O. Box 001,Trenton,NJ,08625,Governor,
+NM,,,,,Michelle,Lujan Grisham,,State Capitol,Fourth Floor,Santa Fe,NM,87501,Governor,
+NY,,,,,Andrew,Cuomo,,State Capitol,,Albany,NY,12224,Governor,
+NC,,,,,Roy,Cooper,,20301 Mail Service Center,,Raleigh,NC,27699-0301,Governor,
+ND,,,,,Doug,Burgum,,State Capitol,"600 East Boulevard Ave., Dept. 101",Bismarck,ND,58505-0001,Governor,
+OH,,,,,Mike,DeWine,,77 South High Street,30th Floor,Columbus,OH,43215,Governor,
+OK,,,,,Kevin,Stitt,,State Capitol Building,"2300 Lincoln Blvd., Room 212",Oklahoma City,OK,73105,Governor,
+OR,,,,,Kate,Brown,,State Capitol Building,"900 Court Street NE, Suite 254",Salem,OR,97301-4047,Governor,
+PA,,,,,Tom,Wolf,,Main Capitol Building,Room 225,Harrisburg,PA,17120,Governor,
+PR,,,,,Wanda,Vazquez Garced,,La Fortaleza,P.O. Box 9020082,San Juan,PR,00902-0082,Governor,
+RI,,,,,Gina,Raimondo,,State House,82 Smith Street,Providence,RI,02903,Governor,
+SC,,,,,Henry,McMaster,,1205 Pendleton Street,,Columbia,SC,29201,Governor,
+SD,,,,,Kristi,Noem,,500 East Capitol Avenue,,Pierre,SD,57501,Governor,
+TN,,,,,Bill,Lee,,State Capitol,,Nashville,TN,37243-0001,Governor,
+TX,,,,,Greg,Abbott,,P.O. Box 12428,,Austin,TX,78711-2428,Governor,
+UT,,,,,Gary,Herbert,,State Capitol,Suite 200,Salt Lake City,UT,84114,Governor,
+VT,,,,,Phil,Scott,,109 State Street,Pavilion Office Building,Montpelier,VT,05609,Governor,
+VA,,,,,Ralph,Northam,,State Capitol,3rd Floor,Richmond,VA,23219,Governor,
+WA,,,,,Jay,Inslee,,P.O. Box 40002,,Olympia,WA,98504-0002,Governor,
+WV,,,,,Jim ,Justice,,1900 Kanawha St.,,Charleston,WV,25305,Governor,
+WI,,,,,Tony,Evers,,115 East State Capitol,,Madison,WI,53707,Governor,
+WY,,,,,Mark,Gordon,,State Capitol Building,Room 124,Cheyenne,WY,82002,Governor,
+AL,,22,R,Mr., Greg,Albritton,,11 South Union Street,Suite 727,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Albritton_22.jpeg
+AL,,21,R,Mr., Gerald H.,Allen,,11 South Union Street,Suite 729,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Allen_21.jpeg
+AL,,25,R,Mr., Will,Barfoot,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Barfoot_25.jpeg
+AL,,28,D,Mr., William M.,Beasley,,11 South Union Street,Suite 737,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Beasley_28.jpeg
+AL,,26,D,Mr., David,Burkette,,11 South Union Street,Suite 738,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Burkette_26.jpeg
+AL,,2,R,Mr., Tom,Butler,,11 South Union Street,Suite 730,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Butler_2.jpeg
+AL,,30,R,Mr., Clyde,Chambliss,,11 South Union Street,Suite 730,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Chambliss_30.jpeg
+AL,,29,R,Mr., Donnie,Chesteen,,11 South Union Street,Suite 735,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Chesteen_29.jpeg
+AL,,20,D,Ms., Linda,Coleman-Madison,,11 South Union Street,Suite 737,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Coleman_20.jpeg
+AL,,13,D,Ms., Priscilla,Dunn,,11 South Union Street,Suite 737,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Dunn_19.jpeg
+AL,,32,R,Mr., Chris,Elliott,,11 South Union Street,Suite 735,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Elliott_32.jpeg
+AL,,33,D,Ms., Vivian Davis,Figures,,11 South Union Street,Suite 736,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Figures_33.jpeg
+AL,,7,R,Mr., Sam,Givhan,,11 South Union Street,Suite 735,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Givhan_7.jpeg
+AL,,4,R,Mr., Garlan,Gudger,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Gudger_4.jpeg
+AL,,31,R,Mr., Jimmy,Holley,,11 South Union Street,Suite 721,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Holley_31.jpeg
+AL,,10,R,Mr., Andrew,Jones,,11 South Union Street,Suite 737,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Jones_10.jpeg
+AL,,8,R,Mr., Steve,Livingston,,11 South Union Street,Suite 731,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Livingston_8.jpeg
+AL,,12,R,Mr., Del,Marsh,,11 South Union Street,Suite 722,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Marsh_12.jpeg
+AL,,11,R,Mr., Jim,McClendon,,11 South Union Street,Suite 729,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/McClendon_11.jpeg
+AL,,1,R,Mr., Tim,Melson,,11 South Union Street,Suite 732,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Melson_1.jpeg
+AL,,3,R,Mr., Arthur,Orr,,11 South Union Street,Suite 727,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Orr_3.jpeg
+AL,,13,R,Mr., Randy,Price,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Price_13.jpeg
+AL,,5,R,Mr., Greg J.,Reed,,11 South Union Street,Suite 726,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Reed_5.jpeg
+AL,,15,R,Mr., Dan,Roberts,,11 South Union Street,Suite 729,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Roberts_15.jpeg
+AL,,23,D,Ms., Malika,Sanders-Fortier,,11 South Union Street,Suite 738,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Sanders_23.jpeg
+AL,,9,R,Mr., Clay,Scofield,,11 South Union Street,Suite 731,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Scofield_9.jpeg
+AL,,35,R,Mr., David,Sessions,,11 South Union Street,Suite 734,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Sessions_35.jpeg
+AL,,17,R,Mr., Shay,Shelnutt,,11 South Union Street,Suite 732,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Shelnutt_17.jpeg
+AL,,24,D,Mr., Bobby D.,Singleton,,11 South Union Street,Suite 740,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Singleton_24.jpeg
+AL,,18,D,Mr., Rodger M.,Smitherman,,11 South Union Street,Suite 736,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Smitherman_18.jpeg
+AL,,6,R,Mr., Larry,Stutts,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Stutts_6.jpeg
+AL,,16,R,Mr.," J. T. ""Jabo""",Waggoner,,11 South Union Street,Suite 726,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Waggoner_16.jpeg
+AL,,14,R,Mr., Cam,Ward,,11 South Union Street,Suite 719,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Ward_14.jpeg
+AL,,27,R,Mr., Tom,Whatley,,11 South Union Street,Suite 734,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Whatley_27.jpeg
+AL,,34,R,Mr., Jack W.,Williams,,11 South Union Street,Suite 735,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Williams_34.jpeg
+AL,56,,D,Ms., Louise,Alexander,,11 South Union Street,Suite 403-E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Alexander_56.jpeg
+AL,89,,R,Mr., Wes,Allen,,11 South Union Street,Suite 427 M,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Allen_89.jpeg
+AL,66,,R,Mr., Alan,Baker,,11 South Union Street,Suite 427-B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Baker_66.jpeg
+AL,10,,R,Mr., Mike,Ball,,11 South Union Street,Suite 401-A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Ball_10.jpeg
+AL,80,,R,Mr., Chris,Blackshear,,11 South Union Street,Suite 404,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Blackshear_80.jpeg
+AL,32,,D,Ms., Barbara,Boyd,,11 South Union Street,Suite 517 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Boyd_32.jpeg
+AL,98,,D,Mr., Napoleon,Bracy,,11 South Union Street,Suite 539 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Bracy_98.jpeg
+AL,40,,R,Mr., K. L.,Brown,,11 South Union Street,Suite 423,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Brown_40.jpeg
+AL,105,,R,Mr., Chip,Brown,,11 South Union Street,Suite 524-E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Brown_105.jpeg
+AL,48,,R,Mr., Jim,Carns,,11 South Union Street,Suite 403 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Carns_48.jpeg
+AL,67,,D,Mr., Prince,Chestnut,,11 South Union Street,Suite 537-E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Chestnut_67.jpeg
+AL,97,,D,Ms., Adline,Clarke,,11 South Union Street,Suite 540-B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Clarke_97.jpeg
+AL,93,,R,Mr., Steve,Clouse,,11 South Union Street,Suite 410-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Clouse_93.jpeg
+AL,57,,D,Ms., Merika,Coleman,,11 South Union Street,Suite 537-A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Coleman_57.jpeg
+AL, 8,,R,Ms., Terri,Collins,,11 South Union Street,Suite 427-A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Collins_8.jpeg
+AL, 5,,R,Mr., Danny,Crawford,,11 South Union Street,Suite 434,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Crawford_5.jpeg
+AL,53,,D,Mr., Anthony,Daniels,,11 South Union Street,Suite 428,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Daniels_53.jpeg
+AL,88,,R,Mr., Will,Dismukes,,11 South Union Street,Suite 526 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Dismukes_88.jpeg
+AL,45,,R,Mr., Dickie,Drake,,11 South Union Street,Suite 432,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Drake_45.jpeg
+AL,103,,D,Ms., Barbara,Drummond,,11 South Union Street,Suite 529,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Drummond_103.jpeg
+AL,65,,R,Mr., Brett,Easterbrook,,11 South Union Street,Suite 526 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Easterbrook_65.jpeg
+AL,41,,R,Mr., Corley,Ellis,,11 South Union Street,Suite 404,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Ellis_41.jpeg
+AL,70,,D,Mr., Chris,England,,11 South Union Street,Suite 539-B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/England_70.jpeg
+AL,17,,R,Mr., Tracy,Estes,,11 South Union Street,Suite 525 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Estes_17.jpeg
+AL,15,,R,Mr., Allen,Farley,,11 South Union Street,Suite 427-L,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Farley_15.jpeg
+AL,46,,R,Mr., David,Faulkner,,11 South Union Street,Suite 400-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Faulkner_46.jpeg
+AL,94,,R,Mr., Joe,Faust,,11 South Union Street,Suite 426,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Faust_94.jpeg
+AL,37,,R,Mr., Bob,Fincher,,11 South Union Street,Suite 427 K,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Fincher_37.jpeg
+AL,84,,D,Mr., Berry,Forte,,11 South Union Street,Suite 540-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Forte_84.jpeg
+AL,73,,R,Mr., Matt,Fridy,,11 South Union Street,Suite 435,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Fridy_73.jpeg
+AL,44,,R,Mr., Danny,Garrett,,11 South Union Street,Suite 401 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Garrett_44.jpeg
+AL,100,,R,Mr., Victor,Gaston,,11 South Union Street,Suite 519-G,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Gaston_100.jpeg
+AL,60,,D,Ms., Juandalynn,Givan,,11 South Union Street,Suite 528-E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Givan_60.jpeg
+AL,83,,D,Mr., Jeremy,Gray,,11 South Union Street,Suite 536 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Gray_83.jpeg
+AL, 2,,R,Mr., Lynn,Greer,,11 South Union Street,Suite 403-C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Greer_2.jpeg
+AL,85,,D,Mr., Dexter,Grimsley,,11 South Union Street,Suite 537-F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Grimsley_85.jpeg
+AL,19,,D,Ms., Laura,Hall,,11 South Union Street,Suite 517-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hall_19.jpeg
+AL,23,,R,Mr., Tommy,Hanes,,11 South Union Street,Suite 427 G,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hanes_23.jpeg
+AL,12,,R,Mr., Corey,Harbison,,11 South Union Street,Suite 526-F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Harbison_12.jpeg
+AL,78,,D,Mr., Kirk,Hatcher,,11 South Union Street,Suite 528 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hatcher_78.jpeg
+AL,50,,R,Mr., Jim,Hill,,11 South Union Street,Suite 419,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hill_50.jpeg
+AL,58,,D,Ms., Rolanda,Hollis,,11 South Union Street,Suite 536-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hollis_58.jpeg
+AL,31,,R,Mr., Mike,Holmes,,11 South Union Street,Suite 427 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Holmes_31.jpeg
+AL,72,,D,Mr., Ralph,Howard,,11 South Union Street,Suite 534 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Howard_72.jpeg
+AL,35,,R,Mr., Steve,Hurst,,11 South Union Street,Suite 424,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Hurst_35.jpeg
+AL,75,,R,Mr., Reed,Ingram,,11 South Union Street,Suite 417 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Ingram_75.jpeg
+AL,28,,R,Mr., Gil,Isbell,,11 South Union Street,Suite 526 B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Isbell_28.jpeg
+AL,68,,D,Mr., Thomas,Jackson,,11 South Union Street,Suite 437-D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Jackson_68.jpeg
+AL,92,,R,Mr., Mike,Jones,,11 South Union Street,Suite 519 O,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Jones_92.jpeg
+AL,99,,D,Mr., Sam,Jones,,11 South Union Street,Suite 540 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Jones_99.jpeg
+AL,18,,R,Mr., Jamie,Kiel,,11 South Union Street,Suite 525 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Kiel_18.jpeg
+AL,27,,R,Mr., Wes,Kitchens,,11 South Union Street,Suite 526 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Kitchens_27.jpeg
+AL,69,,D,Mr., Kelvin,Lawrence,,11 South Union Street,Suite 430,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Lawrence_69.jpeg
+AL,24,,R,Mr., Nathaniel,Ledbetter,,11 South Union Street,Suite 401 G,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Ledbetter_24.jpeg
+AL,86,,R,Mr., Paul W.,Lee,,11 South Union Street,Suite 410 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Lee_86.jpeg
+AL,30,,R,Mr., Craig,Lipscomb,,11 South Union Street,Suite 528 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Lipscomb_30.jpeg
+AL,79,,R,Mr., Joe,Lovvorn,,11 South Union Street,Suite 433,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Lovvorn_79.jpeg
+AL,91,,R,Mr., Rhett,Marques,,11 South Union Street,Suite 527 B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Marques_91.jpeg
+AL,71,,D,Mr.," Artis ""A. J.""",McCampbell,,11 South Union Street,Suite 539 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/McCampbell_71.jpeg
+AL,76,,D,Mr., Thad,McClammy,,11 South Union Street,Suite 534 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/McClammy_76.jpeg
+AL,25,,R,Mr., Mac,McCutcheon,,11 South Union Street,Suite 519 I,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/McCutcheon_25.jpeg
+AL,95,,R,Mr., Steve,McMillan,,11 South Union Street,Suite 532,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/McMillan_95.jpeg
+AL,74,,R,Ms., Charlotte,Meadows,,11 South Union Street,,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Meadows_74.jpeg
+AL,43,,R,Mr., Arnold,Mooney,,11 South Union Street,Suite 400 F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Mooney_43.jpeg
+AL, 4,,R,Mr., Parker,Moore,,11 South Union Street,Suite 417 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Moore_4.jpeg
+AL,59,,D,Ms., Mary,Moore,,11 South Union Street,Suite 539 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Moore_59.jpeg
+AL,77,,D,Ms., TaShina,Morris,,11 South Union Street,Suite 540 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Morris_77.jpeg
+AL,29,,R,Ms., Becky,Nordgren,,11 South Union Street,Suite 401 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Nordgren_29.jpeg
+AL,81,,R,Mr., Ed,Oliver,,11 South Union Street,Suite 524 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Oliver_81.jpeg
+AL, 1,,R,Mr., Phillip,Pettus,,11 South Union Street,Suite 400 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Pettus_1.jpeg
+AL,63,,R,Mr., Bill,Poole,,11 South Union Street,Suite 514,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Poole_63.jpeg
+AL,101,,R,Mr., Chris,Pringle,,11 South Union Street,Suite 402,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Pringle_101.jpeg
+AL,54,,D,Mr., Neil,Rafferty,,11 South Union Street,Suite 539 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Rafferty_54.jpeg
+AL,21,,R,Mr., Rex,Reynolds,,11 South Union Street,Suite 524 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Reynolds_21.jpeg
+AL,26,,R,Mr., Kerry,Rich,,11 South Union Street,Suite 417 I,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Rich_26.jpeg
+AL, 7,,R,Mr., Proncey,Robertson,,11 South Union Street,Suite 525 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Robertson_7.jpeg
+AL,52,,D,Mr., John W.,Rogers,,11 South Union Street,Suite 523 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Rogers_52.jpeg
+AL,13,,R,Ms., Connie C.,Rowe,,11 South Union Street,Suite 400 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Rowe_13.jpeg
+AL,20,,R,Mr., Howard,Sanderford,,11 South Union Street,Suite 413 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Sanderford_20.jpeg
+AL,55,,D,Mr., Rod,Scott,,11 South Union Street,Suite 425,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Scott_55.jpeg
+AL,90,,R,Mr., Chris,Sells,,11 South Union Street,Suite 401 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Sells_90.jpeg
+AL,39,,R,Ms., Ginny,Shaver,,11 South Union Street,Suite 527 D,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Shaver_39.jpeg
+AL,11,,R,Mr., Randall,Shedd,,11 South Union Street,Suite 427 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Shedd_11.jpeg
+AL,64,,R,Mr., Harry,Shiver,,11 South Union Street,Suite 427 I,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Shiver_64.jpeg
+AL,96,,R,Mr., Matt,Simpson,,11 South Union Street,Suite 524 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Simpson_96.jpeg
+AL,42,,R,Mr., Ivan,Smith,,11 South Union Street,Suite 531,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Smith_42.jpeg
+AL, 3,,R,Mr., Andrew,Sorrell,,11 South Union Street,Suite 522 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Sorrell_3.jpeg
+AL,87,,R,Mr., Jeff,Sorrells,,11 South Union Street,Suite 527 A,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Sorrells_87.jpeg
+AL,16,,R,Mr., Kyle,South,,11 South Union Street,Suite 410 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/South_16.jpeg
+AL, 9,,R,Mr., Scott,Stadthagen,,11 South Union Street,Suite 525 B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Stadthagen_9.jpeg
+AL,34,,R,Mr., David,Standridge,,11 South Union Street,Suite 403 B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Standridge_34.jpeg
+AL,102,,R,Mr., Shane,Stringer,,11 South Union Street,Suite 524-B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Stringer_102.jpeg
+AL,61,,R,Mr., Rodney,Sullivan,,11 South Union Street,Suite 526 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Sullivan_61.jpeg
+AL,51,,R,Mr., Allen,Treadaway,,11 South Union Street,Suite 417 G,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Treadaway_51.jpeg
+AL,33,,,Mr.,,vacant seat,,11 South Union Street,,Montgomery,AL,36130-4600,Representative,
+AL,49,,R,Mr.,,Vacant seat,,11 South Union Street,,Montgomery,AL,36130-4600,Representative,
+AL,14,,R,Mr., Tim,Wadsworth,,11 South Union Street,Suite 427 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wadsworth_14.jpeg
+AL,82,,D,Ms., Pebblin W.,Warren,,11 South Union Street,Suite 517 B,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Warren_82.jpeg
+AL,47,,R,Mr., David,Wheeler,,11 South Union Street,Suite 522 E,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wheeler_47.jpeg
+AL, 6,,R,Mr., Andy,Whitt,,11 South Union Street,Suite 522 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Whitt_6.jpeg
+AL,22,,R,Mr., Ritchie,Whorton,,11 South Union Street,Suite 427 J,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Whorton_22.jpeg
+AL,104,,R,Ms., Margie,Wilcox,,11 South Union Street,Suite 524-F,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wilcox_104.jpeg
+AL,62,,R,Mr., Rich,Wingo,,11 South Union Street,Suite 400 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wingo_62.jpeg
+AL,36,,R,Mr., Randy,Wood,,11 South Union Street,Suite 417 H,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wood_36.jpeg
+AL,38,,R,Ms., Debbie,Wood,,11 South Union Street,Suite 527 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wood_38.jpeg
