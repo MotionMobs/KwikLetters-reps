@@ -1,4 +1,6 @@
 ﻿state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
+,,,R,Mr.,Donald,Trump,,The White House,1600 Pennsylvania Avenue NW,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
+,,,R,Mr.,Mike,Pence,,The White House Office of the Vice President,1601 Pennsylvania Avenue NW,Washington,DC,20501,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
 TN,,S,R,Mr.,Lamar,Alexander,,455 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tn_alexander_lamar_200.jpg
 WI,,S,D,Ms.,Tammy,Baldwin,,709 Hart Senate Office Building,,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wi_baldwin_tammy_200.jpg
 WY,,S,R,Mr.,John,Barrasso,,307 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_barrasso_john_200.jpg
@@ -99,8 +101,6 @@ RI,,S,D,Mr.,Sheldon,Whitehouse,,530 Hart Senate Office Building,,Washington,DC,2
 MS,,S,R,Mr.,Roger F.,Wicker,,555 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ms_wicker_roger_200.jpg
 OR,,S,D,Mr.,Ron,Wyden,,221 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_wyden_ron_200.jpg
 IN,,S,R,Mr.,Todd,Young,,185 Dirksen Senate Office Building,,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_in_young_todd_200.jpg
-,,,R,Mr.,Donald,Trump,,The White House,1600 Pennsylvania Avenue NW,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
-,,,R,Mr.,Mike,Pence,,The White House Office of the Vice President,1601 Pennsylvania Avenue NW,Washington,DC,20501,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
 LA,5,,R,Mr.,Ralph Lee,Abraham,,417 Cannon House Office Building,,Washington,DC,20515-1805,Representative,,M,http://clerk.house.gov/content/assets/img/members/A000374.jpg
 NC,12,,D,Ms.,Alma S.,Adams,,2436 Rayburn House Office Building,,Washington,DC,20515-3312,Representative,,F,http://clerk.house.gov/content/assets/img/members/A000370.jpg
 AL,4,,R,Mr.,Robert B.,Aderholt,,1203 Longworth House Office Building,,Washington,DC,20515-0104,Representative,,M,http://clerk.house.gov/content/assets/img/members/A000055.jpg
