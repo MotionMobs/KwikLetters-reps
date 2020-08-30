@@ -1,5 +1,5 @@
 ﻿state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
-,,,R,Mr.,Donald,Trump,,The White House,1600 Pennsylvania Ave NW,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
+,,,R,Mr.,Donald,Trump,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
 ,,,R,Mr.,Mike,Pence,,Einsenhower Executive Office Building,1650 Pennsylvania Ave NW,Washington,DC,20502,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
 TN,,S,R,Mr.,Lamar,Alexander,,United States Senate,455 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tn_alexander_lamar_200.jpg
 WI,,S,D,Ms.,Tammy,Baldwin,,United States Senate,709 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wi_baldwin_tammy_200.jpg
@@ -405,7 +405,7 @@ CA,20,,D,Mr.,Jimmy,Panetta,,U.S. House of Representatives,212 Cannon House Offic
 NH,1,,D,Mr.,Chris,Pappas,,U.S. House of Representatives,323 Cannon House Office Building,Washington,DC,20515-2901,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000614.jpg
 NJ,9,,D,Mr.,Bill,Pascrell,Jr.,U.S. House of Representatives,2409 Rayburn House Office Building,Washington,DC,20515-3009,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000096.jpg
 NJ,10,,D,Mr.,Donald M.,Payne,Jr.,U.S. House of Representatives,103 Cannon House Office Building,Washington,DC,20515-3010,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000604.jpg
-CA,12,,D,Ms.,Nancy,Pelosi,,U.S. House of Representatives,1236 Longworth House Office Building,Washington,DC,20515-0512,Representative,Speaker of the House,F,http://clerk.house.gov/content/assets/img/members/P000197.jpg
+CA,12,,D,Ms.,Nancy,Pelosi,,1236 Longworth House Office Building,,Washington,DC,20515-0512,Representative,Speaker of the House,F,http://clerk.house.gov/content/assets/img/members/P000197.jpg
 IN,6,,R,Mr.,Greg,Pence,,U.S. House of Representatives,222 Cannon House Office Building,Washington,DC,20515-1406,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000615.jpg
 CO,7,,D,Mr.,Ed,Perlmutter,,U.S. House of Representatives,1226 Longworth House Office Building,Washington,DC,20515-0607,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000593.jpg
 PA,10,,R,Mr.,Scott,Perry,,U.S. House of Representatives,1207 Longworth House Office Building,Washington,DC,20515-3810,Representative,,M,http://clerk.house.gov/content/assets/img/members/P000605.jpg
