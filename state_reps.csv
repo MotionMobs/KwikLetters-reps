@@ -1,55 +1,4 @@
 ﻿State, Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
-AL,,,R,,Kay,Ivey,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
-AK,,,,,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
-AZ,,,,,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,
-AR,,,,,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,
-CA,,,,,Gavin ,Newsom,,State Capitol,Suite 1173,Sacramento,CA,95814,Governor,
-CO,,,,,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,
-CT,,,,,Ned ,Lamont,,210 Capitol Avenue,,Hartford,CT,06106,Governor,
-DE,,,,,John,Carney,,Legislative Hall,,Dover,DE,19901,Governor,
-FL,,,,,Ron,DeSantis,,The Capitol,400 South Monroe Street,Tallahassee,FL,32399-0001,Governor,
-GA,,,,,Brian,Kemp,,203 State Capitol,,Atlanta,GA,30334,Governor,
-HI,,,,,David,Ige,,Executive Chambers,State Capitol,Honolulu,HI,96813,Governor,
-ID,,,,,Brad,Little,,700 West Jefferson Street,2nd Floor,Boise,ID,83702,Governor,
-IL,,,,,JB ,Pritzker,,State Capital,207 Statehouse,Springfield,IL,62706,Governor,
-IN,,,,,Eric ,Holcomb,,State House,Room 206,Indianapolis,IN,46204-2797,Governor,
-IA,,,,,Kim,Reynolds,,State Capitol,,Des Moines,IA,50319-0001,Governor,
-KS,,,,,Laura,Kelly,,"Capitol, 300 SW 10th Avenue ",Suite 212S,Topeka,KS,66612-1590,Governor,
-KY,,,,,Andy,Beshear,,700 Capitol Avenue,Suite 100,Frankfort,KY,40601,Governor,
-LA,,,,,John Bel ,Edwards,,P.O. Box 94004,,Baton Rouge,LA,70804-9004,Governor,
-ME,,,,,Janet,Mills,,1 State House Station,,Augusta,ME,04333,Governor,
-MD,,,,,Larry,Hogan,,State House,100 State Circle,Annapolis,MD,21401,Governor,
-MA,,,,,Charlie,Baker,,State House,Room 360,Boston,MA,02133,Governor,
-MI,,,,,Gretchen,Whitmer,,P.O. Box 30013,,Lansing,MI,48909,Governor,
-MN,,,,,Tim,Walz,,130 State Capitol,75 Rev. Dr. Martin Luther King Jr. Blvd.,St. Paul,MN,55155,Governor,
-MS,,,,,Tate,Reeves,,P.O. Box 139,,Jackson,MS,39205,Governor,
-MO,,,,,Mike,Parson,,Capitol Building,"Room 216, P.O. Box 720",Jefferson City,MO,65102,Governor,
-MT,,,,,Steve,Bullock,,State Capitol,,Helena,MT,59620-0801,Governor,
-NE,,,,,Pete,Ricketts,,P.O. Box 94848,,Lincoln,NE,68509-4848,Governor,
-NV,,,,,Steve,Sisolak,,Capitol Building,101 North Carson Street,Carson City,NV,89701,Governor,
-NH,,,,,Chris,Sununu,,107 North Main Street,Room 208,Concord,NH,03301,Governor,
-NJ,,,,,Phil ,Murphy,,The State House,P.O. Box 001,Trenton,NJ,08625,Governor,
-NM,,,,,Michelle,Lujan Grisham,,State Capitol,Fourth Floor,Santa Fe,NM,87501,Governor,
-NY,,,,,Andrew,Cuomo,,State Capitol,,Albany,NY,12224,Governor,
-NC,,,,,Roy,Cooper,,20301 Mail Service Center,,Raleigh,NC,27699-0301,Governor,
-ND,,,,,Doug,Burgum,,State Capitol,"600 East Boulevard Ave., Dept. 101",Bismarck,ND,58505-0001,Governor,
-OH,,,,,Mike,DeWine,,77 South High Street,30th Floor,Columbus,OH,43215,Governor,
-OK,,,,,Kevin,Stitt,,State Capitol Building,"2300 Lincoln Blvd., Room 212",Oklahoma City,OK,73105,Governor,
-OR,,,,,Kate,Brown,,State Capitol Building,"900 Court Street NE, Suite 254",Salem,OR,97301-4047,Governor,
-PA,,,,,Tom,Wolf,,Main Capitol Building,Room 225,Harrisburg,PA,17120,Governor,
-PR,,,,,Wanda,Vazquez Garced,,La Fortaleza,P.O. Box 9020082,San Juan,PR,00902-0082,Governor,
-RI,,,,,Gina,Raimondo,,State House,82 Smith Street,Providence,RI,02903,Governor,
-SC,,,,,Henry,McMaster,,1205 Pendleton Street,,Columbia,SC,29201,Governor,
-SD,,,,,Kristi,Noem,,500 East Capitol Avenue,,Pierre,SD,57501,Governor,
-TN,,,,,Bill,Lee,,State Capitol,,Nashville,TN,37243-0001,Governor,
-TX,,,,,Greg,Abbott,,P.O. Box 12428,,Austin,TX,78711-2428,Governor,
-UT,,,,,Gary,Herbert,,State Capitol,Suite 200,Salt Lake City,UT,84114,Governor,
-VT,,,,,Phil,Scott,,109 State Street,Pavilion Office Building,Montpelier,VT,05609,Governor,
-VA,,,,,Ralph,Northam,,State Capitol,3rd Floor,Richmond,VA,23219,Governor,
-WA,,,,,Jay,Inslee,,P.O. Box 40002,,Olympia,WA,98504-0002,Governor,
-WV,,,,,Jim ,Justice,,1900 Kanawha St.,,Charleston,WV,25305,Governor,
-WI,,,,,Tony,Evers,,115 East State Capitol,,Madison,WI,53707,Governor,
-WY,,,,,Mark,Gordon,,State Capitol Building,Room 124,Cheyenne,WY,82002,Governor,
 AL,,22,R,Mr., Greg,Albritton,,11 South Union Street,Suite 727,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Albritton_22.jpeg
 AL,,21,R,Mr., Gerald H.,Allen,,11 South Union Street,Suite 729,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Allen_21.jpeg
 AL,,25,R,Mr., Will,Barfoot,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,http://www.legislature.state.al.us/aliswww/Senate/Senator%20Pictures/Barfoot_25.jpeg
@@ -190,3 +139,53 @@ AL,104,,R,Ms., Margie,Wilcox,,11 South Union Street,Suite 524-F,Montgomery,AL,36
 AL,62,,R,Mr., Rich,Wingo,,11 South Union Street,Suite 400 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wingo_62.jpeg
 AL,36,,R,Mr., Randy,Wood,,11 South Union Street,Suite 417 H,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wood_36.jpeg
 AL,38,,R,Ms., Debbie,Wood,,11 South Union Street,Suite 527 C,Montgomery,AL,36130-4600,Representative,http://www.legislature.state.al.us/aliswww/House/Representative%20Pictures/Wood_38.jpeg
+AL,,,R,Ms.,Kay,Gómez,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
+AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
+AZ,,,R,Mr.,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://www.nga.org/wp-content/uploads/2019/02/Ducey_400x400.png
+AR,,,R,Mr.,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,https://www.nga.org/wp-content/uploads/2019/02/Asa_Hutchinson_400x400.jpg
+CA,,,D,Mr.,Gavin ,Newsom,,State Capitol,Suite 1173,Sacramento,CA,95814,Governor,https://www.nga.org/wp-content/uploads/2019/06/GovGavinNewsom_400x400.png
+CO,,,D,Mr.,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,https://www.nga.org/wp-content/uploads/2019/01/Colorado-Jared-Polis-November-2019.jpg
+CT,,,D,Mr.,Ned ,Lamont,,210 Capitol Avenue,,Hartford,CT,06106,Governor,https://www.nga.org/wp-content/uploads/2019/02/Lamont_400x400.png
+DE,,,D,Mr.,John,Carney,,Legislative Hall,,Dover,DE,19901,Governor,https://www.nga.org/wp-content/uploads/2018/03/Governor-Carney-768x768.jpg
+FL,,,R,Mr.,Ron,DeSantis,,The Capitol,400 South Monroe Street,Tallahassee,FL,32399-0001,Governor,https://www.nga.org/wp-content/uploads/2019/06/Gov.RonDeSantis_400x400.png
+GA,,,R,Mr.,Brian,Kemp,,203 State Capitol,,Atlanta,GA,30334,Governor,https://www.nga.org/wp-content/uploads/2019/01/Georgia-Brian-Kemp-2019.jpg
+HI,,,D,Mr.,David,Ige,,Executive Chambers,State Capitol,Honolulu,HI,96813,Governor,https://www.nga.org/wp-content/uploads/2018/03/Gov-Ige-Aloha-Shirt-HI-Res-e1569617499648.jpg
+ID,,,R,Mr.,Brad,Little,,700 West Jefferson Street,2nd Floor,Boise,ID,83702,Governor,https://www.nga.org/wp-content/uploads/2019/06/Gov.-Brad-Little_400x400.png
+IL,,,D,Mr.,JB ,Pritzker,,State Capital,207 Statehouse,Springfield,IL,62706,Governor,https://www.nga.org/wp-content/uploads/2019/01/JBPritzker.jpg
+IN,,,R,Mr.,Eric ,Holcomb,,State House,Room 206,Indianapolis,IN,46204-2797,Governor,https://www.nga.org/wp-content/uploads/2018/03/Holcomb-LG-Headshot.jpeg
+IA,,,R,Ms.,Kim,Reynolds,,State Capitol,,Des Moines,IA,50319-0001,Governor,https://www.nga.org/wp-content/uploads/2019/02/Iowa-Kim-Reynolds-November-2018-1-e1569617393742.jpg
+KS,,,D,Ms.,Laura,Kelly,,"Capitol, 300 SW 10th Avenue ",Suite 212S,Topeka,KS,66612-1590,Governor,https://www.nga.org/wp-content/uploads/2019/02/Kansas-Laura-Kelly-January-2019-2.jpg
+KY,,,D,Mr.,Andy,Beshear,,700 Capitol Avenue,Suite 100,Frankfort,KY,40601,Governor,https://www.nga.org/wp-content/uploads/2019/12/Governor-Andy-Beshear-homepage-2.jpg
+LA,,,D,Mr.,John Bel ,Edwards,,P.O. Box 94004,,Baton Rouge,LA,70804-9004,Governor,https://www.nga.org/wp-content/uploads/2018/06/John-Bel-Edwards.jpg
+ME,,,D,Ms.,Janet,Mills,,1 State House Station,,Augusta,ME,04333,Governor,https://www.nga.org/wp-content/uploads/2019/02/Maine-Janet-Mills-November-2018-1.jpg
+MD,,,R,Mr.,Larry,Hogan,,State House,100 State Circle,Annapolis,MD,21401,Governor,https://www.nga.org/wp-content/uploads/2019/01/Maryland-Larry-Hogan-November-2019.jpg
+MA,,,R,Mr.,Charlie,Baker,,State House,Room 360,Boston,MA,02133,Governor,https://www.nga.org/wp-content/uploads/2019/01/gov-baker-tn.png
+MI,,,D,Ms.,Gretchen,Whitmer,,P.O. Box 30013,,Lansing,MI,48909,Governor,https://www.nga.org/wp-content/uploads/2019/01/Gov_Page_-_GovWhitmer_641584_7.jpg
+MN,,,D,Mr.,Tim,Walz,,130 State Capitol,75 Rev. Dr. Martin Luther King Jr. Blvd.,St. Paul,MN,55155,Governor,https://www.nga.org/wp-content/uploads/2019/02/Walz_400x400.jpg
+MS,,,R,Mr.,Tate,Reeves,,P.O. Box 139,,Jackson,MS,39205,Governor,https://www.nga.org/wp-content/uploads/2020/01/Tate-Reeves-scaled.jpg
+MO,,,R,Mr.,Mike,Parson,,Capitol Building,"Room 216, P.O. Box 720",Jefferson City,MO,65102,Governor,https://www.nga.org/wp-content/uploads/2018/06/MO-Mike-Parson-200x300_crop.png
+MT,,,D,Mr.,Steve,Bullock,,State Capitol,,Helena,MT,59620-0801,Governor,https://www.nga.org/wp-content/uploads/2018/03/BullockS.jpg
+NE,,,R,Mr.,Pete,Ricketts,,P.O. Box 94848,,Lincoln,NE,68509-4848,Governor,https://www.nga.org/wp-content/uploads/2019/01/gov-headshot_0-1.jpg
+NV,,,D,Mr.,Steve,Sisolak,,Capitol Building,101 North Carson Street,Carson City,NV,89701,Governor,https://www.nga.org/wp-content/uploads/2019/02/Nevada-Steve-Sisolak-January-2019.jpg
+NH,,,R,Mr.,Chris,Sununu,,107 North Main Street,Room 208,Concord,NH,03301,Governor,https://www.nga.org/wp-content/uploads/2019/04/sununu.jpg
+NJ,,,D,Mr.,Phil ,Murphy,,The State House,P.O. Box 001,Trenton,NJ,08625,Governor,https://www.nga.org/wp-content/uploads/2018/06/NJ-Phil-Murphy.jpg
+NM,,,D,Ms.,Michelle,Lujan Grisham,,State Capitol,Fourth Floor,Santa Fe,NM,87501,Governor,https://www.nga.org/wp-content/uploads/2019/02/New-Mexico-Michelle-Lujan-Grisham-January-2018.jpg
+NY,,,D,Mr.,Andrew,Cuomo,,State Capitol,,Albany,NY,12224,Governor,https://www.nga.org/wp-content/uploads/2019/02/New-York-Andrew-Cuomo-Novmeber-2018.jpg
+NC,,,D,Mr.,Roy,Cooper,,20301 Mail Service Center,,Raleigh,NC,27699-0301,Governor,https://www.nga.org/wp-content/uploads/2019/02/North-Carolina-Roy-Cooper-January-2019.jpg
+ND,,,R,Mr.,Doug,Burgum,,State Capitol,"600 East Boulevard Ave., Dept. 101",Bismarck,ND,58505-0001,Governor,https://www.nga.org/wp-content/uploads/2018/06/G0v_Burgum-NorthDakota.jpg
+OH,,,R,Mr.,Mike,DeWine,,77 South High Street,30th Floor,Columbus,OH,43215,Governor,https://www.nga.org/wp-content/uploads/2019/01/Gov-Mike-DeWine.jpg
+OK,,,R,Mr.,Kevin,Stitt,,State Capitol Building,"2300 Lincoln Blvd., Room 212",Oklahoma City,OK,73105,Governor,https://www.nga.org/wp-content/uploads/2019/06/Oklahoma-Kevin-Stitt-June-2019.jpg
+OR,,,D,Ms.,Kate,Brown,,State Capitol Building,"900 Court Street NE, Suite 254",Salem,OR,97301-4047,Governor,https://www.nga.org/wp-content/uploads/2019/06/Oregon-Kate-Brown-November-2018.jpg
+PA,,,D,Mr.,Tom,Wolf,,Main Capitol Building,Room 225,Harrisburg,PA,17120,Governor,https://www.nga.org/wp-content/uploads/2018/06/Governor_Tom_Wolf_PA.jpg
+RI,,,D,Ms.,Gina,Raimondo,,State House,82 Smith Street,Providence,RI,02903,Governor,https://www.nga.org/wp-content/uploads/2019/02/Rhode-Island-Gina-Raimondo-February-2019.jpg
+SC,,,R,Mr.,Henry,McMaster,,1205 Pendleton Street,,Columbia,SC,29201,Governor,https://www.nga.org/wp-content/uploads/2018/06/SC-Henry-McMaster.jpg
+SD,,,R,Ms.,Kristi,Noem,,500 East Capitol Avenue,,Pierre,SD,57501,Governor,https://www.nga.org/wp-content/uploads/2019/04/KNpic.jpg
+TN,,,R,Mr.,Bill,Lee,,State Capitol,,Nashville,TN,37243-0001,Governor,https://www.nga.org/wp-content/uploads/2019/09/gov-lee-2.jpg
+TX,,,R,Mr.,Greg,Abbott,,P.O. Box 12428,,Austin,TX,78711-2428,Governor,https://www.nga.org/wp-content/uploads/2018/07/TX_Gov_Greg_Abbott.png
+UT,,,R,Mr.,Gary,Herbert,,State Capitol,Suite 200,Salt Lake City,UT,84114,Governor,https://www.nga.org/wp-content/uploads/2018/06/Gov.-Gary-Herbert_Utah.jpg
+VT,,,R,Mr.,Phil,Scott,,109 State Street,Pavilion Office Building,Montpelier,VT,05609,Governor,https://www.nga.org/wp-content/uploads/2019/02/Vermont-Phil-Scott-November-2018.jpg
+VA,,,D,Mr.,Ralph,Northam,,State Capitol,3rd Floor,Richmond,VA,23219,Governor,https://www.nga.org/wp-content/uploads/2018/06/VA-Ralph-Northam.jpg
+WA,,,D,Mr.,Jay,Inslee,,P.O. Box 40002,,Olympia,WA,98504-0002,Governor,https://www.nga.org/wp-content/uploads/2018/06/WA-Jay-Inslee.jpg
+WV,,,R,Mr.,Jim ,Justice,,1900 Kanawha St.,,Charleston,WV,25305,Governor,https://www.nga.org/wp-content/uploads/2019/02/West-Virginia-Jim-Justice-February-2019.jpg
+WI,,,D,Mr.,Tony,Evers,,115 East State Capitol,,Madison,WI,53707,Governor,https://www.nga.org/wp-content/uploads/2019/02/Wisconsin-Tony-Evers-January-2019.jpg
+WY,,,R,Mr.,Mark,Gordon,,State Capitol Building,Room 124,Cheyenne,WY,82002,Governor,https://www.nga.org/wp-content/uploads/2019/01/Wyoming-Mark-Gordon-November-2019.jpg
