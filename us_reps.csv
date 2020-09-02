@@ -1,4 +1,4 @@
-Ă¯Â»Â¿state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
+state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
 ,,,R,Mr.,Donald,Trump,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
 ,,,R,Mr.,Mike,Pence,,Einsenhower Executive Office Building,1650 Pennsylvania Ave NW,Washington,DC,20502,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
 TN,,S,R,Mr.,Lamar,Alexander,,United States Senate,455 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tn_alexander_lamar_200.jpg
