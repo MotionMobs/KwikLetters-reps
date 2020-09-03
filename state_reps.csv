@@ -1,4 +1,4 @@
-﻿State, Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
+ï»¿State,Â Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
 AL,,,R,Ms.,Kay,Ivey,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
 AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
 AZ,,,R,Mr.,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://www.nga.org/wp-content/uploads/2019/02/Ducey_400x400.png
@@ -275,7 +275,7 @@ CA,43,,D,Ms.,Laura,Friedman,,PO Box 942849,,Sacramento,CA,94249-0043,Assemblymem
 CA,44,,D,Ms.,Jacqui,Irwin,,PO Box 942849,,Sacramento,CA,94249-0044,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg
 CA,45,,D,Mr.,Jesse,Gabriel,,PO Box 942849,,Sacramento,CA,94249-0045,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jgabriel.jpg
 CA,46,,D,Mr.,Adrin,Nazarian,,PO Box 942849,,Sacramento,CA,94249-0046,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD46-Nazarian.jpg
-CA,47,,D,Ms.,Eloise Gómez,Reyes,,PO Box 942849,,Sacramento,CA,94249-0047,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad47_reyes_roster150_20161205.jpg
+CA,47,,D,Ms.,Eloise Gò�mez,Reyes,,PO Box 942849,,Sacramento,CA,94249-0047,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad47_reyes_roster150_20161205.jpg
 CA,48,,D,Ms.,Blanca E.,Rubio,,PO Box 942849,,Sacramento,CA,94249-0048,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg
 CA,49,,D,Mr.,Ed,Chau,,PO Box 942849,,Sacramento,CA,94249-0049,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD49-Chau.jpg
 CA,50,,D,Mr.,Richard,Bloom,,PO Box 942849,,Sacramento,CA,94249-0050,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD50-Bloom.jpg
@@ -309,312 +309,312 @@ CA,77,,D,Mr.,Brian,Maienschein,,PO Box 942849,,Sacramento,CA,94249-0077,Assembly
 CA,78,,D,Mr.,Todd,Gloria,,PO Box 942849,,Sacramento,CA,94249-0078,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad78_gloria_roster150_20161205.jpg
 CA,79,,D,Ms.,Shirley N.,Weber,,PO Box 942849,,Sacramento,CA,94249-0079,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD79-Weber.jpg
 CA,80,,D,Ms.,Lorena,Gonzalez,,PO Box 942849,,Sacramento,CA,94249-0080,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD80.jpg
-ID,,1,Mr.,R,Jim ,Woodward,,P.O. Box 151,, Sagle, ID,83860,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Woodward5347.jpg
-ID,,2,Mr.,R,Steve ,Vick,,2140 E. Hanley Avenue,, Dalton Gardens, ID,83815 ,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Vick1164.jpg
-ID,,3,Mr.,R,Don ,Cheatham,,P.O. Box 2011,, Post Falls, ID,83877,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Cheatham3129.jpg
-ID,,4,Ms.,R,Mary ,Souza,,P.O. Box 2223,, Coeur d’Alene, ID,83816,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Souza3126.jpg
-ID,,5,Mr.,D,David ,Nelson,,804 East E Street,, Moscow, ID,83843,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nelson5346.jpg
-ID,,6,Mr.,R,Daniel G.,Johnson,,P.O. Box 2117,, Lewiston, ID,83501,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Johnson1630.jpg
-ID,,7,Mr.,R,Carl ,Crabtree,,36 White Tail Acres Lane,, Grangeville, ID,83530,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Crabtree4270.jpg
-ID,,8,Mr.,R,Steven P.,Thayn,,5655 Hillview Road,, Emmett, ID,83617,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Thayn64.jpg
-ID,,9,Ms.,R,Abby ,Lee,,5370 Elmore Road,, Fruitland, ID,83619,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lee3125.jpg
-ID,,10,Mr.,R,Jim ,Rice,,225 Appalachian Street,, Caldwell, ID,83607,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Rice1884.jpg
+ID,,1,Mr.,R,JimÂ ,Woodward,,P.O. Box 151,, Sagle, ID,83860,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Woodward5347.jpg
+ID,,2,Mr.,R,SteveÂ ,Vick,,2140 E. Hanley Avenue,, Dalton Gardens, ID,83815Â ,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Vick1164.jpg
+ID,,3,Mr.,R,DonÂ ,Cheatham,,P.O. Box 2011,, Post Falls, ID,83877,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Cheatham3129.jpg
+ID,,4,Ms.,R,MaryÂ ,Souza,,P.O. Box 2223,, Coeur dâ€™Alene, ID,83816,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Souza3126.jpg
+ID,,5,Mr.,D,DavidÂ ,Nelson,,804 East E Street,, Moscow, ID,83843,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nelson5346.jpg
+ID,,6,Mr.,R,DanielÂ G.,Johnson,,P.O. Box 2117,, Lewiston, ID,83501,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Johnson1630.jpg
+ID,,7,Mr.,R,CarlÂ ,Crabtree,,36 White Tail Acres Lane,, Grangeville, ID,83530,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Crabtree4270.jpg
+ID,,8,Mr.,R,StevenÂ P.,Thayn,,5655 Hillview Road,, Emmett, ID,83617,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Thayn64.jpg
+ID,,9,Ms.,R,AbbyÂ ,Lee,,5370 Elmore Road,, Fruitland, ID,83619,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lee3125.jpg
+ID,,10,Mr.,R,JimÂ ,Rice,,225 Appalachian Street,, Caldwell, ID,83607,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Rice1884.jpg
 ID,,11,Ms.,R,Patti Anne,Lodge,,P.O. Box 96,, Huston, ID,83630,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lodge94.jpg
-ID,,12,Mr.,R,Todd M.,Lakey,,12905 Venezia Court,, Nampa, ID,83651,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lakey2132.jpg
-ID,,13,Mr.,R,Jeff ,Agenbroad,,3615 Portland Avenue,, Nampa, ID,83636,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Agenbroad4271.jpg
+ID,,12,Mr.,R,ToddÂ M.,Lakey,,12905 Venezia Court,, Nampa, ID,83651,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lakey2132.jpg
+ID,,13,Mr.,R,JeffÂ ,Agenbroad,,3615 Portland Avenue,, Nampa, ID,83636,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Agenbroad4271.jpg
 ID,,14,Mr.,R,C. Scott,Grow,,4699 W. Temple Drive,, Eagle, ID,83646,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Grow5126.jpg
-ID,,15,Mr.,R,Fred S.,Martin,,3672 Tumbleweed Place,, Boise, ID,83713,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Martin2085.jpg
-ID,,16,Mr.,D,Grant ,Burgoyne,,2203 Mountain View Drive,, Boise , ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Burgoyne746.jpg
-ID,,17,Ms.,D,Maryanne ,Jordan,,312 N. Atlantic Street,, Boise, ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Jordan3484.jpg
-ID,,18,Ms.,D,Janie ,Ward-Engelking,,3578 S. Crosspoint Avenue,, Boise, ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ward-Engelking2091.jpg
-ID,,19,Ms.,D,Cherie ,Buckner-Webb,,2304 W. Bella St.,, Boise, ID,83702,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Buckner-Webb1177.jpg
-ID,,20,Mr.,R,Chuck ,Winder,,5528 N. Ebbetts Avenue,, Boise, ID,83713 ,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Winder753.jpg
-ID,,21,Mr.,R,Regina M.,Bayer,,265 E. Calderwood Drive,, Meridian, ID,83642,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bayer5665.jpg
+ID,,15,Mr.,R,FredÂ S.,Martin,,3672 Tumbleweed Place,, Boise, ID,83713,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Martin2085.jpg
+ID,,16,Mr.,D,GrantÂ ,Burgoyne,,2203 Mountain View Drive,, Boise , ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Burgoyne746.jpg
+ID,,17,Ms.,D,MaryanneÂ ,Jordan,,312 N. Atlantic Street,, Boise, ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Jordan3484.jpg
+ID,,18,Ms.,D,JanieÂ ,Ward-Engelking,,3578 S. Crosspoint Avenue,, Boise, ID,83706,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ward-Engelking2091.jpg
+ID,,19,Ms.,D,CherieÂ ,Buckner-Webb,,2304 W. Bella St.,, Boise, ID,83702,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Buckner-Webb1177.jpg
+ID,,20,Mr.,R,ChuckÂ ,Winder,,5528 N. Ebbetts Avenue,, Boise, ID,83713Â ,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Winder753.jpg
+ID,,21,Mr.,R,ReginaÂ M.,Bayer,,265 E. Calderwood Drive,, Meridian, ID,83642,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bayer5665.jpg
 ID,,22,Ms.,R,Lori,Den Hartog,,P.O. Box 267,, Meridian, ID,83680,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Den%20Hartog3124.jpg
-ID,,23,Mr.,R,Bert ,Brackett,,48331 Three Creek Highway,, Rogerson, ID,83302,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Brackett14.jpg
-ID,,24,Mr.,R,Lee ,Heider,,1631 Richmond Drive,, Twin Falls, ID,83301,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Heider1168.jpg
-ID,,25,Mr.,R,Jim L.,Patrick,,2231 E. 3200 N.,, Twin Falls, ID,83301,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Patrick47.jpg
-ID,,26,Ms.,D,Michelle ,Stennett,,P.O. Box 475,, Ketchum, ID,83340,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Stennett1169.jpg
-ID,,27,Mr.,R,Kelly ,Arthur Anthon,,725 E. 300 S.,, Burley, ID,83318,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anthon3524.jpg
-ID,,28,Mr.,R,Jim ,Guthrie,,320 S. Marsh Creek Road,, McCammon, ID,83250,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Guthrie1179.jpg
-ID,,29,Mr.,D,Mark ,Nye,,P.O. Box N,, Pocatello, ID,83205-0040,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nye3134.jpg
-ID,,30,Mr.,R,Dean M.,Mortimer,,7403 S. 1st East,, Idaho Falls, ID,83404,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mortimer42.jpg
-ID,,31,Mr.,R,Steve ,Bair,,947 W. 200 S.,, Blackfoot, ID,83221,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bair72.jpg
-ID,,32,Mr.,R,Mark ,Harris,,1619 8- Mile Creek Road,, Soda Springs, ID,83276,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Harris3584.jpg
-ID,,33,Mr.,R,Dave ,Lent,,1186 Caysie Circle,, Idaho Falls, ID,83402,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lent5345.jpg
-ID,,34,Mr.,R,Brent ,Hill,,1010 S. 2nd East,, Rexburg, ID,83440,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Hill88.jpg
-ID,,35,Mr.,R,Van T.,Burtenshaw,,1329 E. 1500 N.,, Terreton, ID,83450,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Burtenshaw3140.jpg
-ID,1,,R,Mr.,Sage G.,Dixon,,P.O. Box 206,, Ponderay, ID, 83852,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Dixon3130.jpg
-ID,1,,R,Ms.,Heather ,Scott,,P.O. Box 134,, Blanchard, ID, 83804 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Scott3137.jpg
-ID,2,,R,Mr.,Vito ,Barbieri,,564 E. Prairie Avenue,, Dalton Gardens, ID, 83815,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Barbieri1171.jpg
-ID,2,,R,Mr.,Tim,Remington,,5590 S. Blue Creek Road,, Coeur d’Alene, ID, 83814,Representative,https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/c/a7/ca7dadb7-5984-55b2-a777-4e82ddd97db6/5e82431a13c3e.image.jpg?resize=400%2C400
-ID,3,,R,Mr.,Ron ,Mendive,,3732 S. Dusty Lane,, Coeur d’Alene, ID, 83814,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mendive2124.jpg
-ID,3,,R,Mr.,Tony ,Wisniewski,,P.O. Box 2483,, Post Falls, ID, 83854,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wisniewski5384.jpg
-ID,4,,R,Mr.,Jim ,Addis,,P.O. Box 645,, Coeur d’Alene, ID, 83816,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Addis5366.jpg
-ID,4,,R,Mr.,Paul ,Amador,,333 W. Vista Drive,, Coeur d’Alene, ID, 83815,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Amador4272.jpg
-ID,5,,R,Mr.,Bill ,Goesling,,1141 Paradise Ridge Road,, Moscow, ID, 83843,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Goesling5373.jpg
-ID,5,,R,Ms.,Caroline ,Nilsson Troy,,2794 Highway 95,, Genesee, ID, 83832,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Troy3138.jpg
-ID,6,,R,Mr.,Mike ,Kingsley,,3413 Bluebird Circle,, Lewiston, ID, 83501,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kingsley4273.jpg
-ID,6,,R,Mr.,Aaron ,von Ehlinger,,613 Bryden Ave., Suite C #183, Lewiston, ID, 83501 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/von%20Ehlinger6525.jpg
-ID,7,,R,Ms.,Priscilla ,Giddings,,P.O. Box 43,, White Bird, ID, 83554 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Giddings4285.jpg
-ID,7,,R,Mr.,Paul E.,Shepherd,,P.O. Box 277,, Riggins, ID, 83549,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Shepherd57.jpg
-ID,8,,R,Mr.,Terry ,Gestrin,,P.O. Box 399,, Donnelly, ID, 83615,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gestrin1964.jpg
-ID,8,,R,Ms.,Dorothy ,Moon,,H.C. 67 / Box 304,, Stanley, ID, 83278,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Moon4275.jpg
-ID,9,,R,Ms.,Judy ,Boyle,,P.O. Box 57,, Midvale, ID, 83645,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Boyle745.jpg
-ID,9,,R,Mr.,Ryan ,Kerby,,5470 Highway 52,, New Plymouth, ID, 83655,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kerby3131.jpg
-ID,10,,R,Mr.,Greg ,Chaney,,P.O. Box 489,, Caldwell, ID, 83606,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Chaney3128.jpg
-ID,10,,R,Mr.,Jarom ,Wagoner,,11846 Linden Road,, Caldwell, ID, 83605,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wagoner4705.jpg
-ID,11,,R,Ms.,Tammy ,Nichols,,10 S. Hawthorne Drive #651,, Middleton, ID, 83644,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nichols5380.jpg
-ID,11,,R,Mr.,Scott A.,Syme,,206 S. 9th Avenue,Suite 105, Caldwell, ID, 83605 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Syme4278.jpg
-ID,12,,R,Mr.,Robert ,Anderst,,7401 E. Grey Lag Drive,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anderst2104.jpg
-ID,12,,R,Mr.,Rick D.,Youngblood,,12612 Smith Avenue,, Nampa, ID, 83651,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Youngblood2106.jpg
-ID,13,,R,Mr.,Gary E.,Collins,,2019 E. Massachusetts Avenue,, Nampa, ID, 83686,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Collins20.jpg
-ID,13,,R,Mr.,Brent J.,Crane,,P.O. Box 86,, Nampa, ID, 83653 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Crane21.jpg
-ID,14,,R,Ms.,Gayann ,DeMordaunt,,1017 S. Arbor Island Way,, Eagle, ID, 83616,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/DeMordaunt4280.jpg
-ID,14,,R,Mr.,Mike ,Moyle,,480 N. Plummer Road,, Star, ID, 83669,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Moyle43.jpg
-ID,15,,D,Mr.,Steve ,Berch,,P.O. Box 4903,, Boise, ID, 83711,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Berch5368.jpg
-ID,15,,D,Mr.,Jake ,Ellis,,3383 N. Five Mile Road #298,, Boise, ID, 83713,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ellis5371.jpg
-ID,16,,D,Mr.,Rob ,Mason,,2902 W. Good Street,, Boise, ID, 83703 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mason5379.jpg
-ID,16,,D,Mr.,John ,McCrostie,,7820 W. Riverside Drive,, Garden City, ID, 83714,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/McCrostie3132.jpg
-ID,17,,D,Ms.,Sue ,Chew,,1304 Lincoln Avenue,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Chew18.jpg
-ID,17,,D,Mr.,John ,Gannon,,1104 S. Johnson Street,, Boise, ID, 83705,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gannon2144.jpg
-ID,18,,D,Ms.,Brooke ,Green,,285 W. Carter Street,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Green5374.jpg
-ID,18,,D,Ms.,Ilana ,Rubel,,2750 Migratory Drive,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Rubel2888.jpg
-ID,19,,D,Ms.,Lauren ,Necochea,,P.O. Box 1634,, Boise, ID, 83701 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Necochea6315.jpg
-ID,19,,D,Ms.,Melissa ,Wintrow,,1711 Ridenbaugh Street,, Boise, ID, 83702,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wintrow3139.jpg
-ID,20,,R,Mr.,James ,Holtzclaw,,3720 N. Heritage View Avenue,, Meridian, ID, 83646,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Holtzclaw2086.jpg
-ID,20,,R,Mr.,Joe ,Palmer,,1524 N. Meridian Road,, Meridian, ID, 83642,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Palmer749.jpg
-ID,21,,R,Mr.,Steven ,Harris,,3432 E. Plympton Drive,, Meridian, ID, 83642,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Harris2087.jpg
-ID,21,,R,Ms.,Megan ,Kiska,,P.O. Box 191207,, Boise, ID, 83719 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kiska5945.jpg
-ID,22,,R,Mr.,Jason A.,Monks,,3865 S. Black Cat Road,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Monks2084.jpg
-ID,22,,R,Mr.,John ,Vander Woude,,5311 Ridgewood Road,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Vander%20Woude67.jpg
-ID,23,,R,Ms.,Megan ,Blanksma,,595 S. Thacker Road,, Hammett, ID, 83627,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Blanksma4283.jpg
-ID,23,,R,Ms.,Christy ,Zito,,8821 Old Highway 30,, Hammett, ID, 83627 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Zito4281.jpg
-ID,24,,R,Mr.,Lance W.,Clow,,2170 Bitterroot Drive,, Twin Falls, ID, 83301,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Clow2107.jpg
-ID,24,,R,Ms.,Linda ,Wright Hartgen,,1681 Wildflower Lane,, Twin Falls, ID, 83301,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Hartgen5376.jpg
-ID,25,,R,Mr.,Clark ,Kauffman,,3791 N. 2100 E.,, Filer, ID, 83328,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kauffman2126.jpg
-ID,25,,R,Ms.,Laurie ,Lickley,,445 E. 400 South,, Jerome, ID, 83338 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lickley5377.jpg
-ID,26,,D,Ms.,Muffy ,Davis,,P.O. Box 1477,, Ketchum, ID, 83340,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Davis5370.jpg
-ID,26,,D,Ms.,Sally ,Toone,,2096 E. 1500 S.,, Gooding, ID, 83330,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Toone4282.jpg
-ID,27,,R,Mr.,Scott ,Bedke,,P.O. Box 89,, Oakley, ID, 83346,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bedke5.jpg
-ID,27,,R,Mr.,Fred ,Wood,,P.O. Box 1207,, Burley, ID, 83318-0828 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wood69.jpg
-ID,28,,R,Mr.,Kevin ,Andrus,,6948 E. Old Oregon Trail Road,, Lava Hot Springs, ID, 83246,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Andrus5367.jpg
-ID,28,,R,Mr.,Randy ,Armstrong,,P.O. Box 8,, Inkom, ID, 83245,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Armstrong4279.jpg
-ID,29,,D,Mr.,Chris ,Abernathy,,1768 S. Grant,, Pocatello, ID, 83204,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Abernathy5365.jpg
-ID,29,,D,Ms.,Elaine ,Smith,,3759 Heron Avenue,, Pocatello, ID, 83201,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Smith61.jpg
-ID,30,,R,Ms.,Wendy ,Horman,,1860 Heather Circle,, Idaho Falls, ID, 83406,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Horman2146.jpg
-ID,30,,R,Mr.,Gary ,Marshall,,5714 N. 26th West,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Marshall5378.jpg
-ID,31,,R,Mr.,Neil A.,Anderson,,71 S. 700 W.,, Blackfoot, ID, 83221,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anderson2128.jpg
-ID,31,,R,Ms.,Julianne ,Young,,275 N. 400 West,, Blackfoot, ID, 83221,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Young5385.jpg
-ID,32,,R,Mr.,Chad ,Christensen,,3890 E. 65th South,, Ammon, ID, 83406,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Christensen5369.jpg
-ID,32,,R,Mr.,Marc ,Gibbs,,632 Highway 34,, Grace, ID, 83241,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gibbs748.jpg
-ID,33,,R,Ms.,Barbara ,Ehardt,,961 J Street,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ehardt4945.jpg
-ID,33,,R,Mr.,Bryan ,Zollinger,,2355 S. Bellin Road,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Zollinger4276.jpg
-ID,34,,R,Ms.,Britt ,Raybould,,P.O. Box 653,, Rexburg, ID, 83440 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Raybould5381.jpg
-ID,34,,R,Mr.,Doug ,Ricks,,140 S. 3rd East,, Rexburg, ID, 83440,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ricks5383.jpg
-ID,35,,R,Mr.,Rod ,Furniss,,346 N. 4456 East,, Rigby, ID, 83442,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Furniss5372.jpg
-ID,35,,R,Mr.,Jerald ,Raymond,,3352 E. 750 North,, Menan, ID, 83434 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Raymond5382.jpg
-IL,,1,D,Mr.,Antonio,Muño,,323A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BC4AA7682-5256-4C1D-A7C6-90953534A514%7D.jpg
-IL,,2,D,Mr.,Omar,Aquin,,623 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B79A5CDE2-DD9F-423E-83F0-4643FDB13ABB%7D.jpg
-IL,,3,D,Ms.,Mattie,Hunte,,619 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BF4630DDB-11F0-417E-8C0A-B4ED6426116F%7D.jpg
-IL,,4,D,Ms.,Kimberly A.,Lightfor,,329A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B7FBA8DB0-281E-406F-BF9F-ABEB75B7B38E%7D.jpg
-IL,,5,D,Ms.,Patricia,Van Pel,,121A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B71DA8897-D74A-4034-9A99-79C7FB2BD90E%7D.jpg
-IL,,6,D,Ms.,Sara,Feigenholt,,M106 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BE77394AE-D896-4FEB-A325-B33A553554EB%7D.jpg
-IL,,7,D,Ms.,Heather A.,Stean,,627 I Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B222FB39E-971E-4E7B-B43C-0B12080C2DD9%7D.jpg
-IL,,8,D,Mr.,Ram,Villivala,,M120 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BDBF0BBF0-0E16-4C5F-894A-16C4A14CAF51%7D.jpg
-IL,,10,D,Mr.,Robert F.,Martwick,,127 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B8FA2A22C-6775-4098-905C-0C7D8BBD7AEE%7D.jpg
-IL,,11,D,Ms.,Celina,Villanueva,,111 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BF8A21A81-5453-4E94-AC51-E644E1B0C00B%7D.jpg
-IL,,12,D,Mr.,Steven M.,Landek,,113 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BCB30B8CB-1FBB-4869-A78E-D08AF0616D74%7D.jpg
-IL,,13,D,Mr.,Robert,Peters,,M121 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B05AD9CBA-EA20-489D-9C33-3F39DC1F9B0C%7D.jpg
-IL,,14,D,Mr.,Emil,Jones,III,108B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B2C0EE719-E9D8-4625-990D-69FCE146BC0F%7D.jpg
-IL,,15,D,Mr.,Napoleon,Harris,III,M113 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B87402198-6E85-4CFE-BDD2-B9DC58948869%7D.jpg
-IL,,16,D,Ms.,Jacqueline Y.,Collins,,M114 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BD2A0AAA1-D1A0-49D3-8A11-78A1A73D73A9%7D.jpg
-IL,,17,D,Mr.,Elgie R.,Sims,Jr.,417B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B1EAF7721-A189-4CD1-B31D-CD39F79DBD04%7D.jpg
-IL,,18,D,Mr.,Bill,Cunningham,,329B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B402F0454-4EAF-4721-993D-53C7459BA35B%7D.jpg
-IL,,19,D,Mr.,Michael E.,Hastings,,118 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BC6E534EB-7243-4687-8A65-04BD4DA5DF72%7D.jpg
-IL,,20,D,Ms.,Iris Y.,Martinez,,413 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B274BFBAB-00D7-4DB2-A9CD-FFABCDA5AD08%7D.jpg
-IL,,21,D,Ms.,Laura,Ellman,,M122 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B423E6DDE-1AFB-4F10-A767-C869B0E51483%7D.jpg
-IL,,22,D,Ms.,Cristina,Castro,,121D Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BF09EB558-EB8D-48B1-91F0-EF47A07632F5%7D.jpg
-IL,,23,D,Mr.,Thomas,Cullerton,,123 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BA0AAC8CC-CA27-4DD9-9F4F-E1EA4C12B0E3%7D.jpg
-IL,,24,D,Ms.,Suzy,Glowiak Hilton,,124 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B8DE2D7E5-9F3D-43FD-B0EC-0010BDA8849A%7D.jpg
-IL,,25,R,Mr.,Jim,Oberweis,,309 I Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B732CAC2D-CEC4-467B-A9AA-05282259B15F%7D.jpg
-IL,,26,R,Mr.,Dan,McConchie,,309H Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BB3DB61E4-CBA1-4E2C-9DC7-4EEE9F52BCD7%7D.jpg
-IL,,27,D,Ms.,Ann,Gillespie,,108D Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BD11CC547-0960-44F1-80C9-99F8CE5D5479%7D.jpg
-IL,,28,D,Ms.,Laura M.,Murphy,,108E Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BE8C6FBF1-611C-4DD5-A81D-F0FF8917556D%7D.jpg
-IL,,29,D,Ms.,Julie A.,Morrison,,122 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B0E6BF8A6-C5C8-4F54-977B-D5FD11707FA5%7D.jpg
-IL,,30,D,Mr.,Terry,Link,,321 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B2F06AA07-1281-4363-A31D-3C7AFD0D3963%7D.jpg
-IL,,31,D,Ms.,Melinda,Bush,,121C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B772B9650-EA19-4BC6-9C53-F76EB5DA14B3%7D.jpg
-IL,,32,R,Mr.,Craig,Wilcox,,105D Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BE397F861-68AA-4CC2-9A23-50B9A8E13031%7D.jpg
-IL,,33,R,Mr.,Donald P.,DeWitte,,105B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B21A3B029-3423-410E-818A-84512CD0D231%7D.jpg
-IL,,34,D,Mr.,Steve,Stadelman,,121B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B47906765-AB0A-48BF-8C14-B5443B8F27C4%7D.jpg
-IL,,35,R,Mr.,Dave,Syverson,,105E Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B6FD168B8-C34B-4399-8E39-7373F7600882%7D.jpg
-IL,,36,R,Mr.,Neil,Anderson,,M103D Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B90CDA259-1DEA-4D18-AE97-30051E03D154%7D.jpg
-IL,,37,R,Mr.,Chuck,Weaver,,103A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B984DFCEF-3D95-4524-9102-FAF8B6511BE4%7D.jpg
-IL,,38,R,Ms.,Sue,Rezin,,309J Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B45666230-B77D-4162-A45E-6AC5587C4E56%7D.jpg
-IL,,39,D,Mr.,Don,Harmon,,327 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BCF3F6473-4E6D-4E84-A0A4-4FF7335132E2%7D.jpg
-IL,,40,D,Mr.,Patrick J.,Joyce,,108A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B39D6F100-DAEC-4C4B-A4F5-F20299B79152%7D.jpg
-IL,,41,R,Mr.,John F.,Curran,,105A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B7FC724D0-C297-4D20-AC25-3D879DE286B8%7D.jpg
-IL,,42,D,Ms.,Linda,Holmes,,129 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B9A39C8B9-4B06-4BF7-85CE-4C6F4FD07769%7D.jpg
-IL,,43,D,Mr.,Pat,McGuire,,417C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B7994F2D1-3BE5-4722-915A-13C69FB3766C%7D.jpg
-IL,,44,R,Mr.,William E.,Brady,,309G. Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BD9BF6EBA-FC02-48DC-8505-B83436A46DD5%7D.jpg
-IL,,45,R,Mr.,Brian W.,Stewart,,105C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B9542D32E-E8F8-4E42-963E-23FC7621D747%7D.jpg
-IL,,46,D,Mr.,David,Koehler,,323B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B2C57E551-D82A-4C7D-8746-3F83913F0D7D%7D.jpg
-IL,,47,R,Ms.,Jil,Tracy,,103C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B21C0F860-E9DD-4215-A3AA-703E275C8526%7D.jpg
-IL,,48,D,Mr.,Andy,Manar,,119A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B385C74DA-9ACC-41E3-99D3-08A6A1EC1FC9%7D.jpg
-IL,,49,D,Ms.,Jennifer,Bertino-Tarrant,,119B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B01A3B178-08B3-42A9-9022-FEE4C3220565%7D.jpg
-IL,,50,R,Mr.,Steve,McClure,,218 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BEB86B3C4-3F25-4D5C-8944-7B4CBCA7CACE%7D.jpg
-IL,,51,R,Ms.,Chapin,Rose,,103B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BBA95E1D1-0570-4492-B739-D1F593F183FD%7D.jpg
-IL,,52,D,Mr.,Scott M.,Bennett,,311C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B8F1A0093-CB44-43C1-9D4D-67266A50A8C6%7D.jpg
-IL,,53,R,Mr.,Jason A.,Barickman,,309L Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B73221756-E2C7-4B72-8907-701CC96B7ED2%7D.jpg
-IL,,54,R,Mr.,Jason,Plummer,,M103F Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BCE75DC7E-2CD4-4D01-B697-C2866F828E25%7D.jpg
-IL,,55,R,Mr.,Dale A.,Righter,,309M Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B25A344E9-478E-40E1-8D41-CA34A8FCCD61%7D.jpg
-IL,,56,D,Ms.,Rachelle,Crowe,,311B Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B05406617-A6A5-4533-852E-04678B860D88%7D.jpg
-IL,,57,D,Mr.,Christopher,Belt,,M118 Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7BEFE7513C-260C-46DE-BAB3-A12F250B2937%7D.jpg
-IL,,58,R,Mr.,Paul,Schimpf,,M103A Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B9118303D-1BC2-4023-B54F-52B34927106C%7D.jpg
-IL,,59,R,Mr.,Dale,Fowler,,M103C Capitol Building,,Springfield,IL,62706 ,Senator,https://www.ilga.gov/images/members/%7B1E60CA94-7006-4CAB-841D-C9D99569D9D3%7D.jpg
-IL,1,,D,Mr.,Aaron M.,Ortiz ,,258-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BD96B0DF9-0E06-487B-825C-AB0BE8C3CA1E%7D.jpg
-IL,2,,D,Ms.,Theresa,Mah ,,270-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B808BAA30-BB82-437A-9A76-386F9A65A073%7D.jpg
-IL,3,,D,Ms.,Eva,Dina Delgado ,,200-1S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BD02A93E7-7D84-4429-92AB-60B61084EBA1%7D.jpg
-IL,4,,D,Ms.,Delia C.,Ramirez ,,200-5S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B9191D594-17C7-4AE7-8391-69AC35855F8C%7D.jpg
-IL,5,,D,Mr.,Lamont J.,Robinson,Jr. ,290-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BADEF6C52-D60E-41E7-91CA-ED943108D35B%7D.jpg
-IL,6,,D,Ms.,Sonya M.,Harper ,,274-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B04C99384-69F8-4ACE-9E43-11E21CC5F820%7D.jpg
-IL,7,,D,Mr.,Emanuel Chris,Welch ,,249-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B5D419B94-66B4-4F3B-86F1-BFF37B3FA55C%7D.jpg
-IL,8,,D,Mr.,La Shawn K.,Ford ,,239-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBCC3C8D6-5728-4A69-8A3B-F203314DD563%7D.jpg
-IL,9,,D,Ms.,Lakesia,Collins ,,300 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.lakesia4rep.com/wp-content/uploads/2019/10/lakesia_hs_main2.jpg
-IL,10,,D,Mr.,Jawaharial,Williams ,,256-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B32750D93-496F-42CA-9CCE-93C3451713A1%7D.jpg
-IL,11,,D,Ms.,Ann M.,Williams ,,273-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BC45B418C-4848-4467-ADC2-739B2D1E4418%7D.jpg
-IL,12,,D,Mr.,Yoni,Pizer ,,261-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BAEA13B8E-BC14-4BAE-99C1-804503A2D405%7D.jpg
-IL,13,,D,Mr.,Gregory,Harris ,,300 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8EDBEBE1-17C3-4EBA-A5AA-9DC1321DB0B3%7D.jpg
-IL,14,,D,Ms.,Kelly M.,Cassidy ,,263-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B3EFBDD50-41FF-4677-AA47-FB35B70C4667%7D.jpg
-IL,15,,D,Mr.,John C.,D'Amico ,,279-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BAF790B68-DC07-47D1-95DA-E7ED5AF4B332%7D.jpg
-IL,16,,D,Mr.,Yehiel M.,Kalish ,,242-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8557F695-678F-456C-B71C-CAA66E124B77%7D.jpg
-IL,17,,D,Ms.,Jennifer,Gong-Gershowitz ,,265-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B395E8140-10ED-4C70-81B9-2673676BF467%7D.jpg
-IL,18,,D,Ms.,Robyn,Gabel ,,248-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B739CC8F9-E9E4-40A1-AB86-883EF9A5E313%7D.jpg
-IL,19,,D,Ms.,Lindsey,LaPointe ,,271-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B7447C9D9-48D0-457E-BDC9-847FB8D35DB5%7D.jpg
-IL,20,,R,Mr.,Bradley,Stephens ,,227-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBD3836AC-CD0C-4E20-AD4C-1F2AEA56A8A2%7D.jpg
-IL,21,,D,Mr.,Edgar,Gonzalez,Jr. ,260-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B370B1494-7F8F-48BC-BD66-4756E15442E1%7D.jpg
-IL,22,,D,Mr.,Michael J.,Madigan ,,300 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8270D4F3-2A64-41A4-A409-AEF225004390%7D.jpg
-IL,23,,D,Mr.,Michael J.,Zalewski ,,229-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B120BA436-317C-406F-9408-F648E3594BA1%7D.jpg
-IL,24,,D,Ms.,Elizabeth,Hernandez ,,109 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B%7D.jpg
-IL,25,,D,Mr.,Curtis J.,Tarver,II ,264-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE9404756-F108-41DB-A7A8-87C36BBF763D%7D.jpg
-IL,26,,D,Mr.,Kambium,Buckner ,,252-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B37E72FD2-6318-45FD-9FF1-C750EB26137D%7D.jpg
-IL,27,,D,Mr.,Justin,Slaughter ,,286-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B170C17F3-38A1-42E5-B222-020B43077D53%7D.jpg
-IL,28,,D,Mr.,Robert,Rita ,,267-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BAC16F1E8-0988-4A08-A2E5-EF4D06371A24%7D.jpg
-IL,29,,D,Mr.,Thaddeus,Jones ,,241-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B6EE82A11-2CC6-48E9-9DE6-61D83EBCAB6B%7D.jpg
-IL,30,,D,Mr.,William,Davis ,,262-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B6012DCA8-7486-49F9-A387-8703A2CF469C%7D.jpg
-IL,31,,D,Ms.,Mary E.,Flowers ,,251-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B3049B08D-BD65-4FCF-B82C-D46B0B4CCF4F%7D.jpg
-IL,32,,D,Mr.,Andre,Thapedi ,,245-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B5E31C56F-A3AA-4089-B697-E05B02B3F147%7D.jpg
-IL,33,,D,Mr.,Marcus C.,Evans,Jr. ,268-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBFD8B13A-CD65-452C-8F20-9D32C3A013BF%7D.jpg
-IL,34,,D,Mr.,Nicholas K.,Smith ,,282-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B4D7D283C-73C8-40F8-A3F0-7FA9301456F5%7D.jpg
-IL,35,,D,Ms.,Frances Ann,Hurley ,,281-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE5ABA68E-10AC-4592-B38E-2C65AFB777B2%7D.jpg
-IL,36,,D,Ms.,Kelly M.,Burke ,,632 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B5D9078FA-21F1-411F-A447-B5E7299AC314%7D.jpg
-IL,37,,R,Ms.,Margo,McDermed ,,211-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BDAC1967F-26C4-43B2-9BE4-C7F3D78922D4%7D.jpg
-IL,38,,D,Ms.,Debbie,Meyers-Martin ,,250-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE3E2099C-AB6A-442B-B191-3A83D6D3A1E2%7D.jpg
-IL,39,,D,Mr.,Will,Guzzardi ,,200-3S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BC127AF36-0EAE-48B6-8C31-86AAE3935790%7D.jpg
-IL,40,,D,Mr.,Jaime M.,Andrade,Jr. ,238-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B34A19039-7BF5-44A7-9A06-4EC121E52514%7D.jpg
-IL,41,,R,Mr.,Grant,Wehrli ,,314 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B1842D15F-3B1B-4F28-B5C0-6D5C99D263E5%7D.jpg
-IL,42,,D,Ms.,Amy,Grant ,,206-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B41DCC207-977E-45DC-BD10-A8AFDCEB673E%7D.jpg
-IL,43,,D,Ms.,Anna,Moeller ,,246-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BDCE9D682-0582-49BD-AD67-98C2502D89C2%7D.jpg
-IL,44,,D,Mr.,Fred,Crespo ,,109 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BB92F7A2F-6517-4A3F-87B3-56FAA240285F%7D.jpg
-IL,45,,D,Ms.,Diane,Pappas ,,240-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B32DE4C0A-7C22-4F01-B0A4-975A4EB93448%7D.jpg
-IL,46,,D,Ms.,Deb,Conroy ,,275-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B643B5E07-BEDA-400C-BBDD-8FADE7A97A38%7D.jpg
-IL,47,,D,Ms.,Deanne M.,Mazzochi ,,210-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BEFDF86C3-4EAD-4265-B666-C24FFF65F9E1%7D.jpg
-IL,48,,D,Ms.,Terra,Costa Howard,,244-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B7A155EE5-0C58-43BC-9B51-65B6E2908BA1%7D.jpg
-IL,49,,D,Ms.,Karina,Villa ,,242A-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BA23556E9-B394-4F64-88EC-69D0BFB5945B%7D.jpg
-IL,50,,R,Mr.,Keith R.,Wheeler ,,200-5N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE55EB524-32B8-4A2A-951D-4BD5A1182F5B%7D.jpg
-IL,51,,D,Ms.,Mary,Edly-Allen ,,235-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBA03ED78-6725-429F-9439-125943321F33%7D.jpg
-IL,52,,R,Mr.,David,McSweeney ,,226-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BA49355BD-BBD6-43D9-8310-B25869FD5D60%7D.jpg
-IL,53,,D,Mr.,Mark L.,Walker ,,278-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBC2AF76D-FAE4-44C4-8632-AA4E629A9678%7D.jpg
-IL,54,,R,Mr.,Thomas,Morrison ,,215-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B590FA09F-B685-4E88-B384-B5EE3F2D58E8%7D.jpg
-IL,55,,D,Mr.,Martin J.,Moylan ,,292-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B3E365092-6B37-486C-996B-C140284F8723%7D.jpg
-IL,56,,D,Ms.,Michelle,Mussman ,,257-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B63BBD5DE-333E-4015-8658-4F7B2D45E1B7%7D.jpg
-IL,57,,D,Mr.,Jonathan,Carroll ,,231-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B1014E3F8-887D-4889-804E-95E5457B46BB%7D.jpg
-IL,58,,D,Mr.,Bob,Morgan ,,280-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BA3460802-617C-4097-B043-6D63A11278AC%7D.jpg
-IL,59,,D,Mr.,Daniel,Didech ,,266-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B1EA869A9-B93D-4E72-824B-E14992452581%7D.jpg
-IL,60,,D,Ms.,Rita,Mayfield ,,243-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B3A2DAB8B-B5F8-48EE-85D3-05894ED42A5D%7D.jpg
-IL,61,,D,Ms.,Joyce,Mason ,,247-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B26C52E17-9395-4BF8-B6E6-3E1CE6234032%7D.jpg
-IL,62,,D,Mr.,Sam,Yingling ,,259-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B4A9D137F-EA10-4C6A-BAB4-27CE34D4BED1%7D.jpg
-IL,63,,R,Mr.,Steven,Reick ,,225-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BD4845B6E-9A2E-4F0E-9F70-503B2E5891CA%7D.jpg
-IL,64,,R,Mr.,Tom,Weber ,,232-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B4C80DF49-91D2-4C24-981E-BBE946A671D2%7D.jpg
-IL,65,,R,Mr.,Dan,Ugaste ,,230-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B2552FBE4-D977-4283-B00C-78FC085BD955%7D.jpg
-IL,66,,R,Mr.,Allen,Skillicorn ,,234-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B47D93AEC-3D46-409B-B881-CD0CBC9226B7%7D.jpg
-IL,67,,D,Mr.,Maurice A.,West,II ,237-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BAFB160BE-629B-4C70-8541-877D6FCDE529%7D.jpg
-IL,68,,R,Mr.,John M.,Cabello ,,200-4N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8AFD3AA5-D48C-4A27-B8A4-B595F925C6D1%7D.jpg
-IL,69,,R,Mr.,Joe,Sosnowski ,,200-2N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B7DEBF89C-D2BA-4952-94A2-40F564A00144%7D.jpg
-IL,70,,R,Mr.,Jeff,Keicher ,,218-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BFD009EA6-624D-45C7-A093-BC66B8B3C090%7D.jpg
-IL,71,,R,Ms.,Tony,McCombie ,,201-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B0766A6E9-981F-491B-B3A1-12DF91F1DBDA%7D.jpg
-IL,72,,D,Mr.,Michael,Halpin ,,272-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B51EA8D97-3DDD-42AC-B607-CF1C1235CB56%7D.jpg
-IL,73,,R,Mr.,Ryan,Spain ,,219-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B4C25C70B-0E39-406B-9318-A899C2A6D1B0%7D.jpg
-IL,74,,R,Mr.,Daniel,Swanson ,,200-3N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BF7512D74-4694-4272-9A1E-6935F4AD4F1D%7D.jpg
-IL,75,,R,Mr.,David A.,Welter ,,205-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BFDBB59A3-86E8-4DAA-9A29-27419536211A%7D.jpg
-IL,76,,D,Mr.,Lance,Yednock ,,240A-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B2F9A6E55-09F7-4C26-AEEC-9A9D32773201%7D.jpg
-IL,77,,D,Ms.,Kathleen,Willis ,,632 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B771B20C1-5974-452E-9CE7-D8070D5A82FF%7D.jpg
-IL,78,,D,Ms.,Camille Y.,Lilly ,,200-8S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B84D8FB64-9F82-405A-9376-A69ADFB46E53%7D.jpg
-IL,79,,R,Ms.,Lindsay,Parkhurst ,,209-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B72D8A315-AF67-4260-AF98-4C0DA63C7087%7D.jpg
-IL,80,,D,Mr.,Anthony,DeLuca ,,277-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B64399002-8B14-4D8E-80A4-54A77F25421C%7D.jpg
-IL,81,,D,Ms.,Anne,Stava-Murray ,,276-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B0322F94E-013C-4237-9808-4462138AC595%7D.jpg
-IL,82,,R,Mr.,Jim,Durkin ,,316 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B760BBA90-38A6-4917-8C3A-D28908F67ED7%7D.jpg
-IL,83,,D,Ms.,Barbara,Hernandez ,,233-E Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE3518E4F-7AAF-4D93-8985-336197D96094%7D.jpg
-IL,84,,D,Ms.,Stephanie A.,Kifowit ,,255-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B96E18070-8D3D-4EEC-8432-8A30FEC19E5C%7D.jpg
-IL,85,,D,Mr.,John,Connor ,,284-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B2215CB8F-EAEB-4B96-A787-2571ED7BDC10%7D.jpg
-IL,86,,D,Mr.,Lawrence,Walsh,Jr. ,200-9S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BF11DA3BE-D8FF-48F0-8450-43231B4DD28F%7D.jpg
-IL,87,,R,Mr.,Tim,Butler ,,E-1 Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8D147B40-5711-4E50-AAC8-ED40137F3B46%7D.jpg
-IL,88,,R,Mr.,Keith P,Sommer ,,216-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BC88F32E6-78FD-4BFF-9894-105CEC155A8F%7D.jpg
-IL,89,,R,Mr.,Andrew S.,Chesney ,,204-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B1153A212-EA92-4CF5-A755-8E676033330C%7D.jpg
-IL,90,,R,Mr.,Tom,Demmer ,,314 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B32747BD4-4453-4942-8DE7-CCED7209FFE2%7D.jpg
-IL,91,,R,Mr.,Michael D.,Unes ,,224-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B376F1209-F11E-4357-9F50-85702CFDE27F%7D.jpg
-IL,92,,D,Ms.,Jehan,Gordon-Booth ,,632 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BA81D0C01-0A50-446D-B796-3A5A6D046EB1%7D.jpg
-IL,93,,R,Ms.,Norine K.,Hammond ,,203-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B07D3914D-440A-4891-99AE-256F657BBFFF%7D.jpg
-IL,94,,R,Mr.,Randy E.,Frese ,,221-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBFF3CD04-BFB6-4681-952F-D519B27FE904%7D.jpg
-IL,95,,R,Ms.,Avery,Bourne ,,217-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B1E0F129F-D165-4015-A615-FAB6B0DED9F0%7D.jpg
-IL,96,,D,Ms.,Sue,Scherer ,,E-2 Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BA0B92E66-B4F7-4B85-A7F2-14C0153B426F%7D.jpg
-IL,97,,R,Mr.,Mark,Batinick ,,200-8N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B6432B106-8A75-40C0-BAE1-238FFE4DA487%7D.jpg
-IL,98,,D,Ms.,Natalie A.,Manley ,,109 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BF3781CCA-4285-44C3-8E60-811B9229EA1B%7D.jpg
-IL,99,,R,Mr.,Mike,Murphy ,,E-1 Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B0F7CD78F-3317-42D0-A1A9-9573CE74B150%7D.jpg
-IL,100,,R,Mr.,C.D.,Davidsmeyer ,,202-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE54250D5-EB1C-4CB6-9CF9-CA95CAA2F269%7D.jpg
-IL,101,,R,Mr.,Dan,Caulkins ,,205 A-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B73C533DE-29C5-4EF9-A32C-DC5D8EA1DFE8%7D.jpg
-IL,102,,R,Mr.,Brad,Halbrook ,,200-1N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B3F3C3739-E087-440D-B006-33043A8F5083%7D.jpg
-IL,103,,D,Ms.,Carol,Ammons ,,288-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BBD4B7A5C-6D24-4E82-9C18-D5A0F3C42F6C%7D.jpg
-IL,104,,R,Mr.,Michael T.,Marron ,,208-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BC3BE26CD-E738-4985-8F5B-069F76189A73%7D.jpg
-IL,105,,R,Mr.,Dan,Brady ,,314 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BB8BEEC1C-5E74-479B-8640-7B3407FDF4EB%7D.jpg
-IL,106,,R,Mr.,Thomas M.,Bennett ,,220-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B8AC89431-9F59-46C7-9D68-E141A152A362%7D.jpg
-IL,107,,R,Mr.,Blaine,Wilhour ,,213-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B66C5580C-A414-41BB-B3AC-638925AC34CD%7D.jpg
-IL,108,,R,Mr.,Charles,Meier ,,200-7N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B9D43D019-A58A-47EC-B769-A7050C4B49DB%7D.jpg
-IL,109,,R,Mr.,Darren,Bailey ,,228-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BE711544D-E0C4-4E1F-AFAB-86718D6DCC55%7D.jpg
-IL,110,,R,Mr.,Chris,Miller ,,222-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B2A519012-9070-494B-9FFC-C2646374202E%7D.jpg
-IL,111,,D,Ms.,Monica,Bristow ,,269-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BCAE8AF79-6982-4105-BC57-3498744574EB%7D.jpg
-IL,112,,D,Ms.,Katie,Stuart ,,253-S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BD6DC8152-9760-4BEA-ACF5-C41785E6F6C4%7D.jpg
-IL,113,,D,Mr.,Jay,Hoffman ,,300 Capitol Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BFCD7EF06-36D9-46A7-8085-4B5A5ED81A80%7D.jpg
-IL,114,,D,Ms.,LaToya,Greenwood ,,254-W Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B87BFA17C-40F4-48B9-AFF5-5A0F37E8EEAF%7D.jpg
-IL,115,,R,Ms.,Terri,Bryant ,,207-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B880F9FD4-185B-4339-9AA2-4EF360F55F79%7D.jpg
-IL,116,,D,Mr.,Nathan D.,Reitz ,,200-7S Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B82C32B5B-1A1F-45D1-9F7C-B1BDDBCCCEE9%7D.jpg
-IL,117,,R,Mr.,Dave,Severin ,,223-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7BFC792043-4CE1-4796-BA38-E68B39A9847A%7D.jpg
-IL,118,,R,Mr.,Patrick,Windhorst ,,214-N Stratton Office Building,,Springfield,IL,62706 ,Representative,https://www.ilga.gov/images/members/%7B547F9C92-7368-4390-B625-5BB795568D50%7D.jpg
+ID,,23,Mr.,R,BertÂ ,Brackett,,48331 Three Creek Highway,, Rogerson, ID,83302,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Brackett14.jpg
+ID,,24,Mr.,R,LeeÂ ,Heider,,1631 Richmond Drive,, Twin Falls, ID,83301,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Heider1168.jpg
+ID,,25,Mr.,R,JimÂ L.,Patrick,,2231 E. 3200 N.,, Twin Falls, ID,83301,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Patrick47.jpg
+ID,,26,Ms.,D,MichelleÂ ,Stennett,,P.O. Box 475,, Ketchum, ID,83340,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Stennett1169.jpg
+ID,,27,Mr.,R,KellyÂ ,ArthurÂ Anthon,,725 E. 300 S.,, Burley, ID,83318,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anthon3524.jpg
+ID,,28,Mr.,R,JimÂ ,Guthrie,,320 S. Marsh Creek Road,, McCammon, ID,83250,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Guthrie1179.jpg
+ID,,29,Mr.,D,MarkÂ ,Nye,,P.O. Box N,, Pocatello, ID,83205-0040,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nye3134.jpg
+ID,,30,Mr.,R,DeanÂ M.,Mortimer,,7403 S. 1st East,, Idaho Falls, ID,83404,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mortimer42.jpg
+ID,,31,Mr.,R,SteveÂ ,Bair,,947 W. 200 S.,, Blackfoot, ID,83221,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bair72.jpg
+ID,,32,Mr.,R,MarkÂ ,Harris,,1619 8- Mile Creek Road,, Soda Springs, ID,83276,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Harris3584.jpg
+ID,,33,Mr.,R,DaveÂ ,Lent,,1186 Caysie Circle,, Idaho Falls, ID,83402,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lent5345.jpg
+ID,,34,Mr.,R,BrentÂ ,Hill,,1010 S. 2nd East,, Rexburg, ID,83440,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Hill88.jpg
+ID,,35,Mr.,R,VanÂ T.,Burtenshaw,,1329 E. 1500 N.,, Terreton, ID,83450,Senator,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Burtenshaw3140.jpg
+ID,1,,R,Mr.,SageÂ G.,Dixon,,P.O. Box 206,, Ponderay, ID, 83852,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Dixon3130.jpg
+ID,1,,R,Ms.,HeatherÂ ,Scott,,P.O. Box 134,, Blanchard, ID, 83804Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Scott3137.jpg
+ID,2,,R,Mr.,VitoÂ ,Barbieri,,564 E. Prairie Avenue,, Dalton Gardens, ID, 83815,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Barbieri1171.jpg
+ID,2,,R,Mr.,Tim,Remington,,5590 S. Blue Creek Road,, Coeur dâ€™Alene, ID, 83814,Representative,https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/c/a7/ca7dadb7-5984-55b2-a777-4e82ddd97db6/5e82431a13c3e.image.jpg?resize=400%2C400
+ID,3,,R,Mr.,RonÂ ,Mendive,,3732 S. Dusty Lane,, Coeur dâ€™Alene, ID, 83814,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mendive2124.jpg
+ID,3,,R,Mr.,TonyÂ ,Wisniewski,,P.O. Box 2483,, Post Falls, ID, 83854,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wisniewski5384.jpg
+ID,4,,R,Mr.,JimÂ ,Addis,,P.O. Box 645,, Coeur dâ€™Alene, ID, 83816,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Addis5366.jpg
+ID,4,,R,Mr.,PaulÂ ,Amador,,333 W. Vista Drive,, Coeur dâ€™Alene, ID, 83815,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Amador4272.jpg
+ID,5,,R,Mr.,BillÂ ,Goesling,,1141 Paradise Ridge Road,, Moscow, ID, 83843,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Goesling5373.jpg
+ID,5,,R,Ms.,CarolineÂ ,NilssonÂ Troy,,2794 Highway 95,, Genesee, ID, 83832,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Troy3138.jpg
+ID,6,,R,Mr.,MikeÂ ,Kingsley,,3413 Bluebird Circle,, Lewiston, ID, 83501,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kingsley4273.jpg
+ID,6,,R,Mr.,AaronÂ ,von Ehlinger,,613 Bryden Ave., Suite C #183, Lewiston, ID, 83501Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/von%20Ehlinger6525.jpg
+ID,7,,R,Ms.,PriscillaÂ ,Giddings,,P.O. Box 43,, White Bird, ID, 83554 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Giddings4285.jpg
+ID,7,,R,Mr.,PaulÂ E.,Shepherd,,P.O. Box 277,, Riggins, ID, 83549,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Shepherd57.jpg
+ID,8,,R,Mr.,TerryÂ ,Gestrin,,P.O. Box 399,, Donnelly, ID, 83615,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gestrin1964.jpg
+ID,8,,R,Ms.,DorothyÂ ,Moon,,H.C. 67 / Box 304,, Stanley, ID, 83278,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Moon4275.jpg
+ID,9,,R,Ms.,JudyÂ ,Boyle,,P.O. Box 57,, Midvale, ID, 83645,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Boyle745.jpg
+ID,9,,R,Mr.,RyanÂ ,Kerby,,5470 Highway 52,, New Plymouth, ID, 83655,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kerby3131.jpg
+ID,10,,R,Mr.,GregÂ ,Chaney,,P.O. Box 489,, Caldwell, ID, 83606,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Chaney3128.jpg
+ID,10,,R,Mr.,JaromÂ ,Wagoner,,11846 Linden Road,, Caldwell, ID, 83605,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wagoner4705.jpg
+ID,11,,R,Ms.,TammyÂ ,Nichols,,10 S. Hawthorne Drive #651,, Middleton, ID, 83644,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Nichols5380.jpg
+ID,11,,R,Mr.,ScottÂ A.,Syme,,206 S. 9th Avenue,Suite 105, Caldwell, ID, 83605Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Syme4278.jpg
+ID,12,,R,Mr.,RobertÂ ,Anderst,,7401 E. Grey Lag Drive,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anderst2104.jpg
+ID,12,,R,Mr.,RickÂ D.,Youngblood,,12612 Smith Avenue,, Nampa, ID, 83651,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Youngblood2106.jpg
+ID,13,,R,Mr.,GaryÂ E.,Collins,,2019 E. Massachusetts Avenue,, Nampa, ID, 83686,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Collins20.jpg
+ID,13,,R,Mr.,BrentÂ J.,Crane,,P.O. Box 86,, Nampa, ID, 83653Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Crane21.jpg
+ID,14,,R,Ms.,GayannÂ ,DeMordaunt,,1017 S. Arbor Island Way,, Eagle, ID, 83616,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/DeMordaunt4280.jpg
+ID,14,,R,Mr.,MikeÂ ,Moyle,,480 N. Plummer Road,, Star, ID, 83669,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Moyle43.jpg
+ID,15,,D,Mr.,SteveÂ ,Berch,,P.O. Box 4903,, Boise, ID, 83711,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Berch5368.jpg
+ID,15,,D,Mr.,JakeÂ ,Ellis,,3383 N. Five Mile Road #298,, Boise, ID, 83713,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ellis5371.jpg
+ID,16,,D,Mr.,RobÂ ,Mason,,2902 W. Good Street,, Boise, ID, 83703Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Mason5379.jpg
+ID,16,,D,Mr.,JohnÂ ,McCrostie,,7820 W. Riverside Drive,, Garden City, ID, 83714,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/McCrostie3132.jpg
+ID,17,,D,Ms.,SueÂ ,Chew,,1304 Lincoln Avenue,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Chew18.jpg
+ID,17,,D,Mr.,JohnÂ ,Gannon,,1104 S. Johnson Street,, Boise, ID, 83705,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gannon2144.jpg
+ID,18,,D,Ms.,BrookeÂ ,Green,,285 W. Carter Street,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Green5374.jpg
+ID,18,,D,Ms.,IlanaÂ ,Rubel,,2750 Migratory Drive,, Boise, ID, 83706,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Rubel2888.jpg
+ID,19,,D,Ms.,LaurenÂ ,Necochea,,P.O. Box 1634,, Boise, ID, 83701Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Necochea6315.jpg
+ID,19,,D,Ms.,MelissaÂ ,Wintrow,,1711 Ridenbaugh Street,, Boise, ID, 83702,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wintrow3139.jpg
+ID,20,,R,Mr.,JamesÂ ,Holtzclaw,,3720 N. Heritage View Avenue,, Meridian, ID, 83646,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Holtzclaw2086.jpg
+ID,20,,R,Mr.,JoeÂ ,Palmer,,1524 N. Meridian Road,, Meridian, ID, 83642,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Palmer749.jpg
+ID,21,,R,Mr.,StevenÂ ,Harris,,3432 E. Plympton Drive,, Meridian, ID, 83642,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Harris2087.jpg
+ID,21,,R,Ms.,MeganÂ ,Kiska,,P.O. Box 191207,, Boise, ID, 83719 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kiska5945.jpg
+ID,22,,R,Mr.,JasonÂ A.,Monks,,3865 S. Black Cat Road,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Monks2084.jpg
+ID,22,,R,Mr.,JohnÂ ,Vander Woude,,5311 Ridgewood Road,, Nampa, ID, 83687,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Vander%20Woude67.jpg
+ID,23,,R,Ms.,MeganÂ ,Blanksma,,595 S. Thacker Road,, Hammett, ID, 83627,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Blanksma4283.jpg
+ID,23,,R,Ms.,ChristyÂ ,Zito,,8821 Old Highway 30,, Hammett, ID, 83627Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Zito4281.jpg
+ID,24,,R,Mr.,LanceÂ W.,Clow,,2170 Bitterroot Drive,, Twin Falls, ID, 83301,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Clow2107.jpg
+ID,24,,R,Ms.,LindaÂ ,WrightÂ Hartgen,,1681 Wildflower Lane,, Twin Falls, ID, 83301,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Hartgen5376.jpg
+ID,25,,R,Mr.,ClarkÂ ,Kauffman,,3791 N. 2100 E.,, Filer, ID, 83328,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Kauffman2126.jpg
+ID,25,,R,Ms.,LaurieÂ ,Lickley,,445 E. 400 South,, Jerome, ID, 83338Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Lickley5377.jpg
+ID,26,,D,Ms.,MuffyÂ ,Davis,,P.O. Box 1477,, Ketchum, ID, 83340,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Davis5370.jpg
+ID,26,,D,Ms.,SallyÂ ,Toone,,2096 E. 1500 S.,, Gooding, ID, 83330,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Toone4282.jpg
+ID,27,,R,Mr.,ScottÂ ,Bedke,,P.O. Box 89,, Oakley, ID, 83346,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Bedke5.jpg
+ID,27,,R,Mr.,FredÂ ,Wood,,P.O. Box 1207,, Burley, ID, 83318-0828Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Wood69.jpg
+ID,28,,R,Mr.,KevinÂ ,Andrus,,6948 E. Old Oregon Trail Road,, Lava Hot Springs, ID, 83246,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Andrus5367.jpg
+ID,28,,R,Mr.,RandyÂ ,Armstrong,,P.O. Box 8,, Inkom, ID, 83245,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Armstrong4279.jpg
+ID,29,,D,Mr.,ChrisÂ ,Abernathy,,1768 S. Grant,, Pocatello, ID, 83204,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Abernathy5365.jpg
+ID,29,,D,Ms.,ElaineÂ ,Smith,,3759 Heron Avenue,, Pocatello, ID, 83201,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Smith61.jpg
+ID,30,,R,Ms.,WendyÂ ,Horman,,1860 Heather Circle,, Idaho Falls, ID, 83406,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Horman2146.jpg
+ID,30,,R,Mr.,GaryÂ ,Marshall,,5714 N. 26th West,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Marshall5378.jpg
+ID,31,,R,Mr.,NeilÂ A.,Anderson,,71 S. 700 W.,, Blackfoot, ID, 83221,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Anderson2128.jpg
+ID,31,,R,Ms.,JulianneÂ ,Young,,275 N. 400 West,, Blackfoot, ID, 83221,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Young5385.jpg
+ID,32,,R,Mr.,ChadÂ ,Christensen,,3890 E. 65th South,, Ammon, ID, 83406,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Christensen5369.jpg
+ID,32,,R,Mr.,MarcÂ ,Gibbs,,632 Highway 34,, Grace, ID, 83241,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Gibbs748.jpg
+ID,33,,R,Ms.,BarbaraÂ ,Ehardt,,961 J Street,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ehardt4945.jpg
+ID,33,,R,Mr.,BryanÂ ,Zollinger,,2355 S. Bellin Road,, Idaho Falls, ID, 83402,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Zollinger4276.jpg
+ID,34,,R,Ms.,BrittÂ ,Raybould,,P.O. Box 653,, Rexburg, ID, 83440 ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Raybould5381.jpg
+ID,34,,R,Mr.,DougÂ ,Ricks,,140 S. 3rd East,, Rexburg, ID, 83440,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Ricks5383.jpg
+ID,35,,R,Mr.,RodÂ ,Furniss,,346 N. 4456 East,, Rigby, ID, 83442,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Furniss5372.jpg
+ID,35,,R,Mr.,JeraldÂ ,Raymond,,3352 E. 750 North,, Menan, ID, 83434Â ,Representative,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020spcl/directory/Raymond5382.jpg
+IL,,1,D,Mr.,Antonio,MuĂ±o,,323A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BC4AA7682-5256-4C1D-A7C6-90953534A514%7D.jpg
+IL,,2,D,Mr.,Omar,Aquin,,623 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B79A5CDE2-DD9F-423E-83F0-4643FDB13ABB%7D.jpg
+IL,,3,D,Ms.,Mattie,Hunte,,619 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BF4630DDB-11F0-417E-8C0A-B4ED6426116F%7D.jpg
+IL,,4,D,Ms.,Kimberly A.,Lightfor,,329A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B7FBA8DB0-281E-406F-BF9F-ABEB75B7B38E%7D.jpg
+IL,,5,D,Ms.,Patricia,Van Pel,,121A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B71DA8897-D74A-4034-9A99-79C7FB2BD90E%7D.jpg
+IL,,6,D,Ms.,Sara,Feigenholt,,M106 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BE77394AE-D896-4FEB-A325-B33A553554EB%7D.jpg
+IL,,7,D,Ms.,Heather A.,Stean,,627 I Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B222FB39E-971E-4E7B-B43C-0B12080C2DD9%7D.jpg
+IL,,8,D,Mr.,Ram,Villivala,,M120 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BDBF0BBF0-0E16-4C5F-894A-16C4A14CAF51%7D.jpg
+IL,,10,D,Mr.,Robert F.,Martwick,,127 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B8FA2A22C-6775-4098-905C-0C7D8BBD7AEE%7D.jpg
+IL,,11,D,Ms.,Celina,Villanueva,,111 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BF8A21A81-5453-4E94-AC51-E644E1B0C00B%7D.jpg
+IL,,12,D,Mr.,Steven M.,Landek,,113 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BCB30B8CB-1FBB-4869-A78E-D08AF0616D74%7D.jpg
+IL,,13,D,Mr.,Robert,Peters,,M121 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B05AD9CBA-EA20-489D-9C33-3F39DC1F9B0C%7D.jpg
+IL,,14,D,Mr.,Emil,Jones,III,108B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B2C0EE719-E9D8-4625-990D-69FCE146BC0F%7D.jpg
+IL,,15,D,Mr.,Napoleon,Harris,III,M113 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B87402198-6E85-4CFE-BDD2-B9DC58948869%7D.jpg
+IL,,16,D,Ms.,Jacqueline Y.,Collins,,M114 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BD2A0AAA1-D1A0-49D3-8A11-78A1A73D73A9%7D.jpg
+IL,,17,D,Mr.,Elgie R.,Sims,Jr.,417B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B1EAF7721-A189-4CD1-B31D-CD39F79DBD04%7D.jpg
+IL,,18,D,Mr.,Bill,Cunningham,,329B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B402F0454-4EAF-4721-993D-53C7459BA35B%7D.jpg
+IL,,19,D,Mr.,Michael E.,Hastings,,118 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BC6E534EB-7243-4687-8A65-04BD4DA5DF72%7D.jpg
+IL,,20,D,Ms.,Iris Y.,Martinez,,413 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B274BFBAB-00D7-4DB2-A9CD-FFABCDA5AD08%7D.jpg
+IL,,21,D,Ms.,Laura,Ellman,,M122 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B423E6DDE-1AFB-4F10-A767-C869B0E51483%7D.jpg
+IL,,22,D,Ms.,Cristina,Castro,,121D Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BF09EB558-EB8D-48B1-91F0-EF47A07632F5%7D.jpg
+IL,,23,D,Mr.,Thomas,Cullerton,,123 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BA0AAC8CC-CA27-4DD9-9F4F-E1EA4C12B0E3%7D.jpg
+IL,,24,D,Ms.,Suzy,Glowiak Hilton,,124 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B8DE2D7E5-9F3D-43FD-B0EC-0010BDA8849A%7D.jpg
+IL,,25,R,Mr.,Jim,Oberweis,,309 I Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B732CAC2D-CEC4-467B-A9AA-05282259B15F%7D.jpg
+IL,,26,R,Mr.,Dan,McConchie,,309H Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BB3DB61E4-CBA1-4E2C-9DC7-4EEE9F52BCD7%7D.jpg
+IL,,27,D,Ms.,Ann,Gillespie,,108D Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BD11CC547-0960-44F1-80C9-99F8CE5D5479%7D.jpg
+IL,,28,D,Ms.,Laura M.,Murphy,,108E Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BE8C6FBF1-611C-4DD5-A81D-F0FF8917556D%7D.jpg
+IL,,29,D,Ms.,Julie A.,Morrison,,122 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B0E6BF8A6-C5C8-4F54-977B-D5FD11707FA5%7D.jpg
+IL,,30,D,Mr.,Terry,Link,,321 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B2F06AA07-1281-4363-A31D-3C7AFD0D3963%7D.jpg
+IL,,31,D,Ms.,Melinda,Bush,,121C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B772B9650-EA19-4BC6-9C53-F76EB5DA14B3%7D.jpg
+IL,,32,R,Mr.,Craig,Wilcox,,105D Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BE397F861-68AA-4CC2-9A23-50B9A8E13031%7D.jpg
+IL,,33,R,Mr.,Donald P.,DeWitte,,105B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B21A3B029-3423-410E-818A-84512CD0D231%7D.jpg
+IL,,34,D,Mr.,Steve,Stadelman,,121B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B47906765-AB0A-48BF-8C14-B5443B8F27C4%7D.jpg
+IL,,35,R,Mr.,Dave,Syverson,,105E Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B6FD168B8-C34B-4399-8E39-7373F7600882%7D.jpg
+IL,,36,R,Mr.,Neil,Anderson,,M103D Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B90CDA259-1DEA-4D18-AE97-30051E03D154%7D.jpg
+IL,,37,R,Mr.,Chuck,Weaver,,103A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B984DFCEF-3D95-4524-9102-FAF8B6511BE4%7D.jpg
+IL,,38,R,Ms.,Sue,Rezin,,309J Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B45666230-B77D-4162-A45E-6AC5587C4E56%7D.jpg
+IL,,39,D,Mr.,Don,Harmon,,327 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BCF3F6473-4E6D-4E84-A0A4-4FF7335132E2%7D.jpg
+IL,,40,D,Mr.,Patrick J.,Joyce,,108A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B39D6F100-DAEC-4C4B-A4F5-F20299B79152%7D.jpg
+IL,,41,R,Mr.,John F.,Curran,,105A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B7FC724D0-C297-4D20-AC25-3D879DE286B8%7D.jpg
+IL,,42,D,Ms.,Linda,Holmes,,129 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B9A39C8B9-4B06-4BF7-85CE-4C6F4FD07769%7D.jpg
+IL,,43,D,Mr.,Pat,McGuire,,417C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B7994F2D1-3BE5-4722-915A-13C69FB3766C%7D.jpg
+IL,,44,R,Mr.,William E.,Brady,,309G. Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BD9BF6EBA-FC02-48DC-8505-B83436A46DD5%7D.jpg
+IL,,45,R,Mr.,Brian W.,Stewart,,105C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B9542D32E-E8F8-4E42-963E-23FC7621D747%7D.jpg
+IL,,46,D,Mr.,David,Koehler,,323B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B2C57E551-D82A-4C7D-8746-3F83913F0D7D%7D.jpg
+IL,,47,R,Ms.,Jil,Tracy,,103C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B21C0F860-E9DD-4215-A3AA-703E275C8526%7D.jpg
+IL,,48,D,Mr.,Andy,Manar,,119A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B385C74DA-9ACC-41E3-99D3-08A6A1EC1FC9%7D.jpg
+IL,,49,D,Ms.,Jennifer,Bertino-Tarrant,,119B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B01A3B178-08B3-42A9-9022-FEE4C3220565%7D.jpg
+IL,,50,R,Mr.,Steve,McClure,,218 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BEB86B3C4-3F25-4D5C-8944-7B4CBCA7CACE%7D.jpg
+IL,,51,R,Ms.,Chapin,Rose,,103B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BBA95E1D1-0570-4492-B739-D1F593F183FD%7D.jpg
+IL,,52,D,Mr.,Scott M.,Bennett,,311C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B8F1A0093-CB44-43C1-9D4D-67266A50A8C6%7D.jpg
+IL,,53,R,Mr.,Jason A.,Barickman,,309L Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B73221756-E2C7-4B72-8907-701CC96B7ED2%7D.jpg
+IL,,54,R,Mr.,Jason,Plummer,,M103F Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BCE75DC7E-2CD4-4D01-B697-C2866F828E25%7D.jpg
+IL,,55,R,Mr.,Dale A.,Righter,,309M Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B25A344E9-478E-40E1-8D41-CA34A8FCCD61%7D.jpg
+IL,,56,D,Ms.,Rachelle,Crowe,,311B Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B05406617-A6A5-4533-852E-04678B860D88%7D.jpg
+IL,,57,D,Mr.,Christopher,Belt,,M118 Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7BEFE7513C-260C-46DE-BAB3-A12F250B2937%7D.jpg
+IL,,58,R,Mr.,Paul,Schimpf,,M103A Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B9118303D-1BC2-4023-B54F-52B34927106C%7D.jpg
+IL,,59,R,Mr.,Dale,Fowler,,M103C Capitol Building,,Springfield,IL,62706Â ,Senator,https://www.ilga.gov/images/members/%7B1E60CA94-7006-4CAB-841D-C9D99569D9D3%7D.jpg
+IL,1,,D,Mr.,Aaron M.,OrtizÂ ,,258-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BD96B0DF9-0E06-487B-825C-AB0BE8C3CA1E%7D.jpg
+IL,2,,D,Ms.,Theresa,MahÂ ,,270-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B808BAA30-BB82-437A-9A76-386F9A65A073%7D.jpg
+IL,3,,D,Ms.,Eva,Dina DelgadoÂ ,,200-1S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BD02A93E7-7D84-4429-92AB-60B61084EBA1%7D.jpg
+IL,4,,D,Ms.,Delia C.,RamirezÂ ,,200-5S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B9191D594-17C7-4AE7-8391-69AC35855F8C%7D.jpg
+IL,5,,D,Mr.,Lamont J.,Robinson,Jr.Â ,290-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BADEF6C52-D60E-41E7-91CA-ED943108D35B%7D.jpg
+IL,6,,D,Ms.,Sonya M.,HarperÂ ,,274-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B04C99384-69F8-4ACE-9E43-11E21CC5F820%7D.jpg
+IL,7,,D,Mr.,Emanuel Chris,WelchÂ ,,249-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B5D419B94-66B4-4F3B-86F1-BFF37B3FA55C%7D.jpg
+IL,8,,D,Mr.,La Shawn K.,FordÂ ,,239-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBCC3C8D6-5728-4A69-8A3B-F203314DD563%7D.jpg
+IL,9,,D,Ms.,Lakesia,CollinsÂ ,,300 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.lakesia4rep.com/wp-content/uploads/2019/10/lakesia_hs_main2.jpg
+IL,10,,D,Mr.,Jawaharial,WilliamsÂ ,,256-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B32750D93-496F-42CA-9CCE-93C3451713A1%7D.jpg
+IL,11,,D,Ms.,Ann M.,WilliamsÂ ,,273-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BC45B418C-4848-4467-ADC2-739B2D1E4418%7D.jpg
+IL,12,,D,Mr.,Yoni,PizerÂ ,,261-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BAEA13B8E-BC14-4BAE-99C1-804503A2D405%7D.jpg
+IL,13,,D,Mr.,Gregory,HarrisÂ ,,300 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8EDBEBE1-17C3-4EBA-A5AA-9DC1321DB0B3%7D.jpg
+IL,14,,D,Ms.,Kelly M.,CassidyÂ ,,263-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B3EFBDD50-41FF-4677-AA47-FB35B70C4667%7D.jpg
+IL,15,,D,Mr.,John C.,D'AmicoÂ ,,279-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BAF790B68-DC07-47D1-95DA-E7ED5AF4B332%7D.jpg
+IL,16,,D,Mr.,Yehiel M.,KalishÂ ,,242-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8557F695-678F-456C-B71C-CAA66E124B77%7D.jpg
+IL,17,,D,Ms.,Jennifer,Gong-GershowitzÂ ,,265-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B395E8140-10ED-4C70-81B9-2673676BF467%7D.jpg
+IL,18,,D,Ms.,Robyn,GabelÂ ,,248-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B739CC8F9-E9E4-40A1-AB86-883EF9A5E313%7D.jpg
+IL,19,,D,Ms.,Lindsey,LaPointeÂ ,,271-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B7447C9D9-48D0-457E-BDC9-847FB8D35DB5%7D.jpg
+IL,20,,R,Mr.,Bradley,StephensÂ ,,227-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBD3836AC-CD0C-4E20-AD4C-1F2AEA56A8A2%7D.jpg
+IL,21,,D,Mr.,Edgar,Gonzalez,Jr.Â ,260-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B370B1494-7F8F-48BC-BD66-4756E15442E1%7D.jpg
+IL,22,,D,Mr.,Michael J.,MadiganÂ ,,300 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8270D4F3-2A64-41A4-A409-AEF225004390%7D.jpg
+IL,23,,D,Mr.,Michael J.,ZalewskiÂ ,,229-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B120BA436-317C-406F-9408-F648E3594BA1%7D.jpg
+IL,24,,D,Ms.,Elizabeth,HernandezÂ ,,109 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B%7D.jpg
+IL,25,,D,Mr.,Curtis J.,Tarver,IIÂ ,264-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE9404756-F108-41DB-A7A8-87C36BBF763D%7D.jpg
+IL,26,,D,Mr.,Kambium,BucknerÂ ,,252-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B37E72FD2-6318-45FD-9FF1-C750EB26137D%7D.jpg
+IL,27,,D,Mr.,Justin,SlaughterÂ ,,286-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B170C17F3-38A1-42E5-B222-020B43077D53%7D.jpg
+IL,28,,D,Mr.,Robert,RitaÂ ,,267-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BAC16F1E8-0988-4A08-A2E5-EF4D06371A24%7D.jpg
+IL,29,,D,Mr.,Thaddeus,JonesÂ ,,241-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B6EE82A11-2CC6-48E9-9DE6-61D83EBCAB6B%7D.jpg
+IL,30,,D,Mr.,William,DavisÂ ,,262-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B6012DCA8-7486-49F9-A387-8703A2CF469C%7D.jpg
+IL,31,,D,Ms.,Mary E.,FlowersÂ ,,251-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B3049B08D-BD65-4FCF-B82C-D46B0B4CCF4F%7D.jpg
+IL,32,,D,Mr.,Andre,ThapediÂ ,,245-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B5E31C56F-A3AA-4089-B697-E05B02B3F147%7D.jpg
+IL,33,,D,Mr.,Marcus C.,Evans,Jr.Â ,268-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBFD8B13A-CD65-452C-8F20-9D32C3A013BF%7D.jpg
+IL,34,,D,Mr.,Nicholas K.,SmithÂ ,,282-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B4D7D283C-73C8-40F8-A3F0-7FA9301456F5%7D.jpg
+IL,35,,D,Ms.,Frances Ann,HurleyÂ ,,281-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE5ABA68E-10AC-4592-B38E-2C65AFB777B2%7D.jpg
+IL,36,,D,Ms.,Kelly M.,BurkeÂ ,,632 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B5D9078FA-21F1-411F-A447-B5E7299AC314%7D.jpg
+IL,37,,R,Ms.,Margo,McDermedÂ ,,211-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BDAC1967F-26C4-43B2-9BE4-C7F3D78922D4%7D.jpg
+IL,38,,D,Ms.,Debbie,Meyers-MartinÂ ,,250-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE3E2099C-AB6A-442B-B191-3A83D6D3A1E2%7D.jpg
+IL,39,,D,Mr.,Will,GuzzardiÂ ,,200-3S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BC127AF36-0EAE-48B6-8C31-86AAE3935790%7D.jpg
+IL,40,,D,Mr.,Jaime M.,Andrade,Jr.Â ,238-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B34A19039-7BF5-44A7-9A06-4EC121E52514%7D.jpg
+IL,41,,R,Mr.,Grant,WehrliÂ ,,314 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B1842D15F-3B1B-4F28-B5C0-6D5C99D263E5%7D.jpg
+IL,42,,D,Ms.,Amy,GrantÂ ,,206-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B41DCC207-977E-45DC-BD10-A8AFDCEB673E%7D.jpg
+IL,43,,D,Ms.,Anna,MoellerÂ ,,246-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BDCE9D682-0582-49BD-AD67-98C2502D89C2%7D.jpg
+IL,44,,D,Mr.,Fred,CrespoÂ ,,109 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BB92F7A2F-6517-4A3F-87B3-56FAA240285F%7D.jpg
+IL,45,,D,Ms.,Diane,PappasÂ ,,240-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B32DE4C0A-7C22-4F01-B0A4-975A4EB93448%7D.jpg
+IL,46,,D,Ms.,Deb,ConroyÂ ,,275-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B643B5E07-BEDA-400C-BBDD-8FADE7A97A38%7D.jpg
+IL,47,,D,Ms.,Deanne M.,MazzochiÂ ,,210-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BEFDF86C3-4EAD-4265-B666-C24FFF65F9E1%7D.jpg
+IL,48,,D,Ms.,Terra,Costa Howard,,244-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B7A155EE5-0C58-43BC-9B51-65B6E2908BA1%7D.jpg
+IL,49,,D,Ms.,Karina,VillaÂ ,,242A-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BA23556E9-B394-4F64-88EC-69D0BFB5945B%7D.jpg
+IL,50,,R,Mr.,Keith R.,WheelerÂ ,,200-5N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE55EB524-32B8-4A2A-951D-4BD5A1182F5B%7D.jpg
+IL,51,,D,Ms.,Mary,Edly-AllenÂ ,,235-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBA03ED78-6725-429F-9439-125943321F33%7D.jpg
+IL,52,,R,Mr.,David,McSweeneyÂ ,,226-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BA49355BD-BBD6-43D9-8310-B25869FD5D60%7D.jpg
+IL,53,,D,Mr.,Mark L.,WalkerÂ ,,278-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBC2AF76D-FAE4-44C4-8632-AA4E629A9678%7D.jpg
+IL,54,,R,Mr.,Thomas,MorrisonÂ ,,215-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B590FA09F-B685-4E88-B384-B5EE3F2D58E8%7D.jpg
+IL,55,,D,Mr.,Martin J.,MoylanÂ ,,292-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B3E365092-6B37-486C-996B-C140284F8723%7D.jpg
+IL,56,,D,Ms.,Michelle,MussmanÂ ,,257-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B63BBD5DE-333E-4015-8658-4F7B2D45E1B7%7D.jpg
+IL,57,,D,Mr.,Jonathan,CarrollÂ ,,231-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B1014E3F8-887D-4889-804E-95E5457B46BB%7D.jpg
+IL,58,,D,Mr.,Bob,MorganÂ ,,280-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BA3460802-617C-4097-B043-6D63A11278AC%7D.jpg
+IL,59,,D,Mr.,Daniel,DidechÂ ,,266-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B1EA869A9-B93D-4E72-824B-E14992452581%7D.jpg
+IL,60,,D,Ms.,Rita,MayfieldÂ ,,243-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B3A2DAB8B-B5F8-48EE-85D3-05894ED42A5D%7D.jpg
+IL,61,,D,Ms.,Joyce,MasonÂ ,,247-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B26C52E17-9395-4BF8-B6E6-3E1CE6234032%7D.jpg
+IL,62,,D,Mr.,Sam,YinglingÂ ,,259-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B4A9D137F-EA10-4C6A-BAB4-27CE34D4BED1%7D.jpg
+IL,63,,R,Mr.,Steven,ReickÂ ,,225-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BD4845B6E-9A2E-4F0E-9F70-503B2E5891CA%7D.jpg
+IL,64,,R,Mr.,Tom,WeberÂ ,,232-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B4C80DF49-91D2-4C24-981E-BBE946A671D2%7D.jpg
+IL,65,,R,Mr.,Dan,UgasteÂ ,,230-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B2552FBE4-D977-4283-B00C-78FC085BD955%7D.jpg
+IL,66,,R,Mr.,Allen,SkillicornÂ ,,234-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B47D93AEC-3D46-409B-B881-CD0CBC9226B7%7D.jpg
+IL,67,,D,Mr.,Maurice A.,West,IIÂ ,237-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BAFB160BE-629B-4C70-8541-877D6FCDE529%7D.jpg
+IL,68,,R,Mr.,John M.,CabelloÂ ,,200-4N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8AFD3AA5-D48C-4A27-B8A4-B595F925C6D1%7D.jpg
+IL,69,,R,Mr.,Joe,SosnowskiÂ ,,200-2N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B7DEBF89C-D2BA-4952-94A2-40F564A00144%7D.jpg
+IL,70,,R,Mr.,Jeff,KeicherÂ ,,218-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BFD009EA6-624D-45C7-A093-BC66B8B3C090%7D.jpg
+IL,71,,R,Ms.,Tony,McCombieÂ ,,201-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B0766A6E9-981F-491B-B3A1-12DF91F1DBDA%7D.jpg
+IL,72,,D,Mr.,Michael,HalpinÂ ,,272-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B51EA8D97-3DDD-42AC-B607-CF1C1235CB56%7D.jpg
+IL,73,,R,Mr.,Ryan,SpainÂ ,,219-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B4C25C70B-0E39-406B-9318-A899C2A6D1B0%7D.jpg
+IL,74,,R,Mr.,Daniel,SwansonÂ ,,200-3N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BF7512D74-4694-4272-9A1E-6935F4AD4F1D%7D.jpg
+IL,75,,R,Mr.,David A.,WelterÂ ,,205-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BFDBB59A3-86E8-4DAA-9A29-27419536211A%7D.jpg
+IL,76,,D,Mr.,Lance,YednockÂ ,,240A-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B2F9A6E55-09F7-4C26-AEEC-9A9D32773201%7D.jpg
+IL,77,,D,Ms.,Kathleen,WillisÂ ,,632 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B771B20C1-5974-452E-9CE7-D8070D5A82FF%7D.jpg
+IL,78,,D,Ms.,Camille Y.,LillyÂ ,,200-8S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B84D8FB64-9F82-405A-9376-A69ADFB46E53%7D.jpg
+IL,79,,R,Ms.,Lindsay,ParkhurstÂ ,,209-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B72D8A315-AF67-4260-AF98-4C0DA63C7087%7D.jpg
+IL,80,,D,Mr.,Anthony,DeLucaÂ ,,277-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B64399002-8B14-4D8E-80A4-54A77F25421C%7D.jpg
+IL,81,,D,Ms.,Anne,Stava-MurrayÂ ,,276-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B0322F94E-013C-4237-9808-4462138AC595%7D.jpg
+IL,82,,R,Mr.,Jim,DurkinÂ ,,316 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B760BBA90-38A6-4917-8C3A-D28908F67ED7%7D.jpg
+IL,83,,D,Ms.,Barbara,HernandezÂ ,,233-E Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE3518E4F-7AAF-4D93-8985-336197D96094%7D.jpg
+IL,84,,D,Ms.,Stephanie A.,KifowitÂ ,,255-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B96E18070-8D3D-4EEC-8432-8A30FEC19E5C%7D.jpg
+IL,85,,D,Mr.,John,ConnorÂ ,,284-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B2215CB8F-EAEB-4B96-A787-2571ED7BDC10%7D.jpg
+IL,86,,D,Mr.,Lawrence,Walsh,Jr.Â ,200-9S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BF11DA3BE-D8FF-48F0-8450-43231B4DD28F%7D.jpg
+IL,87,,R,Mr.,Tim,ButlerÂ ,,E-1 Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8D147B40-5711-4E50-AAC8-ED40137F3B46%7D.jpg
+IL,88,,R,Mr.,Keith P,SommerÂ ,,216-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BC88F32E6-78FD-4BFF-9894-105CEC155A8F%7D.jpg
+IL,89,,R,Mr.,Andrew S.,ChesneyÂ ,,204-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B1153A212-EA92-4CF5-A755-8E676033330C%7D.jpg
+IL,90,,R,Mr.,Tom,DemmerÂ ,,314 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B32747BD4-4453-4942-8DE7-CCED7209FFE2%7D.jpg
+IL,91,,R,Mr.,Michael D.,UnesÂ ,,224-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B376F1209-F11E-4357-9F50-85702CFDE27F%7D.jpg
+IL,92,,D,Ms.,Jehan,Gordon-BoothÂ ,,632 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BA81D0C01-0A50-446D-B796-3A5A6D046EB1%7D.jpg
+IL,93,,R,Ms.,Norine K.,HammondÂ ,,203-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B07D3914D-440A-4891-99AE-256F657BBFFF%7D.jpg
+IL,94,,R,Mr.,Randy E.,FreseÂ ,,221-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBFF3CD04-BFB6-4681-952F-D519B27FE904%7D.jpg
+IL,95,,R,Ms.,Avery,BourneÂ ,,217-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B1E0F129F-D165-4015-A615-FAB6B0DED9F0%7D.jpg
+IL,96,,D,Ms.,Sue,SchererÂ ,,E-2 Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BA0B92E66-B4F7-4B85-A7F2-14C0153B426F%7D.jpg
+IL,97,,R,Mr.,Mark,BatinickÂ ,,200-8N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B6432B106-8A75-40C0-BAE1-238FFE4DA487%7D.jpg
+IL,98,,D,Ms.,Natalie A.,ManleyÂ ,,109 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BF3781CCA-4285-44C3-8E60-811B9229EA1B%7D.jpg
+IL,99,,R,Mr.,Mike,MurphyÂ ,,E-1 Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B0F7CD78F-3317-42D0-A1A9-9573CE74B150%7D.jpg
+IL,100,,R,Mr.,C.D.,DavidsmeyerÂ ,,202-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE54250D5-EB1C-4CB6-9CF9-CA95CAA2F269%7D.jpg
+IL,101,,R,Mr.,Dan,CaulkinsÂ ,,205 A-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B73C533DE-29C5-4EF9-A32C-DC5D8EA1DFE8%7D.jpg
+IL,102,,R,Mr.,Brad,HalbrookÂ ,,200-1N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B3F3C3739-E087-440D-B006-33043A8F5083%7D.jpg
+IL,103,,D,Ms.,Carol,AmmonsÂ ,,288-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BBD4B7A5C-6D24-4E82-9C18-D5A0F3C42F6C%7D.jpg
+IL,104,,R,Mr.,Michael T.,MarronÂ ,,208-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BC3BE26CD-E738-4985-8F5B-069F76189A73%7D.jpg
+IL,105,,R,Mr.,Dan,BradyÂ ,,314 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BB8BEEC1C-5E74-479B-8640-7B3407FDF4EB%7D.jpg
+IL,106,,R,Mr.,Thomas M.,BennettÂ ,,220-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B8AC89431-9F59-46C7-9D68-E141A152A362%7D.jpg
+IL,107,,R,Mr.,Blaine,WilhourÂ ,,213-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B66C5580C-A414-41BB-B3AC-638925AC34CD%7D.jpg
+IL,108,,R,Mr.,Charles,MeierÂ ,,200-7N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B9D43D019-A58A-47EC-B769-A7050C4B49DB%7D.jpg
+IL,109,,R,Mr.,Darren,BaileyÂ ,,228-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BE711544D-E0C4-4E1F-AFAB-86718D6DCC55%7D.jpg
+IL,110,,R,Mr.,Chris,MillerÂ ,,222-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B2A519012-9070-494B-9FFC-C2646374202E%7D.jpg
+IL,111,,D,Ms.,Monica,BristowÂ ,,269-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BCAE8AF79-6982-4105-BC57-3498744574EB%7D.jpg
+IL,112,,D,Ms.,Katie,StuartÂ ,,253-S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BD6DC8152-9760-4BEA-ACF5-C41785E6F6C4%7D.jpg
+IL,113,,D,Mr.,Jay,HoffmanÂ ,,300 Capitol Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BFCD7EF06-36D9-46A7-8085-4B5A5ED81A80%7D.jpg
+IL,114,,D,Ms.,LaToya,GreenwoodÂ ,,254-W Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B87BFA17C-40F4-48B9-AFF5-5A0F37E8EEAF%7D.jpg
+IL,115,,R,Ms.,Terri,BryantÂ ,,207-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B880F9FD4-185B-4339-9AA2-4EF360F55F79%7D.jpg
+IL,116,,D,Mr.,Nathan D.,ReitzÂ ,,200-7S Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B82C32B5B-1A1F-45D1-9F7C-B1BDDBCCCEE9%7D.jpg
+IL,117,,R,Mr.,Dave,SeverinÂ ,,223-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7BFC792043-4CE1-4796-BA38-E68B39A9847A%7D.jpg
+IL,118,,R,Mr.,Patrick,WindhorstÂ ,,214-N Stratton Office Building,,Springfield,IL,62706Â ,Representative,https://www.ilga.gov/images/members/%7B547F9C92-7368-4390-B625-5BB795568D50%7D.jpg
 MI,,1,D,Ms., Stephanie,Chang,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S1.jpg
-MI,,2,D,Mr., Adam ,Hollier,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S2.jpg
+MI,,2,D,Mr., AdamÂ ,Hollier,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S2.jpg
 MI,,3,D,Ms., Sylvia,Santana,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S3.jpg
 MI,,4,D,Mr., Marshall,Bullock,II,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S4.jpg
 MI,,5,D,Ms., Betty Jean,Alexander,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S5.jpg
 MI,,6,D,Ms., Erika,Geiss,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S6.jpg
 MI,,7,D,Ms., Dayna,Polehanki,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S7.jpg
-MI,,8,R,Mr., Pete ,Lucido,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S8.jpg
+MI,,8,R,Mr., PeteÂ ,Lucido,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S8.jpg
 MI,,9,D,Mr., Paul,Wojno,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S9.jpg
 MI,,10,R,Mr., Michael,MacDonald,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S10.jpg
 MI,,11,D,Mr., Jeremy,Moss,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S11.jpg
-MI,,12,D,Ms., Rosemary ,Bayer,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S12.jpg
+MI,,12,D,Ms., RosemaryÂ ,Bayer,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S12.jpg
 MI,,13,D,Ms., Mallory,McMorrow,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S13.jpg
 MI,,14,R,Ms., Ruth,Johnson,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S14.jpg
 MI,,15,R,Mr., Jim,Runestad,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S15.jpg
 MI,,16,R,Mr.,Mike,Shirkey,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S16.jpg
 MI,,17,R,Mr., Dale,Zorn,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S17.jpg
-MI,,18,D,Mr., Jeff ,Irwin,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S18.jpg
+MI,,18,D,Mr., JeffÂ ,Irwin,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S18.jpg
 MI,,19,R,Dr., John,Bizon,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S19.jpg
 MI,,20,D,Mr., Sean,McCann,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S20.jpg
 MI,,21,R,Ms., Kim,LaSata,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S21.jpg
 MI,,22,R,Ms., Lana,Theis,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S22.jpg
 MI,,23,D,Mr., Curtis,Hertel Jr.,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S23.jpg
 MI,,24,R,Mr., Tom,Barrett,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S24.jpg
-MI,,25,R,Mr., Dan ,Lauwers,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S25.jpg
+MI,,25,R,Mr., DanÂ ,Lauwers,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S25.jpg
 MI,,26,R,Mr., Aric,Nesbitt,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S26.jpg
 MI,,27,D,Mr., Jim,Ananich,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S27.jpg
 MI,,28,R,Mr., Peter,MacGregor,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,http://www.legislature.mi.gov/images/Leg2019/S28.jpg
@@ -944,7 +944,7 @@ OR,32,,D,Ms.,Tiffiny,Mitchell,,900 Court St NE   H-285,,Salem, OR, 97301,Represe
 OR,33,,D,Ms.,Dexter,Maxine,,900 Court St NE   H-493,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/dexter.jpg
 OR,34,,D,Mr.,Ken,Helm,,900 Court St NE   H-490,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/helm.jpg
 OR,35,,D,Ms.,Margaret,Doherty,,900 Court St NE   H-282,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/doherty.jpg
-OR,36,,D,Ms.,Akasha ,Lawrence Spence,,900 Court St NE   H-286,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/lawrencespence.jpg
+OR,36,,D,Ms.,AkashaÂ ,Lawrence Spence,,900 Court St NE   H-286,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/lawrencespence.jpg
 OR,37,,D,Ms.,Rachel,Prusak,,900 Court St NE   H-489,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/prusak.jpg
 OR,38,,D,Ms.,Andrea,Salinas,,900 Court St NE   H-485,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/salinas.jpg
 OR,39,,R,Ms.,Christine,Drazan,,900 Court St NE   H-395,,Salem, OR, 97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/drazan.jpg
@@ -991,7 +991,7 @@ SD,,19,R,Mr.,Kyle,Schoenfish,,42472 Maxwell Rd.,,Scotland,SD,57059,Senator,https
 SD,,20,R,Mr.,Joshua,Klumb,,26296 401st Ave.,,Mount Vernon,SD,57363,Senator,https://sdlegislature.gov/inc/img/Legislators/Klumb_2019.jpg
 SD,,21,R,Mr.,Rocky,Blare,,31176 269th St.,,Ideal,SD,57541,Senator,https://sdlegislature.gov/inc/img/Legislators/Blare_2019.jpg
 SD,,22,R,Mr.,Jim,White,,1145 Beach Circle NE,,Huron,SD,57350,Senator,https://sdlegislature.gov/inc/img/Legislators/White_2019.jpg
-SD,,23,R,Mr.,John A.,Lake,,1105 E. Garfield Ave.,,Gettysburg,SD,57442,Senator,https://sdlegislature.gov/inc/img/Legislators/Lake_2019.jpg
+SD,,23,R,Mr.,JohnÂ A.,Lake,,1105 E. Garfield Ave.,,Gettysburg,SD,57442,Senator,https://sdlegislature.gov/inc/img/Legislators/Lake_2019.jpg
 SD,,24,R,Mr.,Jeff,Monroe,,127 W. Dakota Ave.,,Pierre,SD,57501,Senator,https://sdlegislature.gov/inc/img/Legislators/Monroe_2019.jpg
 SD,,25,R,Ms.,Kris K.,Langer,,600 W. 7th St.,,Dell Rapids,SD,57022,Senator,https://sdlegislature.gov/inc/img/Legislators/Langer_2019.jpg
 SD,,26,D,Mr.,Troy,Heinert,,PO Box 634,,Mission,SD,57555,Senator,https://sdlegislature.gov/inc/img/Legislators/Heinert_2019.jpg
@@ -1055,7 +1055,7 @@ SD,24,,R,Mr.,Tim,Rounds,,1813 Abbey Rd.,,Pierre,SD,57501,Representative,https://
 SD,25,,R,Mr.,Jon,Hansen,,47484 Dells Dr.,,Dell Rapids,SD,57022,Representative,https://sdlegislature.gov/inc/img/Legislators/Hansen_2019.jpg
 SD,25,,R,Mr.,Tom,Pischke,,503 E. 12th St.,,Dell Rapids,SD,57022,Representative,https://sdlegislature.gov/inc/img/Legislators/Pischke_2019.jpg
 SD,26,,D,Mr.,Shawn,Bordeaux,,PO Box 283,,Mission,SD,57555,Representative,https://sdlegislature.gov/inc/img/Legislators/Bordeaux_2019.jpg
-SD,26,,R,Ms.,Rebecca ,Reimer,,138 S. Main St.,,Chamberlain,SD,57325,Representative,https://sdlegislature.gov/inc/img/Legislators/Reimer_2019.jpg
+SD,26,,R,Ms.,RebeccaÂ ,Reimer,,138 S. Main St.,,Chamberlain,SD,57325,Representative,https://sdlegislature.gov/inc/img/Legislators/Reimer_2019.jpg
 SD,27,,R,Mr.,Steve,Livermont,,28765 237th Ave.,,Martin,SD,57551,Representative,https://sdlegislature.gov/inc/img/Legislators/Livermont_2019.jpg
 SD,27,,D,Ms.,Peri,Pourier,,PO Box 3041,,Pine Ridge,SD,57770,Representative,https://sdlegislature.gov/inc/img/Legislators/Pourier_2019.jpg
 SD,28,,D,Mr.,Oren L.,Lesmeister,,HC 76 Box 23,,Parade,SD,57625,Representative,https://sdlegislature.gov/inc/img/Legislators/Lesmeister_2019.jpg
@@ -1110,7 +1110,7 @@ WA,,33,D,Ms.,Karen,Keiser,,PO Box 40433,,Olympia,WA,98504,Senator,http://app.leg
 WA,,34,D,Mr.,Joe,Nguyen,,PO Box 40434,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/nguyen.jpg
 WA,,35,D,Mr.,Tim,Sheldon,,PO Box 40435,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/sheldon.jpg
 WA,,36,D,Mr.,Reuven,Carlyle,,PO Box 40436,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/carlyle.jpg
-WA,,37,D,Ms.,Rebecca,Saldaña,,PO Box 40437,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/saldaa.jpg
+WA,,37,D,Ms.,Rebecca,SaldaĂ±a,,PO Box 40437,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/saldaa.jpg
 WA,,38,D,Ms.,June,Robinson,,PO Box 40438,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/robinson.jpg
 WA,,39,R,Mr.,Keith,Wagoner,,PO Box 40439,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/wagoner.jpg
 WA,,40,D,Ms.,Liz,Lovelett,,PO Box 40440,,Olympia,WA,98504,Senator,http://app.leg.wa.gov/assets/Images/MemberThumbnails/Senate/lovelett.jpg
