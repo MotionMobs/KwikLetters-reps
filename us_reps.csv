@@ -1,106 +1,105 @@
 ï»¿state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
-,,,R,Mr.,Donald,Trump,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
 ,,,R,Mr.,Mike,Pence,,Einsenhower Executive Office Building,1650 Pennsylvania Ave NW,Washington,DC,20502,,Vice President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/VicePresidentPence-620x620.jpg
-WI,,S,D,Ms.,Tammy,Baldwin,,United States Senate,709 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wi_baldwin_tammy_200.jpg
-WY,,S,R,Mr.,John,Barrasso,,United States Senate,307 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_barrasso_john_200.jpg
-CO,,S,D,Mr.,Michael F.,Bennet,,United States Senate,261 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_co_bennet_michael_200.jpg
-TN,,S,R,Ms.,Marsha,Blackburn,,United States Senate,357 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_rp_tn_7_blackburn_marsha_200.jpg
-CT,,S,D,Mr.,Richard,Blumenthal,,United States Senate,706 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_blumenthal_richard_200.jpg
-MO,,S,R,Mr.,Roy,Blunt,,United States Senate,260 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mo_blunt_roy_200.jpg
-NJ,,S,D,Mr.,Cory A.,Booker,,United States Senate,717 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_booker_cory_200.jpg
+,,,R,Mr.,Donald,Trump,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-620x620.jpg
+AK,,S,R,Ms.,Lisa,Murkowski,,United States Senate,522 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ak_murkowski_lisa_200.jpg
+AK,,S,R,Mr.,Dan,Sullivan,,United States Senate,302 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ak_sullivan_dan_200.jpg
+AL,,S,R,Mr.,Richard C.,Shelby,,United States Senate,304 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_al_shelby_richard_200.jpg
+AL,,S,R,Mr.,Tommy,Tuberville,,United States Senate,B40A Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.senate.gov/general/resources/graphic/medium/tuberville-tommy.png
 AR,,S,R,Mr.,John,Boozman,,United States Senate,141 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ar_boozman_john_200.jpg
-IN,,S,R,Mr.,Mike,Braun,,United States Senate,374 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/b001310_200.jpg
-OH,,S,D,Mr.,Sherrod,Brown,,United States Senate,503 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_brown_sherrod_200.jpg
-NC,,S,R,Mr.,Richard,Burr,,United States Senate,217 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_burr_richard_200.jpg
-WA,,S,D,Ms.,Maria,Cantwell,,United States Senate,511 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_cantwell_maria_200.jpg
-WV,,S,R,Ms.,Shelley Moore,Capito,,United States Senate,172 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wv_moorecapito_shelly_200.jpg
-MD,,S,D,Mr.,Benjamin L.,Cardin,,United States Senate,509 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_cardin_benjamin_200.jpg
-DE,,S,D,Mr.,Thomas R.,Carper,,United States Senate,513 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_carper_thomas_200.jpg
-PA,,S,D,Mr.,Robert P.,Casey,Jr.,United States Senate,393 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_casey_robert_200.jpg
-LA,,S,R,Mr.,Bill,Cassidy,,United States Senate,520 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_cassidy_bill_200.jpg
-ME,,S,R,Ms.,Susan M.,Collins,,United States Senate,413 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_me_collins_susan_200.jpg
-DE,,S,D,Mr.,Christopher A.,Coons,,United States Senate,218 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_coons_christopher_200.jpg
-TX,,S,R,Mr.,John,Cornyn,,United States Senate,517 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cornyn_john_200.jpg
-NV,,S,D,Ms.,Catherine,Cortez Masto,,United States Senate,516 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_co_nv_cortezmasto_catherine_200.jpg
 AR,,S,R,Mr.,Tom,Cotton,,United States Senate,326 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ar_cotton_tom_200.jpg
-ND,,S,R,Mr.,Kevin,Cramer,,United States Senate,400 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_rp_nd_0_cramer_kevin_200.jpg
+AZ,,S,D,Mr.,Mark,Kelly,,United States Senate,B40B Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.kelly.senate.gov/wp-content/uploads/2020/11/kellyseated.jpg
+AZ,,S,D,Ms.,Kyrsten,Sinema,,United States Senate,317 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_az_sinema_kyrsten_200.jpg
+CA,,S,D,Ms.,Dianne,Feinstein,,United States Senate,331 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_feinstein_dianne_200.jpg
+CA,,S,D,Ms.,Kamala D.,Harris,,United States Senate,112 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_harris_kamala_200.jpg
+CO,,S,D,Mr.,Michael F.,Bennet,,United States Senate,261 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_co_bennet_michael_200.jpg
+CO,,S,D,Mr.,John W.,Hickenlooper,,United States Senate,B85 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.hickenlooper.senate.gov/wp-content/uploads/2021/01/Hickenlooper.Website-photo-v3.2.jpg
+CT,,S,D,Mr.,Richard,Blumenthal,,United States Senate,706 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_blumenthal_richard_200.jpg
+CT,,S,D,Mr.,Christopher,Murphy,,United States Senate,136 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_murphy_christopher_200.jpg
+DE,,S,D,Mr.,Thomas R.,Carper,,United States Senate,513 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_carper_thomas_200.jpg
+DE,,S,D,Mr.,Christopher A.,Coons,,United States Senate,218 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_de_coons_christopher_200.jpg
+FL,,S,R,Mr.,Marco,Rubio,,United States Senate,284 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_fl_rubio_marco_200.jpg
+FL,,S,R,Mr.,Rick,Scott,,United States Senate,716 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/s001217_200.jpg
+GA,,S,R,Ms.,Kelly,Loeffler,,United States Senate,131 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/l000594_200.jpg
+HI,,S,D,Ms.,Mazie K.,Hirono,,United States Senate,713 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_hi_hirono_mazie_200.jpg
+HI,,S,D,Mr.,Brian,Schatz,,United States Senate,722 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_hi_schatz_brian_200.jpg
+IA,,S,R,Ms.,Joni,Ernst,,United States Senate,730 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ia_ernst_joni_200.jpg
+IA,,S,R,Mr.,Chuck,Grassley,,United States Senate,135 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ia_grassley_chuck_200.jpg
 ID,,S,R,Mr.,Mike,Crapo,,United States Senate,239 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_id_crapo_mike_200.jpg
-TX,,S,R,Mr.,Ted,Cruz,,United States Senate,127A Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cruz_ted_200.jpg
-MT,,S,R,Mr.,Steve,Daines,,United States Senate,320 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_danes_steve_200.jpg
+ID,,S,R,Mr.,James E.,Risch,,United States Senate,483 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_id_risch_james_200.jpg
 IL,,S,D,Ms.,Tammy,Duckworth,,United States Senate,524 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_il_duckworth_tammy_200.jpg
 IL,,S,D,Mr.,Richard J.,Durbin,,United States Senate,711 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_il_durbin_richard_200.jpg
-IA,,S,R,Ms.,Joni,Ernst,,United States Senate,730 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ia_ernst_joni_200.jpg
-CA,,S,D,Ms.,Dianne,Feinstein,,United States Senate,331 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_feinstein_dianne_200.jpg
-NE,,S,R,Ms.,Deb,Fischer,,United States Senate,454 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ne_fischer_deb_200.jpg
-NY,,S,D,Ms.,Kirsten E.,Gillibrand,,United States Senate,478 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ny_gillibrand_kirsten_200.jpg
-SC,,S,R,Mr.,Lindsey,Graham,,United States Senate,290 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_graham_lindsey_200.jpg
-IA,,S,R,Mr.,Chuck,Grassley,,United States Senate,135 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ia_grassley_chuck_200.jpg
-TN,,S,R,Mr.,Bill,Hagerty,,United States Senate,B11 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.hagerty.senate.gov/wp-content/uploads/2020/12/Hagerty-Photo-1500.jpg
-CA,,S,D,Ms.,Kamala D.,Harris,,United States Senate,112 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ca_harris_kamala_200.jpg
-NH,,S,D,Ms.,Margaret Wood,Hassan,,United States Senate,324 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_hassan_maggie_200.jpg
-MO,,S,R,Mr.,Josh,Hawley,,United States Senate,212 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/h001089_200.jpg
-NM,,S,D,Mr.,Martin,Heinrich,,United States Senate,303 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nm_heinrich_martin_200.jpg
-CO,,S,D,Mr.,John W.,Hickenlooper,,United States Senate,B85 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.hickenlooper.senate.gov/wp-content/uploads/2021/01/Hickenlooper.Website-photo-v3.2.jpg
-HI,,S,D,Ms.,Mazie K.,Hirono,,United States Senate,713 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_hi_hirono_mazie_200.jpg
-ND,,S,R,Mr.,John,Hoeven,,United States Senate,338 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nd_hoeven_john_200.jpg
-MS,,S,R,Ms.,Cindy,Hyde-Smith,,United States Senate,702 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/h001079_200.jpg
-OK,,S,R,Mr.,James M.,Inhofe,,United States Senate,205 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_inhofe_james_200.jpg
-WI,,S,R,Mr.,Ron,Johnson,,United States Senate,328 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wi_johnson_ron_200.jpg
-VA,,S,D,Mr.,Tim,Kaine,,United States Senate,231 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_kaine_tim_200.jpg
-AZ,,S,D,Mr.,Mark,Kelly,,United States Senate,B40B Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.kelly.senate.gov/wp-content/uploads/2020/11/kellyseated.jpg
-LA,,S,R,Mr.,John,Kennedy,,United States Senate,416 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_kennedy_john_200.jpg
-ME,,S,I,Mr.,Angus S.,King,Jr.,United States Senate,133 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_me_kingjr_angus_200.jpg
-MN,,S,D,Ms.,Amy,Klobuchar,,United States Senate,425 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_klobuchar_amy_200.jpg
-OK,,S,R,Mr.,James,Lankford,,United States Senate,316 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_lankford_james_200.jpg
-VT,,S,D,Mr.,Patrick J.,Leahy,,United States Senate,437 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_leahy_patrick_200.jpg
-UT,,S,R,Mr.,Mike,Lee,,United States Senate,361A Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ut_lee_michael_200.jpg
-GA,,S,R,Ms.,Kelly,Loeffler,,United States Senate,131 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/l000594_200.jpg
-NM,,S,D,Mr.,Ben Ray,Lujan,,United States Senate,B40C Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.lujan.senate.gov/wp-content/uploads/2021/01/Lujan-Official-Photo-crop.jpg
-WY,,S,R,Ms.,Cynthia M.,Lummis,,United States Senate,G12 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.lummis.senate.gov/wp-content/uploads/2020/12/jr__0263-3.jpg
-WV,,S,D,Mr.,Joe,Manchin,III,United States Senate,306 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wv_manchin_joe_200.jpg
-MA,,S,D,Mr.,Edward J.,Markey,,United States Senate,255 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ma_markey_edward_200.jpg
-KS,,S,R,Mr.,Roger,Marshall,M.D.,United States Senate,B33 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.marshall.senate.gov/wp-content/uploads/2020/12/Marshall-Head-Shot3.jpg
-KY,,S,R,Mr.,Mitch,McConnell,,United States Senate,317 Russell Senate Office Building,Washington,DC,20510,Senator,Majority Leader,M,https://www.congress.gov/img/member/115_sr_ky_mcconnell_mitch_200.jpg
-NJ,,S,D,Mr.,Robert,Menendez,,United States Senate,528 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_menendez_robert_200.jpg
-OR,,S,D,Mr.,Jeff,Merkley,,United States Senate,313 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_merkley_jeff_200.jpg
-KS,,S,R,Mr.,Jerry,Moran,,United States Senate,521 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ks_moran_jerry_200.jpg
-AK,,S,R,Ms.,Lisa,Murkowski,,United States Senate,522 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ak_murkowski_lisa_200.jpg
-CT,,S,D,Mr.,Christopher,Murphy,,United States Senate,136 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ct_murphy_christopher_200.jpg
-WA,,S,D,Ms.,Patty,Murray,,United States Senate,154 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_murray_patty_200.jpg
-KY,,S,R,Mr.,Rand,Paul,M.D.,United States Senate,167 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ky_paul_rand_200.jpg
-GA,,S,R,Mr.,David,Perdue,,United States Senate,455 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ga_perdue_david_200.jpg
-MI,,S,D,Mr.,Gary C.,Peters,,United States Senate,724 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mi_peters_gary_200.jpg
-OH,,S,R,Mr.,Rob,Portman,,United States Senate,448 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_portman_rob_200.jpg
-RI,,S,D,Mr.,Jack,Reed,,United States Senate,728 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_reed_jack_200.jpg
-ID,,S,R,Mr.,James E.,Risch,,United States Senate,483 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_id_risch_james_200.jpg
-UT,,S,R,Mr.,Mitt,Romney,,United States Senate,124 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/r000615_200.jpg
-NV,,S,D,Mr.,Jacky,Rosen,,United States Senate,144 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_rp_nv_3_rosen_jacky_200.jpg
-SD,,S,R,Mr.,Mike,Rounds,,United States Senate,502 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_rounds_mike_200.jpg
-FL,,S,R,Mr.,Marco,Rubio,,United States Senate,284 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_fl_rubio_marco_200.jpg
-VT,,S,I,Mr.,Bernard,Sanders,,United States Senate,332 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_sanders_bernard_200.jpg
-NE,,S,R,Mr.,Ben,Sasse,,United States Senate,107 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ne_sasse_ben_200.jpg
-HI,,S,D,Mr.,Brian,Schatz,,United States Senate,722 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_hi_schatz_brian_200.jpg
-NY,,S,D,Mr.,Charles E.,Schumer,,United States Senate,322 Hart Senate Office Building,Washington,DC,20510,Senator,Minority Leader,M,https://www.congress.gov/img/member/115_sr_ny_schumer_charles_200.jpg
-FL,,S,R,Mr.,Rick,Scott,,United States Senate,716 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/s001217_200.jpg
-SC,,S,R,Mr.,Tim,Scott,,United States Senate,104 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_scott_tim_200.jpg
-NH,,S,D,Ms.,Jeanne,Shaheen,,United States Senate,506 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_shaheen_jeanne_200.jpg
-AL,,S,R,Mr.,Richard C.,Shelby,,United States Senate,304 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_al_shelby_richard_200.jpg
-AZ,,S,D,Ms.,Kyrsten,Sinema,,United States Senate,317 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_az_sinema_kyrsten_200.jpg
-MN,,S,D,Ms.,Tina,Smith,,United States Senate,720 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_smith_tina_200.jpg
-MI,,S,D,Ms.,Debbie,Stabenow,,United States Senate,731 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mi_stabenow_debbie_200.jpg
-AK,,S,R,Mr.,Dan,Sullivan,,United States Senate,302 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ak_sullivan_dan_200.jpg
-MT,,S,D,Mr.,Jon,Tester,,United States Senate,311 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_tester_jon_200.jpg
-SD,,S,R,Mr.,John,Thune,,United States Senate,511 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_thune_john_200.jpg
-NC,,S,R,Mr.,Thom,Tillis,,United States Senate,113 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_tillis_thom_200.jpg
-PA,,S,R,Mr.,Patrick J.,Toomey,,United States Senate,248 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_toomey_pat_200.jpg
-AL,,S,R,Mr.,Tommy,Tuberville,,United States Senate,B40A Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.senate.gov/general/resources/graphic/medium/tuberville-tommy.png
-MD,,S,D,Mr.,Chris,Van Hollen,,United States Senate,110 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_vanhollen_chris_200.jpg
-VA,,S,D,Mr.,Mark R.,Warner,,United States Senate,703 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_warner_mark_200.jpg
-MA,,S,D,Ms.,Elizabeth,Warren,,United States Senate,309 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ma_warren_elizabeth_200.jpg
-RI,,S,D,Mr.,Sheldon,Whitehouse,,United States Senate,530 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_whitehouse_sheldon_200.jpg
-MS,,S,R,Mr.,Roger F.,Wicker,,United States Senate,555 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ms_wicker_roger_200.jpg
-OR,,S,D,Mr.,Ron,Wyden,,United States Senate,221 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_wyden_ron_200.jpg
+IN,,S,R,Mr.,Mike,Braun,,United States Senate,374 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/b001310_200.jpg
 IN,,S,R,Mr.,Todd,Young,,United States Senate,185 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_in_young_todd_200.jpg
+KS,,S,R,Mr.,Roger,Marshall,M.D.,United States Senate,B33 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.marshall.senate.gov/wp-content/uploads/2020/12/Marshall-Head-Shot3.jpg
+KS,,S,R,Mr.,Jerry,Moran,,United States Senate,521 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ks_moran_jerry_200.jpg
+KY,,S,R,Mr.,Mitch,McConnell,,United States Senate,317 Russell Senate Office Building,Washington,DC,20510,Senator,Majority Leader,M,https://www.congress.gov/img/member/115_sr_ky_mcconnell_mitch_200.jpg
+KY,,S,R,Mr.,Rand,Paul,M.D.,United States Senate,167 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ky_paul_rand_200.jpg
+LA,,S,R,Mr.,Bill,Cassidy,,United States Senate,520 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_cassidy_bill_200.jpg
+LA,,S,R,Mr.,John,Kennedy,,United States Senate,416 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_la_kennedy_john_200.jpg
+MA,,S,D,Mr.,Edward J.,Markey,,United States Senate,255 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ma_markey_edward_200.jpg
+MA,,S,D,Ms.,Elizabeth,Warren,,United States Senate,309 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ma_warren_elizabeth_200.jpg
+MD,,S,D,Mr.,Benjamin L.,Cardin,,United States Senate,509 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_cardin_benjamin_200.jpg
+MD,,S,D,Mr.,Chris,Van Hollen,,United States Senate,110 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_md_vanhollen_chris_200.jpg
+ME,,S,R,Ms.,Susan M.,Collins,,United States Senate,413 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_me_collins_susan_200.jpg
+ME,,S,I,Mr.,Angus S.,King,Jr.,United States Senate,133 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_me_kingjr_angus_200.jpg
+MI,,S,D,Mr.,Gary C.,Peters,,United States Senate,724 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mi_peters_gary_200.jpg
+MI,,S,D,Ms.,Debbie,Stabenow,,United States Senate,731 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mi_stabenow_debbie_200.jpg
+MN,,S,D,Ms.,Amy,Klobuchar,,United States Senate,425 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_klobuchar_amy_200.jpg
+MN,,S,D,Ms.,Tina,Smith,,United States Senate,720 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_mn_smith_tina_200.jpg
+MO,,S,R,Mr.,Roy,Blunt,,United States Senate,260 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mo_blunt_roy_200.jpg
+MO,,S,R,Mr.,Josh,Hawley,,United States Senate,212 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/h001089_200.jpg
+MS,,S,R,Ms.,Cindy,Hyde-Smith,,United States Senate,702 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/h001079_200.jpg
+MS,,S,R,Mr.,Roger F.,Wicker,,United States Senate,555 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ms_wicker_roger_200.jpg
+MT,,S,R,Mr.,Steve,Daines,,United States Senate,320 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_danes_steve_200.jpg
+MT,,S,D,Mr.,Jon,Tester,,United States Senate,311 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_mt_tester_jon_200.jpg
+NC,,S,R,Mr.,Richard,Burr,,United States Senate,217 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_burr_richard_200.jpg
+NC,,S,R,Mr.,Thom,Tillis,,United States Senate,113 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nc_tillis_thom_200.jpg
+ND,,S,R,Mr.,Kevin,Cramer,,United States Senate,400 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_rp_nd_0_cramer_kevin_200.jpg
+ND,,S,R,Mr.,John,Hoeven,,United States Senate,338 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nd_hoeven_john_200.jpg
+NE,,S,R,Ms.,Deb,Fischer,,United States Senate,454 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ne_fischer_deb_200.jpg
+NE,,S,R,Mr.,Ben,Sasse,,United States Senate,107 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ne_sasse_ben_200.jpg
+NH,,S,D,Ms.,Margaret Wood,Hassan,,United States Senate,324 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_hassan_maggie_200.jpg
+NH,,S,D,Ms.,Jeanne,Shaheen,,United States Senate,506 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_nh_shaheen_jeanne_200.jpg
+NJ,,S,D,Mr.,Cory A.,Booker,,United States Senate,717 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_booker_cory_200.jpg
+NJ,,S,D,Mr.,Robert,Menendez,,United States Senate,528 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nj_menendez_robert_200.jpg
+NM,,S,D,Mr.,Martin,Heinrich,,United States Senate,303 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_nm_heinrich_martin_200.jpg
+NM,,S,D,Mr.,Ben Ray,Lujan,,United States Senate,B40C Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.lujan.senate.gov/wp-content/uploads/2021/01/Lujan-Official-Photo-crop.jpg
+NV,,S,D,Ms.,Catherine,Cortez Masto,,United States Senate,516 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_co_nv_cortezmasto_catherine_200.jpg
+NV,,S,D,Mr.,Jacky,Rosen,,United States Senate,144 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_rp_nv_3_rosen_jacky_200.jpg
+NY,,S,D,Ms.,Kirsten E.,Gillibrand,,United States Senate,478 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ny_gillibrand_kirsten_200.jpg
+NY,,S,D,Mr.,Charles E.,Schumer,,United States Senate,322 Hart Senate Office Building,Washington,DC,20510,Senator,Minority Leader,M,https://www.congress.gov/img/member/115_sr_ny_schumer_charles_200.jpg
+OH,,S,D,Mr.,Sherrod,Brown,,United States Senate,503 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_brown_sherrod_200.jpg
+OH,,S,R,Mr.,Rob,Portman,,United States Senate,448 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_oh_portman_rob_200.jpg
+OK,,S,R,Mr.,James M.,Inhofe,,United States Senate,205 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_inhofe_james_200.jpg
+OK,,S,R,Mr.,James,Lankford,,United States Senate,316 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ok_lankford_james_200.jpg
+OR,,S,D,Mr.,Jeff,Merkley,,United States Senate,313 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_merkley_jeff_200.jpg
+OR,,S,D,Mr.,Ron,Wyden,,United States Senate,221 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_or_wyden_ron_200.jpg
+PA,,S,D,Mr.,Robert P.,Casey,Jr.,United States Senate,393 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_casey_robert_200.jpg
+PA,,S,R,Mr.,Patrick J.,Toomey,,United States Senate,248 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_pa_toomey_pat_200.jpg
+RI,,S,D,Mr.,Jack,Reed,,United States Senate,728 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_reed_jack_200.jpg
+RI,,S,D,Mr.,Sheldon,Whitehouse,,United States Senate,530 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ri_whitehouse_sheldon_200.jpg
+SC,,S,R,Mr.,Lindsey,Graham,,United States Senate,290 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_graham_lindsey_200.jpg
+SC,,S,R,Mr.,Tim,Scott,,United States Senate,104 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sc_scott_tim_200.jpg
+SD,,S,R,Mr.,Mike,Rounds,,United States Senate,502 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_rounds_mike_200.jpg
+SD,,S,R,Mr.,John,Thune,,United States Senate,511 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_sd_thune_john_200.jpg
+TN,,S,R,Ms.,Marsha,Blackburn,,United States Senate,357 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_rp_tn_7_blackburn_marsha_200.jpg
+TN,,S,R,Mr.,Bill,Hagerty,,United States Senate,B11 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.hagerty.senate.gov/wp-content/uploads/2020/12/Hagerty-Photo-1500.jpg
+TX,,S,R,Mr.,John,Cornyn,,United States Senate,517 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cornyn_john_200.jpg
+TX,,S,R,Mr.,Ted,Cruz,,United States Senate,127A Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_tx_cruz_ted_200.jpg
+UT,,S,R,Mr.,Mike,Lee,,United States Senate,361A Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ut_lee_michael_200.jpg
+UT,,S,R,Mr.,Mitt,Romney,,United States Senate,124 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/r000615_200.jpg
+VA,,S,D,Mr.,Tim,Kaine,,United States Senate,231 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_kaine_tim_200.jpg
+VA,,S,D,Mr.,Mark R.,Warner,,United States Senate,703 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_va_warner_mark_200.jpg
+VT,,S,D,Mr.,Patrick J.,Leahy,,United States Senate,437 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_leahy_patrick_200.jpg
+VT,,S,I,Mr.,Bernard,Sanders,,United States Senate,332 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_vt_sanders_bernard_200.jpg
+WA,,S,D,Ms.,Maria,Cantwell,,United States Senate,511 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_cantwell_maria_200.jpg
+WA,,S,D,Ms.,Patty,Murray,,United States Senate,154 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wa_murray_patty_200.jpg
+WI,,S,D,Ms.,Tammy,Baldwin,,United States Senate,709 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wi_baldwin_tammy_200.jpg
+WI,,S,R,Mr.,Ron,Johnson,,United States Senate,328 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wi_johnson_ron_200.jpg
+WV,,S,R,Ms.,Shelley Moore,Capito,,United States Senate,172 Russell Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_wv_moorecapito_shelly_200.jpg
+WV,,S,D,Mr.,Joe,Manchin,III,United States Senate,306 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wv_manchin_joe_200.jpg
+WY,,S,R,Mr.,John,Barrasso,,United States Senate,307 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_barrasso_john_200.jpg
+WY,,S,R,Ms.,Cynthia M.,Lummis,,United States Senate,G12 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.lummis.senate.gov/wp-content/uploads/2020/12/jr__0263-3.jpg
 AK,1,,R,Mr.,Don,Young,,U.S. House of Representatives,2314 Rayburn House Office Building,Washington,DC,20515-0200,Representative,,M,https://clerk.house.gov/content/assets/img/members/Y000033.jpg
 AL,1,,R,Mr.,Jerry L.,Carl,,U.S. House of Representatives,1330 Longworth House Office Building,Washington,DC,20515-0101,Representative,,M,https://clerk.house.gov/content/assets/img/members/C001054.jpg
 AL,2,,R,Mr.,Barry,Moore,,U.S. House of Representatives,1504 Longworth House Office Building,Washington,DC,20515-0102,Representative,,M,https://clerk.house.gov/content/assets/img/members/M001212.jpg
