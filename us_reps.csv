@@ -1,6 +1,6 @@
 ï»¿state,rep_district,senate_district,party,prefix,first_name,last_name,suffix,address1,address2,city,address_state,zip,title,leader_title,gender,photo_url
-,,,R,Mr.,Joe,Biden,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2021/01/joe_hero.jpg
-,,,R,Ms.,Kamala,Harris,,Einsenhower Executive Office Building,1650 Pennsylvania Ave NW,Washington,DC,20502,,Vice President of the United States,F,https://www.whitehouse.gov/wp-content/uploads/2021/01/kamala_hero.jpg
+,,,D,Mr.,Joe,Biden,,1600 Pennsylvania Ave NW,,Washington,DC,20500,,President of the United States,M,https://www.whitehouse.gov/wp-content/uploads/2021/01/joe_hero.jpg
+,,,D,Ms.,Kamala,Harris,,Einsenhower Executive Office Building,1650 Pennsylvania Ave NW,Washington,DC,20502,,Vice President of the United States,F,https://www.whitehouse.gov/wp-content/uploads/2021/01/kamala_hero.jpg
 AK,,S,R,Ms.,Lisa,Murkowski,,United States Senate,522 Hart Senate Office Building,Washington,DC,20510,Senator,,F,https://www.congress.gov/img/member/115_sr_ak_murkowski_lisa_200.jpg
 AK,,S,R,Mr.,Dan,Sullivan,,United States Senate,302 Hart Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_ak_sullivan_dan_200.jpg
 AL,,S,R,Mr.,Richard C.,Shelby,,United States Senate,304 Russell Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_al_shelby_richard_200.jpg
