@@ -102,7 +102,6 @@ WV,,S,D,Mr.,Joe,Manchin,III,United States Senate,306 Hart Senate Office Building
 WY,,S,R,Mr.,John,Barrasso,,United States Senate,307 Dirksen Senate Office Building,Washington,DC,20510,Senator,,M,https://www.congress.gov/img/member/115_sr_wy_barrasso_john_200.jpg
 WY,,S,R,Ms.,Cynthia M.,Lummis,,United States Senate,G12 Dirksen Senate Office Building,Washington,DC,20510,Senator,,F,https://www.lummis.senate.gov/wp-content/uploads/2020/12/jr__0263-3.jpg
 AK,,S,R,Mr.,Don,Young,,U.S. House of Representatives,2314 Rayburn House Office Building,Washington,DC,20515-0200,Representative,,M,https://clerk.house.gov/content/assets/img/members/Y000033.jpg
-AK,,S,R,Mr.,Don,Young,,U.S. House of Representatives,2314 Rayburn House Office Building,Washington,DC,20515-0200,Representative,,M,https://clerk.house.gov/content/assets/img/members/Y000033.jpg
 AL,1,,R,Mr.,Jerry L.,Carl,,U.S. House of Representatives,1330 Longworth House Office Building,Washington,DC,20515-0101,Representative,,M,https://clerk.house.gov/content/assets/img/members/C001054.jpg
 AL,2,,R,Mr.,Barry,Moore,,U.S. House of Representatives,1504 Longworth House Office Building,Washington,DC,20515-0102,Representative,,M,https://clerk.house.gov/content/assets/img/members/M001212.jpg
 AL,3,,R,Mr.,Mike,Rogers,,U.S. House of Representatives,2469 Rayburn House Office Building,Washington,DC,20515-0103,Representative,,M,https://clerk.house.gov/content/assets/img/members/R000575.jpg
@@ -210,7 +209,7 @@ FL,16,,R,Mr.,Vern,Buchanan,,U.S. House of Representatives,2110 Rayburn House Off
 FL,17,,R,Mr.,W. Gregory,Steube,,U.S. House of Representatives,2457 Rayburn House Office Building,Washington,DC,20515-0917,Representative,,M,https://clerk.house.gov/content/assets/img/members/S001214.jpg
 FL,18,,R,Mr.,Brian J.,Mast,,U.S. House of Representatives,2182 Rayburn House Office Building,Washington,DC,20515-0918,Representative,,M,https://clerk.house.gov/content/assets/img/members/M001199.jpg
 FL,19,,R,Mr.,Byron,Donalds,,U.S. House of Representatives,523 Cannon House Office Building,Washington,DC,20515-0919,Representative,,M,https://clerk.house.gov/content/assets/img/members/D000032.jpg
-FL,20,,D,Mr.,Alcee L.,Hastings,,U.S. House of Representatives,2365 Rayburn House Office Building,Washington,DC,20515-0920,Representative,,M,https://clerk.house.gov/content/assets/img/members/H000324.jpg
+FL,20,,D,Mr.,Alcee L.,Hastings, Deceased,U.S. House of Representatives,2365 Rayburn House Office Building,Washington,DC,20515-0920,Representative,,M,https://clerk.house.gov/content/assets/img/members/H000324.jpg
 FL,21,,D,Ms.,Lois,Frankel,,U.S. House of Representatives,2305 Rayburn House Office Building,Washington,DC,20515-0921,Representative,,F,https://clerk.house.gov/content/assets/img/members/F000462.jpg
 FL,22,,D,Mr.,Theodore E.,Deutch,,U.S. House of Representatives,2323 Rayburn House Office Building,Washington,DC,20515-0922,Representative,,M,https://clerk.house.gov/content/assets/img/members/D000610.jpg
 FL,23,,D,Ms.,Debbie,Wasserman Schultz,,U.S. House of Representatives,1114 Longworth House Office Building,Washington,DC,20515-0923,Representative,,F,https://clerk.house.gov/content/assets/img/members/W000797.jpg
@@ -279,10 +278,10 @@ KY,4,,R,Mr.,Thomas,Massie,,U.S. House of Representatives,2453 Rayburn House Offi
 KY,5,,R,Mr.,Harold,Rogers,,U.S. House of Representatives,2406 Rayburn House Office Building,Washington,DC,20515-1705,Representative,,M,https://clerk.house.gov/content/assets/img/members/R000395.jpg
 KY,6,,R,Mr.,Andy,Barr,,U.S. House of Representatives,2430 Rayburn House Office Building,Washington,DC,20515-1706,Representative,,M,https://clerk.house.gov/content/assets/img/members/B001282.jpg
 LA,1,,R,Mr.,Steve,Scalise,,U.S. House of Representatives,2049 Rayburn House Office Building,Washington,DC,20515-1801,Representative,,M,https://clerk.house.gov/content/assets/img/members/S001176.jpg
-LA,2,,D,Employees of,Cedric L.,Richmond,Resigned,U.S. House of Representatives,506 Cannon House Office Building,Washington,DC,20515-1802,Representative,,M,https://clerk.house.gov/content/assets/img/members/R000588.jpg
+LA,2,,D,Mr.,Cedric L.,Richmond,,U.S. House of Representatives,506 Cannon House Office Building,Washington,DC,20515-1802,Representative,,M,https://clerk.house.gov/content/assets/img/members/R000588.jpg
 LA,3,,R,Mr.,Clay,Higgins,,U.S. House of Representatives,572 Cannon House Office Building,Washington,DC,20515-1803,Representative,,M,https://clerk.house.gov/content/assets/img/members/H001077.jpg
 LA,4,,R,Mr.,Mike,Johnson,,U.S. House of Representatives,568 Cannon House Office Building,Washington,DC,20515-1804,Representative,,M,https://clerk.house.gov/content/assets/img/members/J000299.jpg
-LA,5,,R,Employees of,Luke,Letlow,Deceased,U.S. House of Representatives,1408 Longworth House Office Building,Washington,DC,20515-0200,Representative,,,https://clerk.house.gov/content/assets/img/members/L000555.jpg
+LA,5,,,,Vacant,Seat,,U.S. House of Representatives,1408 Longworth House Office Building,Washington,DC,20515-0200,Representative,,,
 LA,6,,R,Mr.,Garret,Graves,,U.S. House of Representatives,2402 Rayburn House Office Building,Washington,DC,20515-1806,Representative,,M,https://clerk.house.gov/content/assets/img/members/G000577.jpg
 MA,1,,D,Mr.,Richard E.,Neal,,U.S. House of Representatives,372 Cannon House Office Building,Washington,DC,20515-2101,Representative,,M,https://clerk.house.gov/content/assets/img/members/N000015.jpg
 MA,2,,D,Mr.,James P.,McGovern,,U.S. House of Representatives,370 Cannon House Office Building,Washington,DC,20515-2102,Representative,,M,https://clerk.house.gov/content/assets/img/members/M000312.jpg
@@ -398,7 +397,6 @@ NY,18,,D,Mr.,Sean Patrick,Maloney,,U.S. House of Representatives,464 Cannon Hous
 NY,19,,D,Mr.,Antonio,Delgado,,U.S. House of Representatives,1007 Longworth House Office Building,Washington,DC,20515-3219,Representative,,M,https://clerk.house.gov/content/assets/img/members/D000630.jpg
 NY,20,,D,Mr.,Paul,Tonko,,U.S. House of Representatives,2369 Rayburn House Office Building,Washington,DC,20515-3220,Representative,,M,https://clerk.house.gov/content/assets/img/members/T000469.jpg
 NY,21,,R,Ms.,Elise M.,Stefanik,,U.S. House of Representatives,2211 Rayburn House Office Building,Washington,DC,20515-3221,Representative,,F,https://clerk.house.gov/content/assets/img/members/S001196.jpg
-NY,22,,R,Ms.,Claudia,Tenney,,U.S. House of Representatives,1410 Longworth House Office Building,Washington,DC,20515-3222,Representative,,F,https://clerk.house.gov/content/assets/img/members/T000478.jpg
 NY,23,,R,Mr.,Tom,Reed,,U.S. House of Representatives,1203 Longworth House Office Building,Washington,DC,20515-3223,Representative,,M,https://clerk.house.gov/content/assets/img/members/R000585.jpg
 NY,24,,R,Mr.,John,Katko,,U.S. House of Representatives,2428 Rayburn House Office Building,Washington,DC,20515-3224,Representative,,M,https://clerk.house.gov/content/assets/img/members/K000386.jpg
 NY,25,,D,Mr.,Joseph D.,Morelle,,U.S. House of Representatives,1317 Longworth House Office Building,Washington,DC,20515-3225,Representative,,M,https://clerk.house.gov/content/assets/img/members/M001206.jpg
@@ -473,7 +471,7 @@ TX,2,,R,Mr.,Dan,Crenshaw,,U.S. House of Representatives,413 Cannon House Office 
 TX,3,,R,Mr.,Van,Taylor,,U.S. House of Representatives,1404 Longworth House Office Building,Washington,DC,20515-4303,Representative,,M,https://clerk.house.gov/content/assets/img/members/T000479.jpg
 TX,4,,R,Mr.,Pat,Fallon,,U.S. House of Representatives,1118 Longworth House Office Building,Washington,DC,20515-4304,Representative,,M,https://clerk.house.gov/content/assets/img/members/F000246.jpg
 TX,5,,R,Mr.,Lance,Gooden,,U.S. House of Representatives,1722 Longworth House Office Building,Washington,DC,20515-4305,Representative,,M,https://clerk.house.gov/content/assets/img/members/G000589.jpg
-TX,6,,R,Employees of,Ron,Wright,Deceased,U.S. House of Representatives,1725 Longworth House Office Building,Washington,DC,20515-4306,Representative,,M,https://clerk.house.gov/content/assets/img/members/W000827.jpg
+TX,6,,R,Mr.,Ron,Wright,,U.S. House of Representatives,1725 Longworth House Office Building,Washington,DC,20515-4306,Representative,,M,https://clerk.house.gov/content/assets/img/members/W000827.jpg
 TX,7,,D,Ms.,Lizzie,Fletcher,,U.S. House of Representatives,119 Cannon House Office Building,Washington,DC,20515-4307,Representative,,F,https://clerk.house.gov/content/assets/img/members/F000468.jpg
 TX,8,,R,Mr.,Kevin,Brady,,U.S. House of Representatives,1011 Longworth House Office Building,Washington,DC,20515-4308,Representative,,M,https://clerk.house.gov/content/assets/img/members/B000755.jpg
 TX,9,,D,Mr.,Al,Green,,U.S. House of Representatives,2347 Rayburn House Office Building,Washington,DC,20515-4309,Representative,,M,https://clerk.house.gov/content/assets/img/members/G000553.jpg
