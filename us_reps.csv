@@ -550,9 +550,10 @@ ZZ,,,,Justice,Brett M.,Kavanaugh,,The Supreme Court of the United States,One Fir
 ZZ,,,,Chief Justice,John G.,Roberts,,The Supreme Court of the United States,One First Street N.E.,Washington,DC,20543,Chief Justice,,M,https://www.supremecourt.gov/about/justice_pictures/Roberts_8807-16_Crop.jpg
 ZZ,,,,Justice,Sonia,Sotomayor,,The Supreme Court of the United States,One First Street N.E.,Washington,DC,20543,Justice,,F,https://www.supremecourt.gov/about/justice_pictures/Sotomayor_9841-001-Crop.jpg
 ZZ,,,,Justice,Clarance,Thomas,,The Supreme Court of the United States,One First Street N.E.,Washington,DC,20543,Justice,,M,https://www.supremecourt.gov/about/justice_pictures/Thomas_9366-024_Crop.jpg
-ZZ,,,,Dr.,Anthony S.,Fauci,,BG 31 RM 7A03,31 Center Dr,Bethesda,MD,20814,Director NIAID NIH,,M,https://www.niaid.nih.gov/sites/default/files/styles/large/public/fauci-advisory-council.jpg?itok=_NxpW53z
-ZZ,,,,Mr.,Donald J.,Trump,,c/o Mar-a-Lago Club,1100 S. Ocean Blvd.,Palm Beach,FL,33480,45th President of the United States,,M,
-ZZ,,,,Mr.,Barack,Obama,,The Office of Barack and Michelle Obama,P.O. Box 91000,Washington,DC,20066,44th President of the United States,,M,
+ZZ,,,D,Dr.,Anthony S.,Fauci,,BG 31 RM 7A03,31 Center Dr,Bethesda,MD,20814,Director NIAID NIH,,M,https://www.niaid.nih.gov/sites/default/files/styles/large/public/fauci-advisory-council.jpg?itok=_NxpW53z
+ZZ,,,R,Mr.,Donald J.,Trump,,c/o Mar-a-Lago Club,1100 S. Ocean Blvd.,Palm Beach,FL,33480,45th President of the United States,,M,
+ZZ,,,D,Mr.,Barack,Obama,,The Office of Barack and Michelle Obama,P.O. Box 91000,Washington,DC,20066,44th President of the United States,,M,
+ZZ,,,D,General,Merrick B.,Garland,,U.S. Department of Justice,950 Pennsylvania Ave NW,Washington,DC,20530-0001,Attorney General of the United States,,M,https://www.justice.gov/sites/default/files/styles/staff_profile/public/bios/portraits/2021/07/27/garland.jpg?itok=sAGJyJZE
 ZZ,,,R,Mr.,Steve,Marshall,,,501 Washington Ave.,Montgomery,AL,36104,Attorney General of Alabama,,M,https://www.alabamaag.gov/images/front/SM2.jpg
 ZZ,,,R,Mr.,Treg,Taylor,,,"1031 West 4th Ave., Suite 200",Anchorage,AK,99501,Attorney General of Alaska,,M,https://www.naag.org/attorney-general/treg-taylor/
 ZZ,,,R,Mr.,Mark,Brnovich,,,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General of Arizona,,M,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
@@ -604,3 +605,4 @@ ZZ,,,R,Mr.,Patrick,Morrisey,,,"State Capitol Complex, Bldg. 1, Room E-26",Charle
 ZZ,,,D,Mr.,Josh,Kaul,,,PO Box 7857,Madison,WI,"53707-7857
 ",Attorney General of Wisconsin,,M,https://1li23g1as25g1r8so11ozniw-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ag-WI-kaul.jpg
 ZZ,,,R,Ms.,Bridget,Hill,,,109 State Capitol,Cheyenne,WY,82002,Attorney General of Wyoming,,F,https://1li23g1as25g1r8so11ozniw-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ag-WY-Hill2.jpg
+ZZ,,,R,Mr.,Charles,Brannan,III,405 House Office Building,402 South Monroe Street,Tallahassee,FL,32399-1300,Chair Criminal Justice and Public Safety Subcommittee,,M,https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4708.jpg
