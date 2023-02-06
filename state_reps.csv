@@ -1,5 +1,4 @@
 State,Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
-AL,,,R,Ms.,Kay,Ivey,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
 AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
 AZ,,,R,Mr.,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://www.nga.org/wp-content/uploads/2019/02/Ducey_400x400.png
 AR,,,R,Mr.,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,https://www.nga.org/wp-content/uploads/2019/02/Asa_Hutchinson_400x400.jpg
@@ -7055,7 +7054,6 @@ VT,Windham-6,,D,Mr.,John,Gannon,,68 Hall Rd.,,Wilmington,VT,5363,Representative,
 VT,Windham-3,,D,Ms.,Leslie,Goldman,,115 State St.,,Montpelier,VT,05633-5301,Representative,https://legislature.vermont.gov/Documents/Legislators/Goldman.Leslie.jpg
 VT,Washington-1,,R,Mr.,Kenneth,Goslant,,P.O. Box 348,,Northfield,VT,5663,Representative,https://legislature.vermont.gov/Documents/Legislators/Goslant.Kenneth.jpg
 VT,Washington-7,,D,Ms.,Maxine,Grad,,115 State St.,,Montpelier,VT,05633-5301,Representative,https://legislature.vermont.gov/Documents/Legislators/Grad.Maxine.jpg
-AL,,,R,Mr.,Steve,Marshall,,State of Alabama,501 Washington Ave.,Montgomery,AL,36104,Attorney General,https://www.alabamaag.gov/images/front/SM2.jpg
 AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
 AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
 AR,,,R,Mrs.,Leslie,Rutledge,,State of Arkansas,"323 Center St., Suite 200",Little Rock,AR,72201,Attorney General,https://www.naag.org/attorney-general/leslie-rutledge/
@@ -7141,12 +7139,6 @@ AL,,16,R,Mr.,Jabo,Waggoner,,11 South Union Street,Suite 726,Montgomery,AL,36130-
 AL,,14,R,Ms.,April,Weaver,,11 South Union Street,Suite 733,Montgomery,AL,36130-4600,Senator,https://phs4j.com/alison/imgs/senate/Weaver_14.png
 AL,,27,R,Mr.,Jay,Hovey,,11 South Union Street,Suite 735,Montgomery,AL,36130-4600,Senator,https://www.legislature.state.al.us/pdf/house/members/Hoovey_27.png
 AL,,34,R,Mr.,Jack W.,Williams,,11 South Union Street,Suite 734,Montgomery,AL,36130-4600,Senator,https://phs4j.com/alison/imgs/senate/Williams_34.png
-AL,,,R,Mr.,Will,Ainsworth,,11 South Union Street,Suite 725,Montgomery,AL,36130-4600,Lt. Governor,https://phs4j.com/alison/imgs/senate/Ainsworth.png
-AL,,,R,Mr.,Clyde,Chambliss,,11 South Union Street,Suite 721,Montgomery,AL,36130-4600,Senate Majority Whip,https://phs4j.com/alison/imgs/senate/Chambliss_30.png
-AL,,,R,Mr.,Greg J.,Reed,,11 South Union Street,Suite 722,Montgomery,AL,36130-4600,Senate President Pro Tempore,https://www.legislature.state.al.us/pdf/senate/members/Reed_5.png
-AL,,,R,Mr.,Clay,Scofield,,11 South Union Street,Suite 719,Montgomery,AL,36130-4600,Senate Majority Leader,https://phs4j.com/alison/imgs/senate/Scofield_9.png
-AL,,,D,Mr.,Bobby D.,Singleton,,11 South Union Street,Suite 740,Montgomery,AL,36130-4600,Senate Minority Leader,https://phs4j.com/alison/imgs/senate/Singleton_24.png
-AL,,,R,Mr.,Wes,Allen,,Post Office Box 5616,,Montgomery,AL,36103-5616,Alabama Secretary of State,https://kwikletter.com/wp-content/uploads/2021/05/Alabama-State-Seal.png
 AL,56,,D,Mr.,Ontario,Tillman,,2326 2nd Avenue N,,Birmingham,AL,35020,Representative,https://www.legislature.state.al.us/pdf/house/members/Tillman_56.png
 AL,89,,R,Mr.,Marcus,Paramore,,Post Office Box 211,,Troy,AL,36081,Representative,https://www.legislature.state.al.us/pdf/house/members/Paramore_89.png
 AL,63,,R,Ms.,Cynthia,Almond,,11 South Union Street,Suite 528-A,Montgomery,AL,36130-2950,Representative,https://phs4j.com/alison/imgs/house/Almond_63.png
@@ -7252,5 +7244,13 @@ AL,104,,R,Ms.,Margie,Wilcox,,11 South Union Street,Suite 417-J,Montgomery,AL,361
 AL,62,,R,Mr.,Bill,Lamb,,7402 Marigold Lane,,Tuscaloosa,AL,35405,Representative,https://www.legislature.state.al.us/pdf/house/members/Lamb_62.png
 AL,36,,R,Mr.,Randy,Wood,,11 South Union Street,Suite 417 H,Montgomery,AL,36130-2950,Representative,https://www.legislature.state.al.us/pdf/house/members/Wood_36.png
 AL,38,,R,Ms.,Debbie,Wood,,11 South Union Street,Suite 527 C,Montgomery,AL,36104,Representative,https://www.legislature.state.al.us/pdf/house/members/Wood_38.png
+AL,,,R,Ms.,Kay,Ivey,,State Capitol,600 Dexter Avenue,Montgomery,AL,36130-2751,Governor,https://www.nga.org/wp-content/uploads/2018/03/ala_crop.jpg
+AL,,,R,Mr.,Will,Ainsworth,,State of Alabama,11 South Union Street Suite 725,Montgomery,AL,36130-4600,Lieutenant Governor,https://phs4j.com/alison/imgs/senate/Ainsworth.png
+AL,,,R,Mr.,Wes,Allen,,State of Alabama,Post Office Box 5616,Montgomery,AL,36103-5616,Secretary of State,https://www.sos.alabama.gov/themes/custom/sos/images/Wes-Allen.png
+AL,,,R,Mr.,Steve,Marshall,,State of Alabama,501 Washington Ave.,Montgomery,AL,36104,Attorney General,https://www.alabamaag.gov/images/front/SM2.jpg
 AL,,,R,Mr.,Nathaniel,Ledbetter,,11 South Union Street,Suite 401 G,Montgomery,AL,36130-2950,Speaker of the House,https://phs4j.com/alison/imgs/house/Ledbetter_24.png
 AL,,,R,Mr.,Chris,Pringle,,11 South Union Street,Suite 402,Montgomery,AL,36130-2950,Speaker Pro Tempore,https://phs4j.com/alison/imgs/house/Pringle_101.png
+AL,,,R,Mr.,Clyde,Chambliss,,11 South Union Street,Suite 721,Montgomery,AL,36130-4600,Senate Majority Whip,https://phs4j.com/alison/imgs/senate/Chambliss_30.png
+AL,,,R,Mr.,Greg J.,Reed,,11 South Union Street,Suite 722,Montgomery,AL,36130-4600,Senate President Pro Tempore,https://www.legislature.state.al.us/pdf/senate/members/Reed_5.png
+AL,,,R,Mr.,Clay,Scofield,,11 South Union Street,Suite 719,Montgomery,AL,36130-4600,Senate Majority Leader,https://phs4j.com/alison/imgs/senate/Scofield_9.png
+AL,,,D,Mr.,Bobby D.,Singleton,,11 South Union Street,Suite 740,Montgomery,AL,36130-4600,Senate Minority Leader,https://phs4j.com/alison/imgs/senate/Singleton_24.png
