@@ -2,7 +2,6 @@ State,Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Offi
 AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
 AZ,,,R,Mr.,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://www.nga.org/wp-content/uploads/2019/02/Ducey_400x400.png
 AR,,,R,Mr.,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,https://www.nga.org/wp-content/uploads/2019/02/Asa_Hutchinson_400x400.jpg
-CA,,,D,Mr.,Gavin ,Newsom,,State Capitol,Suite 1173,Sacramento,CA,95814,Governor,https://www.nga.org/wp-content/uploads/2019/06/GovGavinNewsom_400x400.png
 CO,,,D,Mr.,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,https://www.nga.org/wp-content/uploads/2019/01/Colorado-Jared-Polis-November-2019.jpg
 CT,,,D,Mr.,Ned ,Lamont,,210 Capitol Avenue,,Hartford,CT,6106,Governor,https://www.nga.org/wp-content/uploads/2019/02/Lamont_400x400.png
 DE,,,D,Mr.,John,Carney,,Legislative Hall,,Dover,DE,19901,Governor,https://www.nga.org/wp-content/uploads/2018/03/Governor-Carney-768x768.jpg
@@ -1211,126 +1210,6 @@ OR,57,,R,Mr.,Greg,Smith,,900 Court St NE,Room H-482,Salem,OR,97301,Representativ
 OR,58,,R,Ms.,Bobby,Levy,,900 Court St NE,Room H-376,Salem,OR,97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/levy.jpg
 OR,59,,R,Mr.,Daniel,Bonham,,900 Court St NE,Room H-390,Salem,OR,97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/bonham.jpg
 OR,60,,R,Mr.,Mark,Owens,,900 Court St NE,Room H-475,Salem,OR,97301,Representative,https://www.oregonlegislature.gov/house/MemberPhotos/owens.jpg
-CA,,1,R,Mr.,Brian,Dahle,,State Capital,Room 2054,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-dahle.jpg
-CA,,2,D,Mr.,Mike,McGuire,,State Capital,Room 5061,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg
-CA,,3,D,Mr.,Bill,Dodd,,State Capital,Room 2082,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sen_bill_dodd.jpg
-CA,,4,R,Mr.,Jim,Nielsen,,State Capital,Room 5064,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nielsen-jim.jpg
-CA,,5,D,Ms.,Susan Talamantes,Eggman,,State Capital,Room 4052,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd5_eggman.jpg
-CA,,6,D,Mr.,Richard,Pan,,State Capital,Room 5114,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pan-richard.jpg
-CA,,7,D,Mr.,Steven M.,Glazer,,State Capital,Room 5108,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg
-CA,,8,R,Mr.,Andreas,Borgeas,,State Capital,Room 3082,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/official_portrait_cropped_borgeas_4623_llsed1_2.jpg
-CA,,9,D,Ms.,Nancy,Skinner,,State Capital,Room 5094,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg
-CA,,10,D,Mr.,Bob,Wieckowski,,State Capital,Room 4085,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wieckowski_9781_lls.jpg
-CA,,11,D,Mr.,Scott D.,Wiener,,State Capital,Room 5100,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg
-CA,,12,D,Ms.,Anna M.,Caballero,,State Capital,Room 5052,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg
-CA,,13,D,Mr.,Josh,Becker,,State Capital,Room 3076,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg
-CA,,14,D,Ms.,Melissa,Hurtado,,State Capital,Room 4032,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg
-CA,,15,D,Mr.,Dave,Cortese,,State Capital,Room 3070,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg
-CA,,16,R,Ms.,Shannon,Grove,,State Capital,Room 3048,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg
-CA,,17,D,Mr.,John,Laird,,State Capital,Room 4040,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg
-CA,,18,D,Mr.,Robert M.,Hertzberg,,State Capital,Room 313,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hertzberg_0705_lls_hsedcr.jpg
-CA,,19,D,Ms.,Monique,Limon,,State Capital,Room 3092,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd19_limon.jpg
-CA,,20,D,Ms.,Connie M.,Leyva,,State Capital,Room 4061,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-leyva.jpg
-CA,,21,R,Mr.,Scott,Wilk,,State Capital,Room 305,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg
-CA,,22,D,Ms.,Susan,Rubio,,State Capital,Room 5035,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg
-CA,,23,R,Ms.,Rosilicie Ochoa,Bogh,,State Capital,Room 3056,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg
-CA,,24,D,Ms.,Maria Elena,Durazo,,State Capital,Room 2032,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg
-CA,,25,D,Mr.,Anthony J.,Portantino,,State Capital,Room 5050,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino_en_3444_lls_ed_v.jpg
-CA,,26,D,Mr.,Benjamin,Allen,,State Capital,Room 4076,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ben-allen.jpg
-CA,,27,D,Mr.,Henry I.,Stern,,State Capital,Room 5080,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg
-CA,,28,R,Ms.,Melissa A.,Melendez,,State Capital,Room 4082,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sen_melendez.jpg
-CA,,29,D,Mr.,Josh,Newman,,State Capital,Room 4066,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd29_newman.jpg
-CA,,30,D,Ms.,Sydney,Kamlager,,State Capital,Room 4062,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/kamlager-sydney-sd30.jpg
-CA,,31,D,Mr.,Richard D.,Roth,,State Capital,Room 2080,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg
-CA,,32,D,Mr.,Bob,Archuleta,,State Capital,Room 5066,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg
-CA,,33,D,Ms.,Lena A.,Gonzalez,,State Capital,Room 2068,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-lena-gonzalez.jpg
-CA,,34,D,Mr.,Thomas J.,Umberg,,State Capital,Room 5097,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg
-CA,,35,D,Mr.,Steven,Bradford,,State Capital,Room 2059,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg
-CA,,36,R,Ms.,Patricia C.,Bates,,State Capital,Room 3063,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bates-patricia.jpg
-CA,,37,D,Mr.,Dave,Min,,State Capital,Room 2048,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd37_min.jpg
-CA,,38,R,Mr.,Brian W.,Jones,,State Capital,Room 4088,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg
-CA,,39,D,Ms.,Toni G.,Atkins,,State Capital,Room 205,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pro-tem-atkins.jpg
-CA,,40,D,Mr.,Ben,Hueso,,State Capital,Room 4035,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hueso-ben.jpg
-CA,1,,R,Ms.,Megan,Dahle,,PO Box 942849,,Sacramento,CA,94249-0001,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif
-CA,2,,D,Mr.,Jim,Wood,,PO Box 942849,,Sacramento,CA,94249-0002,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm_wood_120_x_170.jpg
-CA,3,,R,Mr.,James,Gallagher,,PO Box 942849,,Sacramento,CA,94249-0003,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg
-CA,4,,D,Ms.,Cecilia M.,Aguiar-Curry,,PO Box 942849,,Sacramento,CA,94249-0004,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad04_aguiar-curry_roster150_20161205.jpg
-CA,5,,R,Mr.,Frank,Bigelow,,PO Box 942849,,Sacramento,CA,94249-0005,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD05-Frank_Bigelow.jpg
-CA,6,,R,Mr.,Kevin,Kiley,,PO Box 942849,,Sacramento,CA,94249-0006,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/kiley.jpg
-CA,7,,D,Mr.,Kevin,McCarty,,PO Box 942849,,Sacramento,CA,94249-0007,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD07_McCarty_Portrait150_20141201.jpg
-CA,8,,D,Mr.,Ken,Cooley,,PO Box 942849,,Sacramento,CA,94249-0008,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD08-Cooley_0.jpg
-CA,9,,D,Mr.,Jim,Cooper,,PO Box 942849,,Sacramento,CA,94249-0009,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD09_Cooper_Portrait150_20141201.jpg
-CA,10,,D,Mr.,Marc,Levine,,PO Box 942849,,Sacramento,CA,94249-0010,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD10-Levine_0.jpg
-CA,11,,D,Mr.,Jim,Frazier,,PO Box 942849,,Sacramento,CA,94249-0011,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11_frazier.jpg
-CA,12,,R,Mr.,Heath,Flora,,PO Box 942849,,Sacramento,CA,94249-0012,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg
-CA,13,,D,Mr.,Carlos,Villapudua,,PO Box 942849,,Sacramento,CA,94249-0013,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/villapudua-012-_1.jpg
-CA,14,,D,Mr.,Timothy S.,Grayson,,PO Box 942849,,Sacramento,CA,94249-0014,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg
-CA,15,,D,Ms.,Buffy,Wicks,,PO Box 942849,,Sacramento,CA,94249-0015,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15_b_wicks.jpg
-CA,16,,D,Ms.,Rebecca,Bauer-Kahan,,PO Box 942849,,Sacramento,CA,94249-0016,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg
-CA,17,,D,Mr.,David,Chiu,,PO Box 942849,,Sacramento,CA,94249-0017,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD17_Chiu_Portrait150_20141201.jpg
-CA,18,,,,Vacant,Seat,,PO Box 942849,,Sacramento,CA,94249-0018,Assemblymember,
-CA,19,,D,Mr.,Philip Y.,Ting,,PO Box 942849,,Sacramento,CA,94249-0019,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad19-ting_0.jpg
-CA,20,,D,Mr.,Bill,Quirk,,PO Box 942849,,Sacramento,CA,94249-0020,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad20.jpg
-CA,21,,D,Mr.,Adam C.,Gray,,PO Box 942849,,Sacramento,CA,94249-0021,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/gray.png
-CA,22,,D,Mr.,Kevin,Mullin,,PO Box 942849,,Sacramento,CA,94249-0022,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD22-Mullin.jpg
-CA,23,,R,Mr.,Jim,Patterson,,PO Box 942849,,Sacramento,CA,94249-0023,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD23-Jim_Patterson.jpg
-CA,24,,D,Mr.,Marc,Berman,,PO Box 942849,,Sacramento,CA,94249-0024,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg
-CA,25,,D,Mr.,Alex,Lee,,PO Box 942849,,Sacramento,CA,94249-0025,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg
-CA,26,,R,Mr.,Devon J.,Mathis,,PO Box 942849,,Sacramento,CA,94249-0026,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mathis.jpg
-CA,27,,D,Mr.,Ash,Kalra,,PO Box 942849,,Sacramento,CA,94249-0027,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad27_karla_roster150_20161205.jpg
-CA,28,,D,Mr.,Evan,Low,,PO Box 942849,,Sacramento,CA,94249-0028,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad28-low.jpg
-CA,29,,D,Mr.,Mark,Stone,,PO Box 942849,,Sacramento,CA,94249-0029,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad29.jpg
-CA,30,,D,Mr.,Robert,Rivas,,PO Box 942849,,Sacramento,CA,94249-0030,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a30_r_rivas.jpg
-CA,31,,D,Dr.,Joaquin,Arambula,,PO Box 942849,,Sacramento,CA,94249-0031,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm-arambula.jpg
-CA,32,,D,Mr.,Rudy,Salas,Jr.,PO Box 942849,,Sacramento,CA,94249-0032,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD32-Salas_0.jpg
-CA,33,,R,Mr.,Thurston,Smith,,PO Box 942849,,Sacramento,CA,94249-0033,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_smith.jpg
-CA,34,,R,Mr.,Vince,Fong,,PO Box 942849,,Sacramento,CA,94249-0034,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/fong.jpg
-CA,35,,R,Mr.,Jordan,Cunningham,,PO Box 942849,,Sacramento,CA,94249-0035,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/cunningham.jpg
-CA,36,,R,Mr.,Tom,Lackey,,PO Box 942849,,Sacramento,CA,94249-0036,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lackey.png
-CA,37,,D,Mr.,Steve,Bennett,,PO Box 942849,,Sacramento,CA,94249-0037,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/official_portrait_bennett.jpg
-CA,38,,R,Ms.,Suzette Martinez,Valladares,,PO Box 942849,,Sacramento,CA,94249-0038,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_valladares.jpg
-CA,39,,D,Ms.,Luz M.,Rivas,,PO Box 942849,,Sacramento,CA,94249-0039,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a39_l_rivas.jpg
-CA,40,,D,Mr.,James C.,Ramos,,PO Box 942849,,Sacramento,CA,94249-0040,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a40_jc_ramos.jpg
-CA,41,,D,Mr.,Chris R.,Holden,,PO Box 942849,,Sacramento,CA,94249-0041,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD41-Holden.jpg
-CA,42,,I,Mr.,Chad,Mayes,,PO Box 942849,,Sacramento,CA,94249-0042,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Mayes_LDC_headshot.jpg
-CA,43,,D,Ms.,Laura,Friedman,,PO Box 942849,,Sacramento,CA,94249-0043,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad43_friedman.jpg
-CA,44,,D,Ms.,Jacqui,Irwin,,PO Box 942849,,Sacramento,CA,94249-0044,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg
-CA,45,,D,Mr.,Jesse,Gabriel,,PO Box 942849,,Sacramento,CA,94249-0045,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jgabriel.jpg
-CA,46,,D,Mr.,Adrin,Nazarian,,PO Box 942849,,Sacramento,CA,94249-0046,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD46-Nazarian.jpg
-CA,47,,D,Ms.,Eloise Go_mez,Reyes,,PO Box 942849,,Sacramento,CA,94249-0047,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad47_reyes_roster150_20161205.jpg
-CA,48,,D,Ms.,Blanca E.,Rubio,,PO Box 942849,,Sacramento,CA,94249-0048,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg
-CA,49,,D,Mr.,Ed,Chau,,PO Box 942849,,Sacramento,CA,94249-0049,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD49-Chau.jpg
-CA,50,,D,Mr.,Richard,Bloom,,PO Box 942849,,Sacramento,CA,94249-0050,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD50-Bloom.jpg
-CA,51,,D,Ms.,Wendy,Carrillo,,PO Box 942849,,Sacramento,CA,94249-0051,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad51_carrillo_1.jpg
-CA,52,,D,Mr.,Freddie,Rodriguez,,PO Box 942849,,Sacramento,CA,94249-0052,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD52_Rodriguez_0.jpg
-CA,53,,D,Mr.,Miguel,Santiago,,PO Box 942849,,Sacramento,CA,94249-0053,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD53_Santiago_Portrait150_20141201.jpg
-CA,54,,,,Vacant,Seat,,PO Box 942849,,Sacramento,CA,94249-0054,Assemblymember,
-CA,55,,R,Mr.,Phillip,Chen,,PO Box 942849,,Sacramento,CA,94249-0055,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg
-CA,56,,D,Mr.,Eduardo,Garcia,,PO Box 942849,,Sacramento,CA,94249-0056,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD56_Garcia_Portrait150_20141201.jpg
-CA,57,,D,Mr.,Ian C.,Calderon,,PO Box 942849,,Sacramento,CA,94249-0057,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD57.jpg
-CA,58,,D,Ms.,Cristina,Garcia,,PO Box 942849,,Sacramento,CA,94249-0058,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm-c-garcia.jpg
-CA,59,,D,Mr.,Reginald B.,Jones-Sawyer,Sr.,PO Box 942849,,Sacramento,CA,94249-0059,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jones-sawyer-014-02-06-19.jpg
-CA,60,,D,Ms.,Sabrina,Cervantes,,PO Box 942849,,Sacramento,CA,94249-0060,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad60_cervantes_roster150_20161205.jpg
-CA,61,,D,Mr.,Jose,Medina,,PO Box 942849,,Sacramento,CA,94249-0061,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD61-Medina_0.jpg
-CA,62,,D,Ms.,Autumn R.,Burke,,PO Box 942849,,Sacramento,CA,94249-0062,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad62_burke2.jpg
-CA,63,,D,Mr.,Anthony,Rendon,,PO Box 942849,,Sacramento,CA,94249-0063,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad63-rendon_0.jpg
-CA,64,,D,Mr.,Mike A.,Gipson,,PO Box 942849,,Sacramento,CA,94249-0064,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg
-CA,65,,D,Ms.,Sharon,Quirk-Silva,,PO Box 942849,,Sacramento,CA,94249-0065,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva.jpg
-CA,66,,D,Mr.,Al,Muratsuchi,,PO Box 942849,,Sacramento,CA,94249-0066,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg
-CA,67,,R,Mr.,Kelly,Seyarto,,PO Box 942849,,Sacramento,CA,94249-0067,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/offical-state-headshot.jpg
-CA,68,,R,Mr.,Steven S.,Choi,Ph.D,PO Box 942849,,Sacramento,CA,94249-0068,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg
-CA,69,,D,Mr.,Tom,Daly,,PO Box 942849,,Sacramento,CA,94249-0069,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD69-Daly.jpg
-CA,70,,D,Mr.,Patrick,O'Donnell,,PO Box 942849,,Sacramento,CA,94249-0070,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD70_ODonnell_Portrait150_20141201.jpg
-CA,71,,R,Mr.,Randy,Voepel,,PO Box 942849,,Sacramento,CA,94249-0071,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/voepel.jpg
-CA,72,,R,Ms.,Janet,Nguyen,,PO Box 942849,,Sacramento,CA,94249-0072,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad72_janet_nguyen.jpg
-CA,73,,R,Ms.,Laurie,Davies,,PO Box 942849,,Sacramento,CA,94249-0073,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/arc_new_member_headshots_asm.ca_.gov_120x150px_davies.jpg
-CA,74,,D,Ms.,Cottie,Petrie-Norris,,PO Box 942849,,Sacramento,CA,94249-0074,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg
-CA,75,,R,Ms.,Marie,Waldron,,PO Box 942849,,Sacramento,CA,94249-0075,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD75-Marie_Waldron.jpg
-CA,76,,D,Ms.,Tasha,Boerner Horvath,,PO Box 942849,,Sacramento,CA,94249-0076,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a76_t_b_horvath.jpg
-CA,77,,D,Mr.,Brian,Maienschein,,PO Box 942849,,Sacramento,CA,94249-0077,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad77-brian_maienschein_120x150.jpg
-CA,78,,D,Mr.,Christopher M.,Ward,,PO Box 942849,,Sacramento,CA,94249-0078,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ward-006.jpg
-CA,79,,D,Ms.,Akilah,Weber,M.D.,PO Box 942849,,Sacramento,CA,94249-0079,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad79-weber.jpg
-CA,80,,D,Ms.,Lorena,Gonzalez,,PO Box 942849,,Sacramento,CA,94249-0080,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD80.jpg
 GA,,1,R,Mr.,Ben,Watson,,325-A Coverdell Legislative Office Building,,Atlanta,GA,30334,Senator,http://www.senate.ga.gov/SiteCollectionImages/WatsonBen784.jpg
 GA,,2,D,Mr.,Lester G.,Jackson,,110-B State Capitol,,Atlanta,GA,30334,Senator,http://www.senate.ga.gov/SiteCollectionImages/JacksonLester134.jpg
 GA,,3,R,Ms.,Sheila,McNeil,,303-B Coverdell Legislative Office Building,,Atlanta,GA,30334,Senator,https://www.legis.ga.gov/api/images/default-source/portraits/mcneill-sheila-4976.jpg
@@ -7057,7 +6936,6 @@ VT,Washington-7,,D,Ms.,Maxine,Grad,,115 State St.,,Montpelier,VT,05633-5301,Repr
 AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
 AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
 AR,,,R,Mrs.,Leslie,Rutledge,,State of Arkansas,"323 Center St., Suite 200",Little Rock,AR,72201,Attorney General,https://www.naag.org/attorney-general/leslie-rutledge/
-CA,,,D,Mr.,Rob,Bonta,,State of California,PO Box 944255,Sacramento,CA,94244-2550,Attorney General,https://oag.ca.gov/sites/default/files/media/ag-bonta-official.jpg
 CO,,,D,Mr.,Phil,Weiser,,State of Colorado,"1300 Broadway, 10th Floor",Denver,CO,80203,Attorney General,https://coag.gov/app/uploads/2019/06/phil-weiser-pillars-copy.png
 CT,,,D,Mr.,William,Tong,,State of Connecticut,165 Capitol Avenue,Hartford,CT,6106,Attorney General,http://www.naag.org/wp-content/uploads/2020/09/ag-CT-tong2.jpg
 DE,,,D,Ms. ,Kathy,Jennings,,State of Deleware,820 N French St,Wilmington,DE,19801,Attorney General,https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2018/12/7E284096-FF7D-4BE0-89D4-BC54130D8476.jpg
@@ -7254,3 +7132,131 @@ AL,,,R,Mr.,Clyde,Chambliss,,11 South Union Street,Suite 721,Montgomery,AL,36130-
 AL,,,R,Mr.,Greg J.,Reed,,11 South Union Street,Suite 722,Montgomery,AL,36130-4600,Senate President Pro Tempore,https://www.legislature.state.al.us/pdf/senate/members/Reed_5.png
 AL,,,R,Mr.,Clay,Scofield,,11 South Union Street,Suite 719,Montgomery,AL,36130-4600,Senate Majority Leader,https://phs4j.com/alison/imgs/senate/Scofield_9.png
 AL,,,D,Mr.,Bobby D.,Singleton,,11 South Union Street,Suite 740,Montgomery,AL,36130-4600,Senate Minority Leader,https://phs4j.com/alison/imgs/senate/Singleton_24.png
+CA,,1,R,Mr.,Brian,Dahle,,1021 O Street,Suite 7230,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-dahle.jpg
+CA,,2,D,Mr.,Mike,McGuire,,1021 O Street,Suite 8610,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg
+CA,,3,D,Mr.,Bill,Dodd,,1021 O Street,Suite 7610,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sen_bill_dodd.jpg
+CA,,4,D,Ms.,Marie,Alvarado-Gil,,1021 O Street,Suite 7240,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/alvarado-gill_marie_d-04.jpg
+CA,,5,D,Ms.,Susan Talamantes,Eggman,,1021 O Street,Suite 8530,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/eggman-susan.jpg
+CA,,6,R,Mr.,Roger W.,Niello,,1021 O Street,Suite 7110,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/niello_roger_r-06.jpg
+CA,,7,D,Mr.,Steven M.,Glazer,,1021 O Street,Suite 7520,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg
+CA,,8,D,Ms.,Angelique V.,Ashby,,1021 O Street,Suite 7320,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ashby_angelique_d-08.jpg
+CA,,9,D,Ms.,Nancy,Skinner,,1021 O Street,Suite 8630,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg
+CA,,10,D,Ms. ,Aisha,Wahab,,1021 O Street,Suite 7330,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg
+CA,,11,D,Mr.,Scott D.,Wiener,,1021 O Street,Suite 8620,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg
+CA,,12,R,Ms.,Shannon,Grove,,1021 O Street,Suite 7150,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg
+CA,,13,D,Mr.,Josh,Becker,,1021 O Street,Suite 7250,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg
+CA,,14,D,Ms.,Anna M.,Caballero,,1021 O Street,Suite 7620,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg
+CA,,15,D,Mr.,Dave,Cortese,,1021 O Street,Suite 6630,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg
+CA,,16,D,Ms.,Melissa,Hurtado,,1021 O Street,Suite 7310,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg
+CA,,17,D,Mr.,John,Laird,,1021 O Street,Suite 8720,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg
+CA,,18,D,Mr.,Steve,Padilla,,1021 O Street,Suite 6640,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/padilla_steve_d-18.jpg
+CA,,19,D,Ms.,Monique,Limon,,1021 O Street,Suite 6510,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg
+CA,,20,D,Ms.,Caroline,Menjivar,,1021 O Street,Suite 6720,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/menjivar_caroline_d-20.jpg
+CA,,21,R,Mr.,Scott,Wilk,,1021 O Street,Suite 7140,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg
+CA,,22,D,Ms.,Susan,Rubio,,1021 O Street,Suite 8710,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg
+CA,,23,R,Ms.,Rosilicie Ochoa,Bogh,,1021 O Street,Suite 7220,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg
+CA,,24,D,Mr.,Benjamin,Allen,,1021 O Street,Suite 6610,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg
+CA,,25,D,Mr.,Anthony J.,Portantino,,1021 O Street,Suite 7630,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino_0331_lscr.jpg
+CA,,26,D,Ms.,Maria Elena,Durazo,,1021 O Street,Suite 7530,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg
+CA,,27,D,Mr.,Henry I.,Stern,,1021 O Street,Suite 7710,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg
+CA,,28,D,Ms.,Lola,Smallwood-Cuevas,,1021 O Street,Suite 6730,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg
+CA,,29,D,Mr.,Josh,Newman,,1021 O Street,Suite 6520,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd29_newman.jpg
+CA,,30,D,Mr.,Bob,Archuleta,,1021 O Street,Suite 6620,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg
+CA,,31,D,Mr.,Richard D.,Roth,,1021 O Street,Suite 7510,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg
+CA,,32,R,Mr.,Kelly,Seyarto,,1021 O Street,Suite 7120,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/seyarto_kelly_r-32c.jpg
+CA,,33,D,Ms.,Lena A.,Gonzalez,,1021 O Street,Suite 7720,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-lena-gonzalez.jpg
+CA,,34,D,Mr.,Thomas J.,Umberg,,1021 O Street,Suite 6530,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg
+CA,,35,D,Mr.,Steven,Bradford,,1021 O Street,Suite 7210,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg
+CA,,36,R,Ms.,Janet,Nguyen,,1021 O Street,Suite 7130,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nguyen_janet_r-36.jpg
+CA,,37,D,Mr.,Dave,Min,,1021 O Street,Suite 6710,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd37_min.jpg
+CA,,38,D,Ms.,Catherine,Blakespear,,1021 O Street,Suite 7340,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/blakespear_catherine_d-38.jpg
+CA,,39,D,Ms.,Toni G.,Atkins,,1021 O Street,Suite 8518,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_018_after_09-28-20.jpg
+CA,,40,R,Mr.,Brian W.,Jones,,1021 O Street,Suite 7640,Sacramento,CA,95814-4900,Senator,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg
+CA,1,,R,Ms.,Megan,Dahle,,P.O. Box 94249-0001,,Sacramento,CA,94249-0001,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD01_MegahDahle_17.jpg?itok=CTHWX-Bm
+CA,2,,D,Mr.,Jim,Wood,,P.O. Box 94249-0002,,Sacramento,CA,94249-0002,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Wood-Official%2520Photo%25202022-23.jpg?itok=vTudkodZ
+CA,3,,R,Mr.,James,Gallagher,,P.O. Box 94249-0003,,Sacramento,CA,94249-0003,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD03_James_Gallagher_Headshot_0.jpg?itok=ijOtImaN
+CA,4,,D,Ms.,Cecilia M.,Aguiar-Curry,,P.O. Box 94249-0004,,Sacramento,CA,94249-0004,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-04%2520Aguiar-Curry_C18_14.jpg?itok=xdDaV6Oc
+CA,5,,R,Mr.,Joe,Patterson,,P.O. Box 94249-0005,,Sacramento,CA,94249-0005,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Patterson_A25I1438_4.jpg?itok=5FNho_1P
+CA,6,,D,Mr.,Kevin,McCarty,,P.O. Box 94249-0006,,Sacramento,CA,94249-0006,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/McCarty%2520%2520013_13.jpg?itok=kPYVPcY7
+CA,7,,R,Mr.,Josh,Hoover,,P.O. Box 94249-0007,,Sacramento,CA,94249-0007,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD07_Josh_Hoover_Headshot_ASMRC_0.jpg?itok=j8IYWNHU
+CA,8,,R,Mr.,Jim,Patterson,,P.O. Box 94249-0008,,Sacramento,CA,94249-0008,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD08_JimPatterson_17.jpg?itok=WhfTvrP5
+CA,9,,R,Mr.,Flora,Heath,,P.O. Box 94249-0009,,Sacramento,CA,94249-0009,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD09_HeathFlora_16.jpg?itok=MDwX2NfS
+CA,10,,D,Ms.,Stephanie,Nguyen,,P.O. Box 94249-0010,,Sacramento,CA,94249-0010,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Nguyen%2520515%252011-30-22_4.jpg?itok=6GnRNoSA
+CA,11,,D,Ms.,Lori,Wilson,,P.O. Box 94249-0011,,Sacramento,CA,94249-0011,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Wilson%2520006%2520Portraits_0_12.jpeg?itok=LXujZEoj
+CA,12,,D,Mr.,Damon,Connolly,,P.O. Box 94249-0012,,Sacramento,CA,94249-0012,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Connolly%2520509%252011-30-22_18.jpg?itok=p1I4hbVi
+CA,13,,D,Mr.,Carlos,Villapudua,,P.O. Box 94249-0013,,Sacramento,CA,94249-0013,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Villapudua%2520Approved%2520Headshot%25202022.jpg?itok=c52Bxt5e
+CA,14,,D,Ms.,Buffy,Wicks,,P.O. Box 94249-0014,,Sacramento,CA,94249-0014,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/BW18-Buffy%2520overlooking%2520District_4.jpg?itok=xBs8XBkv
+CA,15,,D,Mr.,Timothy,Grayson,,P.O. Box 94249-0015,,Sacramento,CA,94249-0015,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-14%2520Grayson_T17_12.jpg?itok=Ah1Focgu
+CA,16,,D,Ms.,Rebecca,Bauer-Kahan,,P.O. Box 94249-0016,,Sacramento,CA,94249-0016,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Bauer-Kahan%2520708%2520SG_12.jpg?itok=fDhEoLF7
+CA,17,,D,Mr.,Matt,Haney,,P.O. Box 94249-0017,,Sacramento,CA,94249-0017,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/HaneyHeadshot%2520_4.jpg?itok=DuvGlVcQ
+CA,18,,D,Ms.,Mia,Bonta,,P.O. Box 94249-0018,,Sacramento,CA,94249-0018,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Bonta%2520M._portraits%2520Edit%2520155%2520%252011-5-21_4.jpg?itok=kWDKu8a9
+CA,19,,D,Mr.,Philip Y.,Ting,,P.O. Box 94249-0019,,Sacramento,CA,94249-0019,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Ting_Portrait_2020_-_Horizontal_5.jpg?itok=9Sj1bQDs
+CA,20,,D,Ms.,Liz,Ortega,,P.O. Box 94249-0020,,Sacramento,CA,94249-0020,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Ortega%2520004%252011-30-22_16.jpg?itok=ZSkTx78O
+CA,21,,D,Ms.,Diane,Papan,,P.O. Box 94249-0021,,Sacramento,CA,94249-0021,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Papan%2520002%252011-30-22_0_11.jpg?itok=jG3dHJDJ
+CA,22,,R,Mr.,Juan,Alanis,,P.O. Box 94249-0022,,Sacramento,CA,94249-0022,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Alanis%2520A25I1397_5.jpg?itok=RzEqf0w6
+CA,23,,D,Mr.,Marc,Berman,,P.O. Box 94249-0023,,Sacramento,CA,94249-0023,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Berman%2520Headshot%25202021_11.jpg?itok=PvPYl3Lc
+CA,24,,D,Mr.,Alex,Lee,,P.O. Box 94249-0024,,Sacramento,CA,94249-0024,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Asm.%2520Alex%2520Lee_0.jpg?itok=k6xLO_v1
+CA,25,,D,Mr.,Ash,Kalra,,P.O. Box 94249-0025,,Sacramento,CA,94249-0025,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-27%2520Kalra_A16_10.jpg?itok=HohwdSsX
+CA,26,,D,Mr.,Evan,Low,,P.O. Box 94249-0026,,Sacramento,CA,94249-0026,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-28%2520Low_E17_10.jpg?itok=zXb6uOOv
+CA,27,,D,Ms.,Esmeralda,Soria,,P.O. Box 94249-0027,,Sacramento,CA,94249-0027,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Soria%2520025%2520edit%252011-29-22_9.jpg?itok=bPYH8Dp5
+CA,28,,D,Ms.,Gail,Pellerin,,P.O. Box 94249-0028,,Sacramento,CA,94249-0028,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Pellerin%2520502%252011-30-22_9.jpg?itok=weBODtTJ
+CA,29,,D,Mr.,Robert,Rivas,,P.O. Box 94249-0029,,Sacramento,CA,94249-0029,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-30%2520Rivas_R19_10.jpg?itok=pzisvd_D
+CA,30,,D,Ms.,Dawn,Addis,,P.O. Box 94249-0030,,Sacramento,CA,94249-0030,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Addis%2520003%252011-30-22_8.jpg?itok=MX-vn2TI
+CA,31,,D,Dr.,Joaquin,Arambula,M.D.,P.O. Box 94249-0031,,Sacramento,CA,94249-0031,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/1st%2520choice_Arambula_Headshot_9.jpg?itok=lHB-YNKR
+CA,32,,R,Mr.,Vince,Fong,,P.O. Box 94249-0032,,Sacramento,CA,94249-0032,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD32_Vince_Fong_4.jpg?itok=Cf0qhrpN
+CA,33,,R,Mr.,Devon,Mathis,,P.O. Box 94249-0033,,Sacramento,CA,94249-0033,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD33_DevonMathis_16.jpg?itok=8rOMCR_O
+CA,34,,R,Mr.,Tom,Lackey,,P.O. Box 94249-0034,,Sacramento,CA,94249-0034,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD34_Tom_Lackey_Headshot_0.jpg?itok=5at0A2JK
+CA,35,,D,Ms.,Jasmeet,Bains,,P.O. Box 94249-0035,,Sacramento,CA,94249-0035,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/DrJBains.jpg?itok=ZuPOkWm1
+CA,36,,D,Mr.,Eduardo,Garcia,,P.O. Box 94249-0036,,Sacramento,CA,94249-0036,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-56%2520Garcia_E14_8.jpg?itok=KKMQDXXp
+CA,37,,D,Mr.,Gregg,Hart,,P.O. Box 94249-0037,,Sacramento,CA,94249-0037,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Hart%2520027%252011-30-22_16.jpg?itok=NEeEsnDS
+CA,38,,D,Mr.,Steve,Bennett,,P.O. Box 94249-0038,,Sacramento,CA,94249-0038,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Bennett-003_8.jpg?itok=bEfbMUtY
+CA,39,,D,Mr.,Juan,Carrillo,,P.O. Box 94249-0039,,Sacramento,CA,94249-0039,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Carrillo%2520001%252011-30-29_8.jpg?itok=XulGa9xS
+CA,40,,D,Ms.,Pilar,Schiavo,,P.O. Box 94249-0040,,Sacramento,CA,94249-0040,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Schiavo%2520030%252011-29-22_8.jpg?itok=3ET44nbd
+CA,41,,D,Mr.,Chris R.,Holden,,P.O. Box 94249-0041,,Sacramento,CA,94249-0041,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-41%2520Holden_C12_8.jpg?itok=XWa8FBL1
+CA,42,,D,Ms.,Jacqui,Irwin,,P.O. Box 94249-0042,,Sacramento,CA,94249-0042,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-40%2520Irwin_J_7.jpg?itok=rsLgQKH7
+CA,43,,D,Ms.,Luz,Rivas,,P.O. Box 94249-0043,,Sacramento,CA,94249-0043,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Rivas%2520704e_7.png?itok=7WdTpnsN
+CA,44,,D,Ms.,Laura,Friedman,,P.O. Box 94249-0044,,Sacramento,CA,94249-0044,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Friedman_7.jpeg?itok=OQiN97m9
+CA,45,,D,Mr.,James,Ramos,,P.O. Box 94249-0045,,Sacramento,CA,94249-0045,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Ramos%2520003_7.jpg?itok=lwuF-ae2
+CA,46,,D,Mr.,Jesse,Gabriel,,P.O. Box 94249-0046,,Sacramento,CA,94249-0046,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Gabriel_7.jpg?itok=Mgym5YG4
+CA,47,,R,Mr.,Greg,Wallis,,P.O. Box 94249-0047,,Sacramento,CA,94249-0047,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Wallis%252C%2520Greg_5.jpg?itok=TghS9yIt
+CA,48,,D,Ms.,Blanca E.,Rubio,,P.O. Box 94249-0048,,Sacramento,CA,94249-0048,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-48%2520Rubio_B16_7.jpg?itok=4rxCMoBz
+CA,49,,D,Mr.,Mike,Fong,,P.O. Box 94249-0049,,Sacramento,CA,94249-0049,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Fong%2520M.%2520037%25202022_7.jpg?itok=f3keUg0Q
+CA,50,,D,Ms.,Eloise,Reyes,,P.O. Box 94249-0050,,Sacramento,CA,94249-0050,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-47%2520Reyes_E17_6.jpg?itok=E4X3qC1j
+CA,51,,D,Mr.,Rick Chavez,Zbur,,P.O. Box 94249-0051,,Sacramento,CA,94249-0051,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Chavez-Zbur%2520510%252011-30-22_5.jpg?itok=0FJtR_Gm
+CA,52,,D,Ms.,Wendy,Carrillo,,P.O. Box 94249-0052,,Sacramento,CA,94249-0052,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Carrillo%2520%2520707e_6.jpg?itok=n7jWqdgm
+CA,53,,D,Mr.,Freddie,Rodriguez,,P.O. Box 94249-0053,,Sacramento,CA,94249-0053,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-52%2520Rodriguez_F_19_6.jpg?itok=tUpMh-1T
+CA,54,,D,Mr.,Miguel,Santiago,,P.O. Box 94249-0054,,Sacramento,CA,94249-0054,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-53%2520Santiago_M14_6.jpg?itok=zKbwzVJp
+CA,55,,D,Mr.,Isaac,Bryan,,P.O. Box 94249-0055,,Sacramento,CA,94249-0055,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Bryan%2520003%2520Portraits%252007-12-21_8.jpg?itok=KMnL5yfM
+CA,56,,D,Ms.,Lisa,Calderon,,P.O. Box 94249-0056,,Sacramento,CA,94249-0056,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Calderon-003_6.jpg?itok=TTsr9Mgb
+CA,57,,D,Mr.,Reginald Byron,Jones-Sawyer,,P.O. Box 94249-0057,,Sacramento,CA,94249-0057,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-59%2520Jones-Sawyer_R12_7.jpg?itok=UryAizKr
+CA,58,,D,Ms.,Sabrina,Cervantes,,P.O. Box 94249-0058,,Sacramento,CA,94249-0058,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-60%2520Cervantes_S16_6.jpg?itok=johdDuxg
+CA,59,,R,Mr.,Philip,Chen,,P.O. Box 94249-0059,,Sacramento,CA,94249-0059,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD59_PhillipChen_5.jpg?itok=fuJgoEqQ
+CA,60,,D,Ms.,Corey,Jackson,M.D.,P.O. Box 94249-0060,,Sacramento,CA,94249-0060,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Jackson%2520027%252011-30-22_19.jpg?itok=3IfpNkiS
+CA,61,,D,Ms.,Tina,McKinnor,,P.O. Box 94249-0061,,Sacramento,CA,94249-0061,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Asm%2520Tina%2520McKinnor%2520Headshot.jpg?itok=u5OMbMTD
+CA,62,,D,Mr.,Anthony,Rendon,,P.O. Box 94249-0062,,Sacramento,CA,94249-0062,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Rendon%2520034_5.jpg?itok=YFs8IXs4
+CA,63,,R,Mr.,Bill,Essayli,,P.O. Box 94249-0063,,Sacramento,CA,94249-0063,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Essayli%2520A25I1292_5.jpg?itok=GzwDNYrK
+CA,64,,D,Ms.,Blanca,Pacheco,,P.O. Box 94249-0064,,Sacramento,CA,94249-0064,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Pachecho%2520007%252011-30-22_5.jpg?itok=nO0vvqAa
+CA,65,,D,Mr.,Mike,Gipson,,P.O. Box 94249-0065,,Sacramento,CA,94249-0065,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-64%2520Gipson_M17_6.jpg?itok=gvRRLsD2
+CA,66,,D,Mr.,Al,Muratsuchi,,P.O. Box 94249-0066,,Sacramento,CA,94249-0066,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-66%2520Muratsuchi_A16_5.jpg?itok=zQ3iThTM
+CA,67,,D,Ms.,Sharon,Quirk-Silva,,P.O. Box 94249-0067,,Sacramento,CA,94249-0067,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Quirk-Silva%2520036%252003-19-19_5.jpg?itok=92SF8Q1Z
+CA,68,,R,Mr.,Avelino,Valencia,,P.O. Box 94249-0068,,Sacramento,CA,94249-0068,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Valencia%2520518%252011-30-22_5.jpg?itok=qLOFFZpX
+CA,69,,D,Mr.,Josh,Lowenthal,,P.O. Box 94249-0069,,Sacramento,CA,94249-0069,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Lowenthal%2520009%252011-30-22_5.jpg?itok=ri9rdhbg
+CA,70,,R,Mr.,Tri,Ta,,P.O. Box 94249-0070,,Sacramento,CA,94249-0070,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Tri%2520Ta%2520A25I1353_5.jpg?itok=n8qvUUQu
+CA,71,,R,Ms.,Kate,Sanchez,,P.O. Box 94249-0071,,Sacramento,CA,94249-0071,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Sanchez%2520A25I1518_5.jpg?itok=s2MZG2Cy
+CA,72,,R,Ms.,Diane,Dixon,,P.O. Box 94249-0072,,Sacramento,CA,94249-0072,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Dixon%2520A25I1340_5.jpg?itok=qMpDZAW-
+CA,73,,D,Ms.,Cottie,Petrie-Norris,,P.O. Box 94249-0073,,Sacramento,CA,94249-0073,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/1%2520Petrie-Norris%2520%2520033%25202019%2520after_5.jpg?itok=nX1ii7-d
+CA,74,,R,Ms.,Laurie,Davies,,P.O. Box 94249-0074,,Sacramento,CA,94249-0074,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD74_Laurie_Davies_Headshot_0.jpg?itok=8tz-Qc9C
+CA,75,,R,Ms.,Marie,Waldron,,P.O. Box 94249-0075,,Sacramento,CA,94249-0075,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD75_MarieWaldron_7.jpeg?itok=ENSb0iiC
+CA,76,,D,Mr.,Brian,Maienschein,,P.O. Box 94249-0076,,Sacramento,CA,94249-0076,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD-77%2520Brian%2520Maienschein_5.jpg?itok=C2lHHg_z
+CA,77,,D,Ms.,Tasha,Boerner Horvath,,P.O. Box 94249-0077,,Sacramento,CA,94249-0077,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Tasha%2520Boerner%2520Horvath%25202022_5.jpg?itok=Zj0xh3HD
+CA,78,,D,Mr.,Christopher M.,Ward,,P.O. Box 94249-0078,,Sacramento,CA,94249-0078,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Tasha%2520Boerner%2520Horvath%25202022_5.jpg?itok=Zj0xh3HD
+CA,79,,D,Ms.,Akilah,Weber,M.D.,P.O. Box 94249-0079,,Sacramento,CA,94249-0079,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Weber_A._005_6.jpg?itok=xsyRNq3k
+CA,80,,D,Mr.,David,Alvarez,,P.O. Box 94249-0080,,Sacramento,CA,94249-0080,Assemblymember,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Alvarez%2520008%252006-16-22_4.jpg?itok=GdejvPgB
+CA,,,D,Mr.,Gavin,Newsom,,1021 O Street,Suite 9000,Sacramento,CA,95814,Governor,https://www.nga.org/wp-content/uploads/2019/09/1200px-Gavin_Newsom_official_photo_square.jpg
+CA,,,D,Ms.,Eleni,Kounalakis,,State of California,"1021 O Street, Ste 8730",Sacramento,CA,95814,Lieutenant Governor,https://ltg.ca.gov/wp-content/uploads/sites/247/2018/12/Eleni-Kounalakis.jpg?emrc=63e1a78f69ee4
+CA,,,D,Mr.,Bob,Bonta,,State of California,1300 I St. Ste 1740,Sacramento,CA,95814,Attorney General,https://oag.ca.gov/sites/default/files/media/ag-bonta-official.jpg
+CA,,,D,Ms.,Shirley N.,Weber,Ph.D.,State of California,1500 11th Street,Sacramento,CA,95814,Secretary of State,https://admin.cdn.sos.ca.gov/img/weber.jpg
+CA,,,D,Mr.,Anthony,Rendon,,P.O. Box 94249-0062,,Sacramento,CA,94249-0062,Speaker of the House,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/Rendon%2520034_5.jpg?itok=YFs8IXs4
+CA,,,R,Mr.,James,Gallagher,,P.O. Box 94249-0003,,Sacramento,CA,94249-0003,Republican Leader,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD03_James_Gallagher_Headshot_0.jpg?itok=ijOtImaN
+CA,,,D,Ms.,Toni G.,Atkins,,1021 O Street,Suite 8518,Sacramento,CA,95814-4900,President pro Tempore,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_018_after_09-28-20.jpg
+CA,,,R,Mr.,Brian W.,Jones,,1021 O Street,Suite 7640,Sacramento,CA,95814-4900,Minority Leader,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg
