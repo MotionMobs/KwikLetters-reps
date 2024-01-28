@@ -1,6 +1,6 @@
 State,Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
 AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
-AZ,,,R,Mr.,Doug,Ducey,,State Capitol,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://www.nga.org/wp-content/uploads/2019/02/Ducey_400x400.png
+AZ,,,D,Ms.,Katie,Hobbs,,Office of the Governor,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://azgovernor.gov/sites/default/files/styles/panopoly_image_original/public/governor-katie-hobbs_0.jpg?itok=r6glxMjv
 AR,,,R,Mr.,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,https://www.nga.org/wp-content/uploads/2019/02/Asa_Hutchinson_400x400.jpg
 CO,,,D,Mr.,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,https://www.nga.org/wp-content/uploads/2019/01/Colorado-Jared-Polis-November-2019.jpg
 CT,,,D,Mr.,Ned ,Lamont,,210 Capitol Avenue,,Hartford,CT,6106,Governor,https://www.nga.org/wp-content/uploads/2019/02/Lamont_400x400.png
@@ -2225,96 +2225,6 @@ WY,57,,R,Mr.,Chuck,Gray,,PO Box 51842,,Casper,WY,82605,Representative,https://wy
 WY,58,,R,Mr.,Pat,Sweeney,,P.O. Box 1325,,Casper,WY,82602,Representative,https://wyoleg.gov/LegislatorSummary/Photos/66th-SweeneyPat.jpg
 WY,59,,R,Mr.,Kevin,O Hearn,,P.O. Box 52,,Mills,WY,82644,Representative,https://wyoleg.gov/LegislatorSummary/Photos/66th-OHearnKevin.jpg
 WY,60,,R,Mr.,Mark,Baker,,P.O. Box 998,,Green River,WY,82935,Representative,https://wyoleg.gov/LegislatorSummary/Photos/66th-BakerMark.jpg
-AZ,,1,R,Ms.,Karen,Fann,,1700 W Washington St,Room 205,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/FANN.jpg
-AZ,,2,D,Ms.,Rosanna,Galbaldon,,1700 W Washington St,Room 303B,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/GABALDON.jpg
-AZ,,3,D,Ms.,Sally Ann,Gonzales,,1700 W Washington St,Room 314,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/GONZALES.gif
-AZ,,4,D,Ms.,Lisa,Otondo,,1700 W Washington St,Room 315,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/OTONDO.gif
-AZ,,5,R,Mr.,Sonny,Borrelli,,1700 W Washington St,Room 212,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/BORRELLI.png
-AZ,,6,R,Ms.,Wendy,Rogers,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg
-AZ,,7,D,Ms.,Jamescita,Peshlakai,,1700 W Washington St,Room 314,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/PESHLAKAI.jpg
-AZ,,8,R,Mr.,Thomas,Shope,,1700 W Washington St,Room 310,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/SHOPE.png
-AZ,,9,D,Ms.,Victoria,Steele,,1700 W Washington St,Room 213,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/STEELE.gif
-AZ,,10,D,Ms.,Kirsten,Engel,,1700 W Washington St,Room 315,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ENGEL.gif
-AZ,,11,R,Mr.,Vince,Leach,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/LEACH.jpg
-AZ,,12,R,Mr.,Warren,Peterson,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/PETERSEN.jpg
-AZ,,13,R,Ms.,Sine,Kerr,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/KERR.jpg
-AZ,,14,R,Mr.,David,Gowan,,1700 W Washington St,Room 200,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/GOWAN.jpg
-AZ,,15,R,Ms.,Nancy,Barto,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/BARTO.jpg
-AZ,,16,R,Ms.,Kelly,Townsend,,1700 W Washington St,Room 301,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/TOWNSEND.jpg
-AZ,,17,R,Mr.,J.D.,Mesnard,,1700 W Washington St,Room 309,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/MESNARD.jpg
-AZ,,18,D,Mr.,Sean,Bowie,,1700 W Washington St,Room 308,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/BOWIE.jpg
-AZ,,19,D,Mr.,Lupe,Contreras,,1700 W Washington St,Room 305,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/CONTRERAS.gif
-AZ,,20,R,Mr.,Paul,Boyer,,1700 W Washington St,Room 307,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/BOYER.gif
-AZ,,21,R,Mr.,Rick,Gray,,1700 W Washington St,Room 212,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/GRAY.jpg
-AZ,,22,R,Mr.,David,Livingston,,1700 W Washington St,Room 300,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/LIVINGSTON.jpg
-AZ,,23,R,Ms.,Michelle,Ugenti-Rita,,1700 W Washington St,Room 306,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/UGENTI-RITA.png
-AZ,,24,D,Ms.,Lela,Alston,,1700 W Washington St,Room 311,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/ALSTON.jpg
-AZ,,25,R,Mr.,Tyler,Pace,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/PACE.jpg
-AZ,,26,D,Mr.,Juan,Mendez,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/MENDEZ.gif
-AZ,,27,D,Ms.,Rebecca,Rios,,1700 W Washington St,Room 213,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/RIOS.gif
-AZ,,28,D,Ms.,Christine,Marsh,,1700 W Washington St,Room 311,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/MARSH.jpg
-AZ,,29,D,Mr.,Martin,Quezada,,1700 W Washington St,Room 312,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/QUEZADA.gif
-AZ,,30,D,Mr.,Tony,Navarrete,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/54leg/Senate/NAVARRETE.gif
-AZ,1,,R,Ms.,Judy M.,Burges,,1700 W Washington St,Room 130,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BURGES.jpg
-AZ,1,,R,Mr.,Quang H.,Nguyen,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg
-AZ,2,,D,Ms.,Andrea,Dalessandro,,1700 W Washington St,Room 325,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DALESSANDRO.jpg
-AZ,2,,D,Mr.,Daniel,Hernandez,Jr.,1700 W Washington St,Room 324,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/HERNANDEZ_D.jpg
-AZ,3,,D,Ms.,Andres,Cano,,1700 W Washington St,Room 332,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/CANO.jpg
-AZ,3,,D,Ms.,Alma,Hernandez,,1700 W Washington St,Room 122,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/HERNANDEZ_A.jpg
-AZ,4,,D,Ms.,Charlene R.,Fernandez,,1700 W Washington St,Room 320,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/FERNANDEZ.gif
-AZ,4,,R,Mr.,Joel,John,,1700 W Washington St,Room 306,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/JOHN.jpg
-AZ,5,,R,Mr.,Leo,Biasiucci,,1700 W Washington St,Room 341,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BIASIUCCI.jpg
-AZ,5,,R,Ms.,Regina E.,Cobb,,1700 W Washington St,Room 222,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/COBB.gif
-AZ,6,,R,Ms.,Brenda,Barton,,1700 W Washington St,Room 309,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BARTON.jpg
-AZ,6,,R,Mr.,Walter,Blackman,,1700 W Washington St,Room 345,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BLACKMAN.jpg
-AZ,7,,D,Ms.,Jasmine,Blackwater-Nygren,,1700 W Washington St,Room 126,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BLACKWATER-NYGR.jpg
-AZ,7,,D,Mr.,Myron,Tsosie,,1700 W Washington St,Room 326,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/TSOSIE.jpg
-AZ,8,,R,Mr.,David L.,Cook,,1700 W Washington St,Room 309,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/COOK.jpg
-AZ,8,,R,Mr.,Frank,Pratt,,1700 W Washington St,Room 113,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PRATT.jpg
-AZ,9,,D,Mr.,Randall,Friese,,1700 W Washington St,Room 115,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/FRIESE.gif
-AZ,9,,D,Ms.,Pamela,Powers Hannley,,1700 W Washington St,Room 335,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/POWERS_HANNLEY.gif
-AZ,10,,D,Mr.,Domingo,DeGrazia,,1700 W Washington St,Room 322,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/DEGRAZIA.jpg
-AZ,10,,D,Ms.,Stephanie Stahl,Hamilton,,1700 W Washington St,Room 116,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/STAHL_HAMILTON.jpg
-AZ,11,,R,Mr.,Mark,Finchem,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/FINCHEM.jpg
-AZ,11,,R,Mr.,Bret,Roberts,,1700 W Washington St,Room 344,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/ROBERTS.jpg
-AZ,12,,R,Mr.,Travis W.,Grantham,,1700 W Washington St,Room 204,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GRANTHAM.jpg
-AZ,12,,R,Mr.,Jake,Hoffman,,1700 W Washington St,Room 341,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HOFFMAN.jpg
-AZ,13,,R,Mr.,Timothy M.,Dunn,,1700 W Washington St,Room 114,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/DUNN.jpg
-AZ,13,,R,Ms.,Joanne,Osborne,,1700 W Washington St,Room 112,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/OSBORNE.jpg
-AZ,14,,R,Ms.,Gail,Griffin,,1700 W Washington St,Room 225,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GRIFFIN.gif
-AZ,14,,R,Ms.,Becky A.,Nutt,,1700 W Washington St,Room 205,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/NUTT.png
-AZ,15,,R,Mr.,Steve,Kaiser,,1700 W Washington St,Room 345,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAISER.jpg
-AZ,15,,R,Mr.,Justin,Wilmeth,,1700 W Washington St,Room 344,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg
-AZ,16,,R,Mr.,John,Fillmore,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/FILLMORE.jpg
-AZ,16,,R,Ms.,Jacqueline,Parker,,1700 W Washington St,Room 342,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PARKER.jpg
-AZ,17,,D,Ms.,Jennifer,Pawlik,,1700 W Washington St,Room 118,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/PAWLIK.jpg
-AZ,17,,R,Mr.,Jeff,Weninger,,1700 W Washington St,Room 224,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/WENINGER.gif
-AZ,18,,D,Ms.,Mitzi,Epstein,,1700 W Washington St,Room 125,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/EPSTEIN.jpg
-AZ,18,,D,Ms.,Jennifer,Jermaine,,1700 W Washington St,Room 124,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/JERMAINE.jpg
-AZ,19,,D,Mr.,Diego,Espinoza,,1700 W Washington St,Room 338,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/ESPINOZA.gif
-AZ,19,,D,Mr.,Lorenzo,Sierra,,1700 W Washington St,Room 121,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SIERRA.jpg
-AZ,20,,R,Ms.,Shawnna,Bolick,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BOLICK.jpg
-AZ,20,,D,Ms.,Judy,Schwiebert,,1700 W Washington St,Room 117,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/SCHWIEBERT.jpg
-AZ,21,,R,Mr.,Kevin,Payne,,1700 W Washington St,Room 110,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg
-AZ,21,,R,Ms.,Beverly,Pingerelli,,1700 W Washington St,Room 131,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PINGERELLI.jpg
-AZ,22,,R,Mr.,Frank,Carroll,,1700 W Washington St,Room 111,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/CARROLL.jpg
-AZ,22,,R,Mr.,Ben,Toma,,1700 W Washington St,Room 306,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/TOMA.jpg
-AZ,23,,R,Mr.,Joseph,Chaplik,,1700 W Washington St,Room 310,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CHAPLIK.jpg
-AZ,23,,R,Mr.,John,Kavanagh,,1700 W Washington St,Room 226,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/KAVANAGH.gif
-AZ,24,,D,Ms.,Jennifer,Longdon,,1700 W Washington St,Room 321,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/LONGDON.jpg
-AZ,24,,D,Mr.,Amish,Shah,,1700 W Washington St,Room 123,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHAH.jpg
-AZ,25,,R,Mr.,Russell,Bowers,,1700 W Washington St,Room 223,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BOWERS.gif
-AZ,25,,R,Ms.,Michelle,Udall,,1700 W Washington St,Room 129,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/UDALL.gif
-AZ,26,,D,Ms.,Melody,Hernandez,,1700 W Washington St,Room 318,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_M.jpg
-AZ,26,,D,Ms.,Athena,Salman,,1700 W Washington St,Room 330,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SALMAN.jpg
-AZ,27,,D,Mr.,Reginald,Bolding,Jr.,1700 W Washington St,Room 322,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BOLDING.gif
-AZ,27,,D,Mr.,Diego,Rodriguez,,1700 W Washington St,Room 326,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/RODRIGUEZ.jpg
-AZ,28,,D,Ms.,Kelli,Butler,,1700 W Washington St,Room 119,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/BUTLER.jpg
-AZ,28,,D,Mr.,Aaron,Lieberman,,1700 W Washington St,Room 120,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/LIEBERMAN.jpg
-AZ,29,,D,Mr.,Richard C.,Andrade,,1700 W Washington St,Room 337,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/ANDRADE.gif
-AZ,29,,D,Mr.,Cesar,Chavez,,1700 W Washington St,Room 333,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/CHçVEZ.jpg
-AZ,30,,D,Mr.,Robert,Meza,,1700 W Washington St,Room 339,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/MEZA.jpg
-AZ,30,,D,Ms.,Raquel,Teran,,1700 W Washington St,Room 334,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/TERçN.jpg
 MI,,1,D,Ms.,Stephanie,Chang,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,https://senate.michigan.gov/_images/1st.jpg
 MI,,2,D,Mr.,Adam,Hollier,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,https://senate.michigan.gov/_images/2nd.jpg
 MI,,3,D,Ms.,Sylvia,Santana,,Post Office Box 30036,,Lansing,MI,48909-7536,Senator,https://senate.michigan.gov/_images/3rd.jpg
@@ -6933,8 +6843,7 @@ VT,Windham-6,,D,Mr.,John,Gannon,,68 Hall Rd.,,Wilmington,VT,5363,Representative,
 VT,Windham-3,,D,Ms.,Leslie,Goldman,,115 State St.,,Montpelier,VT,05633-5301,Representative,https://legislature.vermont.gov/Documents/Legislators/Goldman.Leslie.jpg
 VT,Washington-1,,R,Mr.,Kenneth,Goslant,,P.O. Box 348,,Northfield,VT,5663,Representative,https://legislature.vermont.gov/Documents/Legislators/Goslant.Kenneth.jpg
 VT,Washington-7,,D,Ms.,Maxine,Grad,,115 State St.,,Montpelier,VT,05633-5301,Representative,https://legislature.vermont.gov/Documents/Legislators/Grad.Maxine.jpg
-AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
-AZ,,,R,Mr.,Mark,Brnovich,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/Brnovich_Photo.jpg
+AZ,,,D,Ms.,Kris,Mayes,,State of Arizona,2005 N. Central Ave.,Phoenix,AZ,85004-2926,Attorney General,https://www.azag.gov/sites/default/files/inline-images/KrisMayesHeadshot_0.jpg
 AR,,,R,Mrs.,Leslie,Rutledge,,State of Arkansas,"323 Center St., Suite 200",Little Rock,AR,72201,Attorney General,https://www.naag.org/attorney-general/leslie-rutledge/
 CO,,,D,Mr.,Phil,Weiser,,State of Colorado,"1300 Broadway, 10th Floor",Denver,CO,80203,Attorney General,https://coag.gov/app/uploads/2019/06/phil-weiser-pillars-copy.png
 CT,,,D,Mr.,William,Tong,,State of Connecticut,165 Capitol Avenue,Hartford,CT,6106,Attorney General,http://www.naag.org/wp-content/uploads/2020/09/ag-CT-tong2.jpg
@@ -7261,3 +7170,98 @@ CA,,,D,Mr.,Anthony,Rendon,,P.O. Box 94249-0062,,Sacramento,CA,94249-0062,Speaker
 CA,,,R,Mr.,James,Gallagher,,P.O. Box 94249-0003,,Sacramento,CA,94249-0003,Republican Leader,https://www.assembly.ca.gov/sites/assembly.ca.gov/files/styles/large/public/media/AD03_James_Gallagher_Headshot_0.jpg?itok=ijOtImaN
 CA,,,D,Ms.,Toni G.,Atkins,,1021 O Street,Suite 8518,Sacramento,CA,95814-4900,President pro Tempore,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_018_after_09-28-20.jpg
 CA,,,R,Mr.,Brian W.,Jones,,1021 O Street,Suite 7640,Sacramento,CA,95814-4900,Minority Leader,https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg
+AZ,,1,R,Mr.,Ken ,Bennett,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BENNETT.jpg
+AZ,,2,R,Ms.,Shawnna ,Bolick,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BOLICK.png
+AZ,,2,R,Mr.,Steve ,Kaiser, -Resigned-,1700 W Washington St,,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/KAISER.jpg
+AZ,,3,R,Mr.,John ,Kavanagh,,1700 W Washington St,Room 200,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/KAVANAGH.jpg
+AZ,,4,D,Ms.,Christine ,Marsh,,1700 W Washington St,Room 315,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MENDEZ.gif
+AZ,,5,D,Ms.,Lela ,Alston,,1700 W Washington St,Room 315,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/ALSTON.jpg
+AZ,,6,D,Ms.,Theresa ,Hatathlie,,1700 W Washington St,Room 311,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HATATHLIE.jpg
+AZ,,7,R,Ms.,Wendy ,Rogers,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/ROGERS.jpg
+AZ,,8,D,Mr.,Juan ,Mendez,,1700 W Washington St,Room 213,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MENDEZ.gif
+AZ,,9,D,Ms.,Eva ,Burch,,1700 W Washington St,Room 314,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BURCH.jpg
+AZ,,10,R,Mr.,David C.,Farnsworth,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FARNSWORTH.jpg
+AZ,,11,D,Ms.,Catherine ,Miranda,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MIRANDA.jpg
+AZ,,12,D,Ms.,Denise ,Epstein,,1700 W Washington St,Room 213,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/EPSTEIN.jpg
+AZ,,13,R,Mr.,J.D.,Mesnard,,1700 W Washington St,Room 309,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MESNARD.jpg
+AZ,,14,R,Mr.,Warren ,Petersen,,1700 W Washington St,Room 205,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/PETERSEN.jpg
+AZ,,15,R,Mr.,Jake ,Hoffman,,1700 W Washington St,Room 306,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HOFFMAN.jpg
+AZ,,16,R,Mr.,Thomas ,Shope,,1700 W Washington St,Room 310,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHOPE.png
+AZ,,17,R,Ms.,Justine ,Wadsack,,1700 W Washington St,Room 307,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/WADSACK.jpg
+AZ,,18,D,Ms.,Priya ,Sundareshan,,1700 W Washington St,Room 303A,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SUNDARESHAN.jpg
+AZ,,19,R,Mr.,David ,Gowan,,1700 W Washington St,Room 300,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/GOWAN.jpg
+AZ,,20,D,Ms.,Sally Ann,Gonzales,,1700 W Washington St,Room 314,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/GONZALES.gif
+AZ,,21,D,Ms.,Rosanna ,Gabaldon,,1700 W Washington St,Room 305,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/GABALDîN.jpg
+AZ,,22,D,Ms.,Eva ,Diaz,,1700 W Washington St,Room 311,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/DIAZ.jpg
+AZ,,23,D,Mr.,Brian ,Fernandez,,1700 W Washington St,Room 312,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FERNANDEZ.jpg
+AZ,,24,D,Ms.,Anna ,Hernandez,,1700 W Washington St,Room 308,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HERNANDEZ.jpg
+AZ,,25,R,Ms.,Sine ,Kerr,,1700 W Washington St,Room 212,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/KERR.jpg
+AZ,,26,D,Mr.,Flavio ,Bravo,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BRAVO.jpg
+AZ,,26,D,Ms.,Raquel ,Teran,,1700 W Washington St,,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/TERçN.jpg
+AZ,,27,R,Mr.,Anthony ,Kern,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/KERN.gif
+AZ,,28,R,Mr.,Frank ,Carroll,,1700 W Washington St,Room 301,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/CARROLL.jpg
+AZ,,29,R,Ms.,Janae ,Shamp,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHAMP.jpg
+AZ,,30,R,Mr.,Sonny ,Borrelli,,1700 W Washington St,Room 212,Phoenix,AZ,85007,Senator,https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BORRELLI.jpg
+AZ,1,,R,Ms.,Selina ,Bliss,,1700 W Washington St,Room 344,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BLISS.jpg
+AZ,1,,R,Mr.,Quang H.,Nguyen,,1700 W Washington St,Room 226,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/NGUYEN.jpg
+AZ,2,,D,Ms.,Judy ,Schwiebert,,1700 W Washington St,Room 120,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SCHWIEBERT.jpg
+AZ,2,,R,Mr.,Justin ,Wilmeth,,1700 W Washington St,Room 111,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/WILMETH.jpg
+AZ,3,,R,Mr.,Joseph ,Chaplik,,1700 W Washington St,Room 224,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CHAPLIK.jpg
+AZ,3,,R,Mr.,Alexander ,Kolodin,,1700 W Washington St,Room 310,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/KOLODIN.jpg
+AZ,4,,R,Mr.,Matt ,Gress,,1700 W Washington St,Room 112,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GRESS.jpg
+AZ,4,,D,Ms.,Laura ,Terech,,1700 W Washington St,Room 323,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/TERECH.jpg
+AZ,5,,D,Ms.,Jennifer L.,Longdon,Resigned,1700 W Washington St,,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/LONGDON.jpg
+AZ,5,,D,Mr.,Amish ,Shah,,1700 W Washington St,Room 123,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SHAH.jpg
+AZ,6,,D,Ms.,Mae ,Peshlakai,,1700 W Washington St,Room 116,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PESHLAKAI.jpg
+AZ,6,,D,Mr.,Myron ,Tsosie,,1700 W Washington St,Room 339,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/TSOSIE.jpg
+AZ,7,,R,Mr.,David L.,Cook,,1700 W Washington St,Room 313,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/COOK.jpg
+AZ,7,,R,Mr.,David,Marshall,Sr.,1700 W Washington St,Room 316,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/MARSHALL.jpg
+AZ,8,,D,Ms.,Melody ,Hernandez,,1700 W Washington St,Room 321,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HERNANDEZ_M.jpg
+AZ,8,,D,Ms.,Athena ,Salman,Resigned,1700 W Washington St,,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SALMAN.jpg
+AZ,9,,D,Ms.,Lorena ,Austin,,1700 W Washington St,Room 124,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/AUSTIN.jpg
+AZ,9,,D,Mr.,Seth ,Blattman,,1700 W Washington St,Room 125,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BLATTMAN.jpg
+AZ,10,,R,Mr.,Justin ,Heap,,1700 W Washington St,Room 309,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HEAP.jpg
+AZ,10,,R,Ms.,Barbara ,Parker,,1700 W Washington St,Room 308,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PARKER_B.jpg
+AZ,11,,D,Mr.,Oscar ,De Los Santos,,1700 W Washington St,Room 330,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/DE_LOS_SANTOS.jpg
+AZ,11,,D,Mr.,Marcelino ,Quinonez,,1700 W Washington St,Room 318,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/QUI„ONEZ.jpg
+AZ,12,,D,Ms.,Patricia ,Contreras,,1700 W Washington St,Room 126,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CONTRERAS_P.jpg
+AZ,12,,D,Ms.,Stacey ,Travers,,1700 W Washington St,Room 332,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/TRAVERS.jpg
+AZ,13,,R,Ms.,Liz ,Harris,Expelled,1700 W Washington St,,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HARRIS.jpg
+AZ,13,,D,Ms.,Jennifer ,Pawlik,,1700 W Washington St,Room 118,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PAWLIK.jpg
+AZ,13,,R,Ms.,Julie ,Willoughby,,1700 W Washington St,Room 306,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg
+AZ,14,,R,Mr.,Travis ,Grantham,,1700 W Washington St,Room 204,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GRANTHAM.jpg
+AZ,14,,R,Mr.,Laurin ,Hendrix,,1700 W Washington St,Room 312,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HENDRIX.jpg
+AZ,15,,R,Mr.,Neal ,Carter,,1700 W Washington St,Room 130,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CARTER.jpg
+AZ,15,,R,Ms.,Jacqueline ,Parker,,1700 W Washington St,Room 129,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PARKER_J.jpg
+AZ,16,,R,Ms.,Teresa ,Martinez,,1700 W Washington St,Room 207,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/MARTINEZ.jpg
+AZ,16,,D,Mr.,Keith ,Seaman,,1700 W Washington St,Room 119,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SEAMAN.jpg
+AZ,17,,R,Ms.,Rachel ,Jones,,1700 W Washington St,Room 303,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/JONES.jpg
+AZ,17,,R,Mr.,Cory ,McGarr,,1700 W Washington St,Room 304,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/MCGARR.jpg
+AZ,18,,D,Ms.,Nancy ,Gutierrez,,1700 W Washington St,Room 321,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GUTIERREZ.jpg
+AZ,18,,D,Mr.,Christopher ,Mathis,,1700 W Washington St,Room 337,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/MATHIS.jpg
+AZ,19,,R,Mr.,Lupe ,Diaz,,1700 W Washington St,Room 302,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/DIAZ.jpg
+AZ,19,,R,Ms.,Gail ,Griffin,,1700 W Washington St,Room 225,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GRIFFIN.jpg
+AZ,20,,D,Mr.,Andres ,Cano,Resigned,1700 W Washington St,,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CANO.jpg
+AZ,20,,D,Ms.,Alma ,Hernandez,,1700 W Washington St,Room 338,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HERNANDEZ_A.jpg
+AZ,20,,D,Ms.,Betty ,J Villegas,,1700 W Washington St,Room 324,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisimages/nophoto.gif
+AZ,21,,D,Mr.,Consuelo ,Hernandez,,1700 W Washington St,Room 117,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HERNANDEZ_C.jpg
+AZ,21,,D,Ms.,Stephanie ,Stahl Hamilton,,1700 W Washington St,Room 333,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/STAHL_HAMILTON.jpg
+AZ,22,,D,Mr.,Lupe ,Contreras,,1700 W Washington St,Room 320,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CONTRERAS_L.gif
+AZ,22,,D,Ms.,Leezah Elsa ,Sun,,1700 W Washington St,Room 325,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SUN.jpg
+AZ,23,,R,Ms.,Michele ,Pena,,1700 W Washington St,Room 342,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PE„A.jpg
+AZ,23,,D,Ms.,Mariana ,Sandoval,,1700 W Washington St,Room 326,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SANDOVAL.jpg
+AZ,24,,D,Ms.,Lydia ,Hernandez,,1700 W Washington St,Room 334,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/HERNANDEZ_L.jpg
+AZ,24,,D,Ms.,Analise ,Ortiz,,1700 W Washington St,Room 335,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/ORTIZ.jpg
+AZ,25,,R,Mr.,Michael ,Carbone,,1700 W Washington St,Room 341,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CARBONE.jpg
+AZ,25,,R,Mr.,Timothy ,M Dunn,,1700 W Washington St,Room 114,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/DUNN.jpg
+AZ,26,,D,Mr.,Cesar ,Aguilar,,1700 W Washington St,Room 122,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/AGUILAR.jpg
+AZ,26,,D,Mr.,Flavio ,Bravo,Resigned,1700 W Washington St,,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BRAVO.jpg
+AZ,26,,D,Mr.,Quanta ,Crews,,1700 W Washington St,Room 121,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisimages/nophoto.gif
+AZ,27,,R,Mr.,Kevin ,Payne,,1700 W Washington St,Room 110,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PAYNE.jpg
+AZ,27,,R,Mr.,Ben ,Toma,,1700 W Washington St,Room 223,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/TOMA.jpg
+AZ,28,,R,Mr.,David ,Livingston,,1700 W Washington St,Room 222,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/LIVINGSTON.jpg
+AZ,28,,R,Ms.,Beverly ,Pingerelli,,1700 W Washington St,Room 131,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/PINGERELLI.jpg
+AZ,29,,R,Mr.,Steve ,Montenegro,,1700 W Washington St,Room 205,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/MONTENEGRO.jpg
+AZ,29,,R,Mr.,Austin ,Smith,,1700 W Washington St,Room 113,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SMITH.jpg
+AZ,30,,R,Mr.,Leo ,Biasiucci,,1700 W Washington St,Room 208,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BIASIUCCI.jpg
+AZ,30,,R,Mr.,John ,Gillette,,1700 W Washington St,Room 345,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GILLETTE.jpg
