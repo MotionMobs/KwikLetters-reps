@@ -1,5 +1,5 @@
 State,Rep District,Senate District,Party,Prefix,First Name,Last Name,Suffix,Office Street Address,Office Street Address 2,City,State,Zip,Title,Photo URL
-AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://www.nga.org/wp-content/uploads/2019/01/mike-dunleavy-500px.jpg
+AK,,,R,Mr.,Mike,Dunleavy,,State Capitol,P.O. Box 110001,Juneau,AK,99811-0001,Governor,https://gov.alaska.gov/wp-content/uploads/Gov-website-photo.jpg
 AZ,,,D,Ms.,Katie,Hobbs,,Office of the Governor,1700 West Washington St.,Phoenix,AZ,85007,Governor,https://azgovernor.gov/sites/default/files/styles/panopoly_image_original/public/governor-katie-hobbs_0.jpg?itok=r6glxMjv
 AR,,,R,Mr.,Asa,Hutchinson,,State Capitol,"500 Woodlane Street, Room 250",Little Rock,AR,72201,Governor,https://www.nga.org/wp-content/uploads/2019/02/Asa_Hutchinson_400x400.jpg
 CO,,,D,Mr.,Jared,Polis,,136 State Capitol,,Denver,CO,80203-1792,Governor,https://www.nga.org/wp-content/uploads/2019/01/Colorado-Jared-Polis-November-2019.jpg
@@ -2373,66 +2373,6 @@ MI,107,,R,Mr.,John,Damoose,,P.O. Box 30014,,Lansing,MI,48909-7514,Representative
 MI,108,,R,Mr.,Beau,LaFave,,P.O. Box 30014,,Lansing,MI,48909-7514,Representative,"https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/michigan-seal.jpg/:/rs=w:70,h:70,cg:true,m/cr=w:70,h:70,a:cc"
 MI,109,,D,Ms.,Sara,Cambensy,,P.O. Box 30014,,Lansing,MI,48909-7514,Representative,"https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/michigan-seal.jpg/:/rs=w:70,h:70,cg:true,m/cr=w:70,h:70,a:cc"
 MI,110,,R,Mr.,Gregory,Markkanen,,P.O. Box 30014,,Lansing,MI,48909-7514,Representative,"https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/michigan-seal.jpg/:/rs=w:70,h:70,cg:true,m/cr=w:70,h:70,a:cc"
-AK,,A,D,Mr.,Scott,Kawasaki,,State Capitol Room 7,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,B,R,Mr.,Robert,Myers,,State Capitol Room 510,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,C,R,Mr.,Click,Bishop,,State Capitol Room 516,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,D,R,Mr.,David,Wilson,,State Capitol Room 121,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,E,R,Mr.,Mike,Shower,,State Capitol Room 429,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,F,R,Ms.,Shelley,Hughes,,State Capitol Room 30,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,G,R,Ms.,Lora,Reinbold,,State Capitol Room 427,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,H,D,Mr.,Bill,Wielechowski,,State Capitol Room 9,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,I,D,Ms.,Elvi,Gray-Jackson,,State Capitol Room 417,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,J,D,Mr.,Tom,Begich,,State Capitol Room 11,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,K,R,Ms.,Mia,Costello,,State Capitol Room 119,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,L,R,Ms.,Natasha,von Imhof,,State Capitol Room 504,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,M,R,Mr.,Joshua,Revak,,State Capitol Room 125,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,N,R,Mr.,Roger,Holland,,State Capitol Room 115,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,O,R,Mr.,Peter,Micciche,,State Capitol Room 111,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,P,R,Mr.,Gary,Stevens,,State Capitol Room 103,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,Q,D,Mr.,Jesse,Kiehl,,State Capitol Room 419,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,R,R,Mr.,Bert,Stedman,,State Capitol Room 518,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,S,D,Mr.,Lyman,Hoffman,,State Capitol Room 508,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,,T,D,Mr.,Donald,Olson,,State Capitol Room 514,,Jenuea,AK,99801,Senator,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,1,,R,Mr.,Bart,LeBon,,State Capitol Room 415,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,2,,R,Mr.,Steve,Thompson,,State Capitol Room 432,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,3,,R,Mr.,Mike,Prax,,State Capitol Room 114,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,4,,D,Mr.,Grier,Hopkins,,State Capitol Room 434,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,5,,D,Mr.,Adam,Wool,,State Capitol Room 501,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,6,,R,Mr.,Mike,Cronk,,State Capitol Room 112,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,7,,R,Mr.,Christopher,Kurka,,State Capitol Room 420,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,8,,R,Mr.,Kevin,McCabe,,State Capitol Room 430,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,9,,R,Mr.,George,Rauscher,,State Capitol Room 412,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,10,,R,Mr.,David,Eastman,,State Capitol Room 422,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,11,,R,Ms.,DeLena,Johnson,,State Capitol Room 500,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,12,,R,Ms.,Cathy,Tilton,,State Capitol Room 404,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,13,,R,Mr.,Ken,McCarty,,State Capitol Room 428,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,14,,R,Ms.,Kelly,Merrick,,State Capitol Room 511,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,15,,R,Mr.,David,Nelson,,State Capitol Room 13,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,16,,D,Ms.,Ivy,Spohnholz,,State Capitol Room 406,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,17,,D,Mr.,Andy,Josephson,,State Capitol Room 502,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,18,,D,Ms.,Harriet,Drummond,,State Capitol Room 108,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,19,,D,Ms.,Geran,Tarr,,State Capitol Room 128,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,20,,D,Mr.,Zack,Fields,,State Capitol Room 24,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,21,,D,Mr.,Matt,Claman,,State Capitol Room 118,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,22,,R,Ms.,Sara,Rasmussen,,State Capitol Room 418,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,23,,D,Mr.,Chris,Tuck,,State Capitol Room 216,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,24,,R,Mr.,Tom,McKay,,State Capitol Room 110,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,25,,R,Mr.,Calvin,Schrage,,State Capitol Room 104,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,26,,R,Mr.,Laddie,Shaw,,State Capitol Room 426,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,27,,D,Ms.,Liz,Snyder,,State Capitol Room 421,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,28,,R,Mr.,James,Kaufman,,State Capitol Room 405,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,29,,R,Mr.,Ben,Carpenter,,State Capitol Room 400,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,30,,R,Mr.,Ronald,Gillham,,State Capitol Room 409,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,31,,R,Ms.,Sarah,Vance,,State Capitol Room 424,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,32,,R,Ms.,Louise,Stutes,,State Capitol Room 208,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,33,,D,Ms.,Sara,Hannan,,State Capitol Room 204,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,34,,D,Ms.,Andi,Story,,State Capitol Room 403,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,35,,D,Mr.,Jonathan,Kreiss-Tomkins,,State Capitol Room 411,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,36,,I,Mr.,Dan,Ortiz,,State Capitol Room 513,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,37,,I,Mr.,Bryce,Edgmon,,State Capitol Room 410,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,38,,D,Ms.,Tiffany,Zulkosky,,State Capitol Room 416,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,39,,D,Mr.,Neal,Foster,,State Capitol Room 505,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
-AK,40,,I,Mr.,Josiah,Patkotak,,State Capitol Room 102,,Juneau,AK,99801,Representative,https://img1.wsimg.com/isteam/ip/36ca06a3-2a57-4781-9e17-89419828f55d/AK-State-Seal.png
 CO,,1,R,Mr.,Jerry,Sonnenberg,,200 E Colfax,Room 346,Denver,CO,80203,Senator,https://leg.colorado.gov/sites/default/files/styles/width_300/public/2021a_sonnenberg%2C%20jerry.jpg?itok=EDm7UNBa
 CO,,2,R,Mr.,Dennis,Hisey,,200 E Colfax,Room 346,Denver,CO,80203,Senator,https://leg.colorado.gov/sites/default/files/styles/width_300/public/2021a_hisey%2C%20dennis.jpg?itok=UnJFfzdM
 CO,,3,D,Mr.,Leroy,Garcia,,200 E Colfax,Room 272,Denver,CO,80203,Senator,https://leg.colorado.gov/sites/default/files/styles/width_300/public/2021a_sen_garcia.jpg?itok=UwhnnXRW
@@ -7265,3 +7205,63 @@ AZ,29,,R,Mr.,Steve ,Montenegro,,1700 W Washington St,Room 205,Phoenix,AZ,85007,R
 AZ,29,,R,Mr.,Austin ,Smith,,1700 W Washington St,Room 113,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/SMITH.jpg
 AZ,30,,R,Mr.,Leo ,Biasiucci,,1700 W Washington St,Room 208,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BIASIUCCI.jpg
 AZ,30,,R,Mr.,John ,Gillette,,1700 W Washington St,Room 345,Phoenix,AZ,85007,Representative,https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GILLETTE.jpg
+AK,,A,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,B,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,C,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,D,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,E,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,F,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,G,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,H,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,I,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,J,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,K,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,L,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,M,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,N,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,O,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,P,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,Q,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,R,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,S,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,,T,,,Data not Available,,,,,Jenuea,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,1,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,2,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,3,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,4,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,5,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,6,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,7,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,8,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,9,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,10,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,11,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,12,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,13,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,14,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,15,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,16,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,17,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,18,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,19,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,20,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,21,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,22,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,23,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,24,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,25,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,26,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,27,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,28,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,29,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,30,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,31,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,32,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,33,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,34,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,35,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,36,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,37,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,38,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,39,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
+AK,40,,,,Data not Available,,,,,Juneau,AK,99801,Contact Support@KwikLetter.com,https://akleg.gov/images/logo.png
